@@ -51,12 +51,12 @@ public class CCADetailParser extends TikaExtractedTextBasedParser {
 			String extractedText = getExtractedText(tstream, parsedMetadata);
 			
 			addExtractedTextDetail(extractedText, metadata);
-			addExtractedTextNER(extractedText, metadata);
 		}
 		
 		try (ByteArrayInputStream tstream = new ByteArrayInputStream(bytes)) {
 			String ttrText = TTRAnalysis.getRelevantText(tstream);
 			addTTRTextDetail(ttrText, metadata);
+			addTTRTextNER(ttrText, metadata);
 		}
 					
 		addMetaDataSizeDetail(parsedMetadata.toString(), metadata);
@@ -78,7 +78,7 @@ public class CCADetailParser extends TikaExtractedTextBasedParser {
 		metadata.add("tika_extractedTextSize", "" + sizeInByte);
 	}
 	
-	private void addExtractedTextNER(String extractedText, Metadata metadata) {
+	private void addTTRTextNER(String extractedText, Metadata metadata) {
 		Map<String, Set<String>> neMap = getEntitiesUsingNER(extractedText);
 		for(String key : neMap.keySet()) {
 			String metadataKey = "ner_" + key;
@@ -145,7 +145,7 @@ public class CCADetailParser extends TikaExtractedTextBasedParser {
 			if (splitByDot.length > 0) {
 				String[] splitFirst = splitByDot[0].split(splitRegex);
 				for(String s : splitFirst) {
-					s = s.trim();
+					s = s.trim().toLowerCase();
 					if (s.length() > 0) {
 						keywords.add(s);
 					}
@@ -154,7 +154,7 @@ public class CCADetailParser extends TikaExtractedTextBasedParser {
 				for(int i = 1; i < splitByDot.length; i++) {
 					String[] split = splitByDot[i].split(splitRegex);
 					for(int j = 1; j < split.length; j++) {
-						String s = split[j].trim();
+						String s = split[j].trim().toLowerCase();
 						if (s.length() > 0) {
 							keywords.add(s);
 						}
@@ -176,7 +176,7 @@ public class CCADetailParser extends TikaExtractedTextBasedParser {
 					key = kv[1];
 				}
 				
-				key = key.trim();
+				key = key.trim().toLowerCase();
 				if (key.length() > 0) {
 					keywords.add(key);
 				}
