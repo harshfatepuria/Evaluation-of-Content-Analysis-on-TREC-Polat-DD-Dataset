@@ -8,10 +8,6 @@ import java.nio.file.Paths;
 import java.util.function.BiConsumer;
 
 public class FilePathSupplier implements PathSupplier {
-
-	public FilePathSupplier() {
-		
-	}
 	
 	public FilePathSupplier(String baseFolder) {
 		setBaseFolder(baseFolder);
