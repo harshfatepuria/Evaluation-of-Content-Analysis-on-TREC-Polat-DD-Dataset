@@ -30,6 +30,10 @@ import shared.TikaExtractedTextBasedParser;
 
 public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -6824313974934932644L;
 	private boolean showIndividualNER = true;
 	private Integer minThreshold = 6;
 	
@@ -82,7 +86,7 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 	}
 	
 	private void extractNERAgreement(Metadata metadata, Map<String, Set<String>>... maps) {
-		Set[] flattenSets = new Set[maps.length];
+		Set<String>[] flattenSets = new Set[maps.length];
 		for(int i = 0;i < maps.length; i++) {
 			flattenSets[i] = flattenSet(maps[i]);
 		}

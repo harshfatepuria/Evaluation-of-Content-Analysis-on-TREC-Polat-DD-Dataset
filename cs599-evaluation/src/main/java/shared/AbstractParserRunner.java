@@ -2,12 +2,10 @@ package shared;
 
 import java.io.File;
 import java.io.IOException;
-import java.net.URI;
-import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.BiConsumer;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -26,10 +24,9 @@ public abstract class AbstractParserRunner {
 	private boolean overwriteResult = false;
 	private Long fileSizeLimit = Long.valueOf(2*1024*1024);
 	private boolean cborFormat;
+	private PathSupplier pathSupplier;
 	
 	private Gson gson = new GsonBuilder().setPrettyPrinting().create();
-	
-	private URI baseFolderUri;
 	
 	/**
 	 * Run the parser to all documents in the folder according to setting
@@ -65,7 +62,7 @@ public abstract class AbstractParserRunner {
 	        }
 		});
 		
-		Files.walk(Paths.get(baseFolder)).filter(Files::isRegularFile).forEach(path -> {
+		BiConsumer<Path, String> operator = (path, relativePath) -> {
 			if (!isAllowProcessing(path)) {
 				return;
 			}
@@ -74,7 +71,6 @@ public abstract class AbstractParserRunner {
 				return;
 			}
 			
-			String relativePath = getRelativePath(path);
 			CborDocument cborDoc = null;
 			
 			if (isDocumentsInCborFormat()) {
@@ -133,7 +129,9 @@ public abstract class AbstractParserRunner {
 			}
 			
 			count[0]++;
-		});
+		};
+		
+		getPathSupplier().applyWithAllPath(operator);
 		
 		if (fileMarker != null) {
 			fileMarker.closeWriter();
@@ -205,9 +203,17 @@ public abstract class AbstractParserRunner {
 	 */
 	public void setBaseFolder(String baseFolder) {
 		this.baseFolder = baseFolder;
-		baseFolderUri = Paths.get(baseFolder).toUri();
+		setPathSupplier(new FilePathSupplier(baseFolder));	
 	}
 	
+	public PathSupplier getPathSupplier() {
+		return pathSupplier;
+	}
+
+	public void setPathSupplier(PathSupplier pathSupplier) {
+		this.pathSupplier = pathSupplier;
+	}
+
 	/**
 	 * Get the base folder to keep the result files
 	 * @return
@@ -281,19 +287,6 @@ public abstract class AbstractParserRunner {
 	 */
 	protected boolean isAllowProcessing(Path path) {
 		return true;
-	}
-	
-//	protected InputStream getInputStream(Path path) throws FileNotFoundException {
-//		return new FileInputStream(path.toFile());
-//	}
-
-	/**
-	 * Get relative path of a document from specified base folder
-	 * @param path
-	 * @return relative path of a document
-	 */
-	protected String getRelativePath(Path path) {
-		return baseFolderUri.relativize(path.toUri()).toString();
 	}
 
 	protected Gson getGson() {
