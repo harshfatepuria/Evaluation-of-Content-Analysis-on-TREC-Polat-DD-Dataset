@@ -71,7 +71,7 @@ public class NERAgreementParserRunner extends AbstractParserRunner {
 		String markerFile = "C:\\cs599\\a3\\ner\\marker.txt";
 		String jsonFolder = "C:\\cs599\\polar-json\\byType";
 		
-		TypeJsonPathSupplier pathSupplier = new TypeJsonPathSupplier(baseFolder, jsonFolder, 5);
+		TypeJsonPathSupplier pathSupplier = new TypeJsonPathSupplier(baseFolder, jsonFolder, 1500);
 		NERAgreementParserRunner runner = new NERAgreementParserRunner(baseFolder, resultFolder, markerFile);
 		runner.setPathSupplier(pathSupplier);
 		runner.getParser().setMinThreshold(6);
