@@ -1,11 +1,16 @@
 package shared;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.TreeMap;
 import java.util.function.BiConsumer;
+
+import org.apache.tika.metadata.Metadata;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -173,6 +178,22 @@ public abstract class AbstractParserRunner {
 	 */
 	protected abstract boolean parse(Path path, String relativePath, File resultFile, CborDocument cborDoc) throws Exception;
 		
+	protected void writeJson(File resultFile, Metadata metadata) throws FileNotFoundException {
+		String json = getGson().toJson(metadata);
+		
+		SortedMetadata sortedMetadata = getGson().fromJson(json, SortedMetadata.class);
+		String sortedJson = getGson().toJson(sortedMetadata);
+		
+		resultFile.getParentFile().mkdirs();
+		try(PrintWriter out = new PrintWriter(resultFile)) {
+			out.print(sortedJson);
+		}
+	}
+	
+	private class SortedMetadata {
+		TreeMap<String, String[]> metadata;
+	}
+	
 	/**
 	 * Get the file size limit in bytes (default: 2MB)
 	 * @return file size limit in bytes

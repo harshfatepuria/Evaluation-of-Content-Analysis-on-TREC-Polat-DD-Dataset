@@ -1,4 +1,4 @@
-package ccaparser;
+package ner;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -16,30 +16,33 @@ import org.xml.sax.SAXException;
 
 import cbor.CborDocument;
 import shared.AbstractParserRunner;
+import shared.TypeJsonPathSupplier;
 
-public class CCADetailParserRunner extends AbstractParserRunner {
-	
-	public CCADetailParserRunner(String baseFolder, String resultFolder) throws Exception {
+public class NERAgreementParserRunner extends AbstractParserRunner {
+
+	public NERAgreementParserRunner(String baseFolder, String resultFolder) throws Exception {
 		this(baseFolder, resultFolder, null);
 	}
 	
-	public CCADetailParserRunner(String baseFolder, String resultFolder, String markerFile) throws Exception {
+	public NERAgreementParserRunner(String baseFolder, String resultFolder, String markerFile) throws Exception {
 		setBaseFolder(baseFolder);
 		setResultFolder(resultFolder);
 		setMarkerFile(markerFile);
 		initializeParser();
 	}
 	
-	CCADetailParser parser;
+	CompositeNERAgreementParser parser;
 	private void initializeParser() throws TikaException, IOException, SAXException {
-//		TikaConfig config = new TikaConfig(this.getClass().getResourceAsStream("/config/tika-config.xml"));
-//		tika = new Tika(config);
-		parser = new CCADetailParser();
+		parser = new CompositeNERAgreementParser();
 	}
 	
 	@Override
 	protected File getResultFile(String relativePath) {
-		return super.getResultFile(relativePath, ".cca");
+		return super.getResultFile(relativePath, ".ner");
+	}
+	
+	public CompositeNERAgreementParser getParser() {
+		return parser;
 	}
 	
 	@Override
@@ -58,25 +61,23 @@ public class CCADetailParserRunner extends AbstractParserRunner {
 		writeJson(resultFile, metadata);
 		
 		return true;
-	}	
+	}
 	
 	public static void main(String[] args) throws Exception {
-		System.out.println("Run CCAParserRunner");
+		System.out.println("Run NERAgreementParserRunner");
 		
-//		String baseFolder = "C:\\cs599\\commoncrawl\\572-team6-acadis-plain\\dk";
-		String baseFolder = "C:\\cs599\\commoncrawl\\";
-//		String baseFolder = "C:\\cs599\\commoncrawl\\572-team41-ade\\edu\\colorado\\sidads\\098ffee9fb503a52df4a814367c6171565480a95";
-//		String baseFolder = "C:\\cs599\\commoncrawl\\572-team41-ade\\edu\\columbia\\ciesin\\sedac\\12ed613323d001a1c7d07f1c3cbd2b0696854fe9";
-		String resultFolder = "C:\\cs599\\a3\\cbor_detail\\result";
-		String markerFile = "C:\\cs599\\a3\\cbor_detail\\marker.txt";
+		String baseFolder = "C:\\cs599\\polar-fulldump\\";
+		String resultFolder = "C:\\cs599\\a3\\ner\\result";
+		String markerFile = "C:\\cs599\\a3\\ner\\marker.txt";
+		String jsonFolder = "C:\\cs599\\polar-json\\byType";
 		
-		CCADetailParserRunner runner = new CCADetailParserRunner(baseFolder, resultFolder, markerFile);
-		runner.setDocumentsInCborFormat(true);
-//		runner.setFileSizeLimit(15l * 1024 * 1024);
+		TypeJsonPathSupplier pathSupplier = new TypeJsonPathSupplier(baseFolder, jsonFolder, 5);
+		NERAgreementParserRunner runner = new NERAgreementParserRunner(baseFolder, resultFolder, markerFile);
+		runner.setPathSupplier(pathSupplier);
+		runner.getParser().setMinThreshold(6);
+		
 		List<String> successPath = runner.runParser();
 		System.out.println("No of files: " + successPath.size());
 	}
-	
 
-	
 }
