@@ -1,6 +1,5 @@
 package ner;
 
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -12,13 +11,14 @@ import java.util.SortedSet;
 import java.util.TreeSet;
 import java.util.stream.Collectors;
 
+import org.apache.tika.Tika;
+import org.apache.tika.config.TikaConfig;
 import org.apache.tika.exception.TikaException;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.parser.ParseContext;
 import org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser;
 import org.apache.tika.parser.ner.nltk.NLTKNERecogniser;
 import org.apache.tika.parser.ner.opennlp.OpenNLPNERecogniser;
-import org.apache.tika.sax.ToHTMLContentHandler;
 import org.apache.tika.sax.XHTMLContentHandler;
 import org.xml.sax.ContentHandler;
 import org.xml.sax.SAXException;
@@ -26,10 +26,17 @@ import org.xml.sax.SAXException;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
+import TTR.TTRAnalysis;
 import shared.TikaExtractedTextBasedParser;
 
 public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 
+	public CompositeNERAgreementParser() throws TikaException, IOException, SAXException {
+		TikaConfig tikaConfig = new TikaConfig(this.getClass().getResourceAsStream("/config/tika-config.xml"));
+		Tika tika = new Tika(tikaConfig);
+		setTika(tika);
+	}
+	
 	/**
 	 * 
 	 */
@@ -56,25 +63,42 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 	public void parse(InputStream inputStream, ContentHandler contentHandler, Metadata metadata,
 			ParseContext parseContext) throws IOException, SAXException, TikaException {
 
-		String text = getParsedText(inputStream, metadata);
-
-		Map<String, Set<String>> namesNLTK = getEntitiesUsingNLTK(text);
-		Map<String, Set<String>> namesOpenNLP = getEntitiesUsingOpenNLP(text);
-		Map<String, Set<String>> namesCoreNLP = getEntitiesUsingCoreNLP(text);
-		
-		if (isShowIndividualNER()) {
-			putToMetadata(namesNLTK, metadata, "NLTK_");
-			putToMetadata(namesOpenNLP, metadata, "OpenNLP_");
-			putToMetadata(namesCoreNLP, metadata, "CoreNLP_");
+		String text = "";
+//		String text = TTRAnalysis.getRelevantText(inputStream, metadata).trim();
+		try {
+			text = getParsedText(inputStream, metadata).trim();
+		}
+		catch (Exception e) {
+			return;
 		}
 		
-		extractNERAgreement(metadata, namesNLTK, namesOpenNLP, namesCoreNLP);
+		if (text.length() > 0) {
+			Map<String, Set<String>> namesNLTK = null;
+			Map<String, Set<String>> namesOpenNLP = null;
+			Map<String, Set<String>> namesCoreNLP = null;
+			
+			namesNLTK = getEntitiesUsingNLTK(text);
+			namesOpenNLP = getEntitiesUsingOpenNLP(text);
+			namesCoreNLP = getEntitiesUsingCoreNLP(text);
+			
+			if (isShowIndividualNER()) {
+				putToMetadata(namesNLTK, metadata, "NLTK_");
+				putToMetadata(namesOpenNLP, metadata, "OpenNLP_");
+				putToMetadata(namesCoreNLP, metadata, "CoreNLP_");
+			}
+			
+			extractNERAgreement(metadata, namesNLTK, namesOpenNLP, namesCoreNLP);
+		}
 		
 		XHTMLContentHandler xhtml = new XHTMLContentHandler(contentHandler, metadata);
-		extractOutput(text.trim(), xhtml);
+		extractOutput(text, xhtml);
 	}
 	
 	private void putToMetadata(Map<String, Set<String>> names, Metadata metadata, String prefix) {
+		if (names == null) {
+			return;
+		}
+		
 		for (Map.Entry<String, Set<String>> entry : names.entrySet()) {
 			if (entry.getValue() != null) {
 				String mdKey = "NER_" + prefix + entry.getKey();
@@ -111,9 +135,11 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 	private Set<String> flattenSet(Map<String, Set<String>> names) {
 		SortedSet<String> res = new TreeSet<>();
 		
-		for(Set<String> set : names.values()) {
-			for (String name : set) {
-				res.add(name);
+		if (names != null) {
+			for(Set<String> set : names.values()) {
+				for (String name : set) {
+					res.add(name);
+				}
 			}
 		}
 		
@@ -209,8 +235,9 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 	
 	public static void main(String[] args) throws IOException, TikaException, SAXException {
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
-		
 		CompositeNERAgreementParser parser = new CompositeNERAgreementParser();
+		
+		/*
 		parser.setShowIndividualNER(true);
 		
 		Metadata metadata = new Metadata();
@@ -219,13 +246,14 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 		}
 		
 		System.out.println(gson.toJson(metadata));
+		*/
 		
-//		String text = tika.parseToString(Paths.get("C:\\cs599\\hawking.html"));
-//		Map<String, Set<String>> map;
-//		
-//		map = parser.getEntitiesUsingNLTK(text);
-//		System.out.println("NLTK");
-//		System.out.println(gson.toJson(map));
+		String text = TTRAnalysis.getRelevantText("C:\\cs599\\hawking.html");
+		Map<String, Set<String>> map;
+		
+		map = parser.getEntitiesUsingNLTK(text);
+		System.out.println("NLTK");
+		System.out.println(gson.toJson(map));
 //		
 //		map = parser.getEntitiesUsingCoreNLP(text);
 //		System.out.println("\n\nCoreNLP");

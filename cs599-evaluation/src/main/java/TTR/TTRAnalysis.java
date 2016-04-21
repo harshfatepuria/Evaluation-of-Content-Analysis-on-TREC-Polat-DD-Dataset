@@ -18,18 +18,17 @@ import java.util.regex.Pattern;
 
 public class TTRAnalysis
 {
-	public static String parseBodyToHTML(String filePath) throws IOException, SAXException, TikaException {
+	public static String parseBodyToHTML(String filePath, Metadata metadata) throws IOException, SAXException, TikaException {
 		try (InputStream stream =new FileInputStream(new File(filePath))) {
-			return parseBodyToHTML(stream);
+			return parseBodyToHTML(stream, metadata);
 		}
 	}
 	
-	public static String parseBodyToHTML(InputStream stream) throws IOException, SAXException, TikaException {
+	public static String parseBodyToHTML(InputStream stream, Metadata metadata) throws IOException, SAXException, TikaException {
 //	    ContentHandler handler = new BodyContentHandler(new ToXMLContentHandler());
 	    ContentHandler handler = new ToHTMLContentHandler();
 		 
 	    AutoDetectParser parser = new AutoDetectParser();
-	    Metadata metadata = new Metadata();
 	    
 	    parser.parse(stream, handler, metadata);
 	    return handler.toString();
@@ -64,18 +63,27 @@ public class TTRAnalysis
 	}
 	
 	public static String getRelevantText(String filePath) throws IOException, SAXException, TikaException {
+		return getRelevantText(filePath, new Metadata());
+	}
+	
+	
+	public static String getRelevantText(String filePath, Metadata metadata) throws IOException, SAXException, TikaException {
 		try (InputStream stream =new FileInputStream(new File(filePath))) {
-			return getRelevantText(stream);
+			return getRelevantText(stream, metadata);
 		}
 	}
 	
-	public static String getRelevantText(InputStream stream) throws IOException, SAXException, TikaException
+	public static String getRelevantText(InputStream stream) throws IOException, SAXException, TikaException {
+		return getRelevantText(stream, new Metadata());
+	}
+	
+	public static String getRelevantText(InputStream stream, Metadata metadata) throws IOException, SAXException, TikaException
 	{
 		int i,j;
 		float total=0,avg=0;
 		float TTRArray[];
 		StringBuilder builder = new StringBuilder();
-		String s=parseBodyToHTML(stream);
+		String s=parseBodyToHTML(stream, metadata);
 		s=s.trim();
 		
 		String[] str_array = s.split("\n");

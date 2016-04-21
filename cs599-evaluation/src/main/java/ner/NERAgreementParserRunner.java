@@ -7,6 +7,8 @@ import java.io.InputStream;
 import java.nio.file.Path;
 import java.util.List;
 
+import org.apache.tika.Tika;
+import org.apache.tika.config.TikaConfig;
 import org.apache.tika.exception.TikaException;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.parser.ParseContext;
@@ -54,6 +56,9 @@ public class NERAgreementParserRunner extends AbstractParserRunner {
 		
 		try(InputStream stream = cborDoc == null ? new FileInputStream(path.toFile()) : cborDoc.getInputStream()){
 			parser.parse(stream, handler, metadata, context);
+		} catch (Exception e) {
+			e.printStackTrace();
+			return false;
 		}
 		
 		metadata.add("filePath", relativePath);
@@ -75,6 +80,7 @@ public class NERAgreementParserRunner extends AbstractParserRunner {
 		NERAgreementParserRunner runner = new NERAgreementParserRunner(baseFolder, resultFolder, markerFile);
 		runner.setPathSupplier(pathSupplier);
 		runner.getParser().setMinThreshold(6);
+//		runner.setFileSizeLimit(1024*1024l);
 		
 		List<String> successPath = runner.runParser();
 		System.out.println("No of files: " + successPath.size());
