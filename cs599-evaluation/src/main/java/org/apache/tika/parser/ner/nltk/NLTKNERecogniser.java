@@ -45,7 +45,7 @@ public class NLTKNERecogniser implements NERecogniser {
 
     private static final Logger LOG = LoggerFactory.getLogger(NLTKNERecogniser.class);
     private static boolean available = false;
-    private static final String NLTK_REST_HOST = "http://localhost:8881";
+    private static final String NLTK_REST_HOST = "http://localhost:8888";
     private String restHostUrlStr;
      /**
      * some common entities identified by NLTK
