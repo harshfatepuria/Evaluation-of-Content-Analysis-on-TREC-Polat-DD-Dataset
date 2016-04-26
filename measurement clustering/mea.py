@@ -30,6 +30,8 @@ Flow of this program (IMPORTANT that you read this in order to build all the req
 		and a new measurement extractor model developed as a part of the previous project- Scientific Content Enrichment. 
 		(See https://github.com/harshfatepuria/Scientific-Content-Enrichment-in-the-Text-Retrieval-Conference-TREC-Polar-Dynamic-Domain-Dataset/tree/master/cs599-content-enrichment/src/main/java/measurement)
 
+	iv. This Program prepares the files for D3 visualizations- Circle Packing (Mike Bostok's Library; see- http://bl.ocks.org/mbostock/4063530 )
+
 For queries/ comments/ suggestions/ doubts, contact the collaborators of the project:
 Rahul Agrawal(rahulagr@usc.edu), Harsh Fatepuria(fatepuri@usc.edu), Warut Roadrungwasinkul(roadrung@usc.edu)
 Grad Students, Dept. of CSE, University of Southern California
@@ -141,7 +143,6 @@ keys=json.dumps(meaDomain, sort_keys=True)
 op.write(keys)
 op.close()
 '''
-#print "\nMEA Domain Clustered Data:\n-------------------------\n"#,meaDomain
 flare={}
 flare["name"]="Measurement Domain Cluster"
 flare["children"]=[]
@@ -169,7 +170,6 @@ op= open("meaMimeOutputJSON.json","w")
 keys=json.dumps(meaMime, sort_keys=True)
 op.write(str(keys))
 op.close()
-print "\nMEA MIME Type Clustered Data:\n----------------------------\n"#, meaMime,"\n"
 '''
 flare={}
 flare["name"]="Measurement MIME Cluster"
