@@ -2,6 +2,7 @@ package ner;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -17,6 +18,7 @@ import org.apache.tika.exception.TikaException;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.parser.ParseContext;
 import org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser;
+import org.apache.tika.parser.ner.grobidquantity.GrobidQuantityRecogniser;
 import org.apache.tika.parser.ner.nltk.NLTKNERecogniser;
 import org.apache.tika.parser.ner.opennlp.OpenNLPNERecogniser;
 import org.apache.tika.sax.XHTMLContentHandler;
@@ -248,12 +250,35 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 		System.out.println(gson.toJson(metadata));
 		*/
 		
-		String text = TTRAnalysis.getRelevantText("C:\\cs599\\hawking.html");
-		Map<String, Set<String>> map;
 		
-		map = parser.getEntitiesUsingNLTK(text);
-		System.out.println("NLTK");
-		System.out.println(gson.toJson(map));
+		
+		
+//		String text = TTRAnalysis.getRelevantText("/Users/harshfatepuria/Desktop/599/HW3/test.html");
+//		Map<String, Set<String>> map;
+//		
+//		map = parser.getEntitiesUsingNLTK(text);
+//		System.out.println("NLTK");
+//		System.out.println(gson.toJson(map));
+		
+		
+		String s = TTRAnalysis.getRelevantText("/Users/harshfatepuria/Desktop/Internship_CoverLetter.docx");
+		s=s.trim();
+		int i;
+		String[] str_array = s.split("\n");
+		
+		
+		for(i=0; i<str_array.length; i++)
+		{
+			System.out.println();
+			System.out.println(str_array[i]);
+			GrobidQuantityRecogniser obj = new GrobidQuantityRecogniser();
+			obj.recognise(str_array[i]);
+		}
+		
+		
+		
+		
+		
 //		
 //		map = parser.getEntitiesUsingCoreNLP(text);
 //		System.out.println("\n\nCoreNLP");
