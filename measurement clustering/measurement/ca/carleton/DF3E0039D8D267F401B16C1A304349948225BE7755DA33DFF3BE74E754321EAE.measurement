@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/DF3E0039D8D267F401B16C1A304349948225BE7755DA33DFF3BE74E754321EAE"
+    ],
+    "measurement_value": [
+      "5057712.0",
+      "4",
+      "1",
+      "1",
+      "1",
+      "20",
+      "1",
+      "5057712.0"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "degrees",
+      "season",
+      "decade",
+      "year",
+      "day",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "5057712.0 hour",
+      "4 year",
+      "1 degrees",
+      "1 season",
+      "1 decade",
+      "20 year",
+      "1 day",
+      "5057712.0 hour"
+    ]
+  }
+}

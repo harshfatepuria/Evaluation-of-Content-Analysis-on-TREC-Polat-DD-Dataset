@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/66F596E90A6E5C96A7ACBF63935B06C01AFC23CF7DB6CE03F9FE6ABECA5473B4"
+    ],
+    "measurement_value": [
+      "4",
+      "4",
+      "3",
+      "100001.0",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4 year",
+      "4 year",
+      "3 year",
+      "100001.0 year",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

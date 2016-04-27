@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/itk/www/D5464315F52CA7AEC3C49EFD723BC4770C6B7F5027932A1917A47FC78EA8B4AC"
+    ],
+    "measurement_value": [
+      "2",
+      "10",
+      "3",
+      "1",
+      "9000",
+      "900",
+      "10.0"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "decade",
+      "kilometer",
+      "kilometer",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "10 year",
+      "3 year",
+      "1 decade",
+      "9000 kilometer",
+      "900 kilometer",
+      "10.0 year"
+    ]
+  }
+}

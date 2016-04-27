@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/3E1A97733A45F59AA9008DB3445420CF66A5F0961B4E8A674239B72C005C2763"
+    ],
+    "measurement_value": [
+      "6",
+      "501.0",
+      "12",
+      "39",
+      "3",
+      "1",
+      "501.0",
+      "90.9",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "hour",
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "hour",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "6 week",
+      "501.0 hour",
+      "12 year",
+      "39 percent",
+      "3 percent",
+      "1 year",
+      "501.0 hour",
+      "90.9 hour",
+      "1 week"
+    ]
+  }
+}

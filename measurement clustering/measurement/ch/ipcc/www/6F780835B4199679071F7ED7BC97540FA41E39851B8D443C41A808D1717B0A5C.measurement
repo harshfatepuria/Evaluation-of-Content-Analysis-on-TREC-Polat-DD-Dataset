@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/6F780835B4199679071F7ED7BC97540FA41E39851B8D443C41A808D1717B0A5C"
+    ],
+    "measurement_value": [
+      "1022",
+      "20",
+      "700",
+      "40",
+      "0.5",
+      "0.06",
+      "0.04",
+      "3000",
+      "300",
+      "500"
+    ],
+    "measurement_unit": [
+      "joule",
+      "century",
+      "meter",
+      "year",
+      "century",
+      "meter",
+      "meter",
+      "meter",
+      "meter",
+      "meter"
+    ],
+    "measurement_extractedText": [
+      "1022 joule",
+      "20 century",
+      "700 meter",
+      "40 year",
+      "0.5 century",
+      "0.06 meter",
+      "0.04 meter",
+      "3000 meter",
+      "300 meter",
+      "500 meter"
+    ]
+  }
+}

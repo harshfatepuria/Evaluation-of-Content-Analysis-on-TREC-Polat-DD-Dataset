@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/53BFB6FB47FC90E500DF3BC807E15AABDD913F647AD8F43B6ECF2DB4B16AFF5E"
+    ],
+    "measurement_value": [
+      "2",
+      "10",
+      "1",
+      "2",
+      "105000",
+      "2",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "day",
+      "year",
+      "kilometer",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "10 year",
+      "1 day",
+      "2 year",
+      "105000 kilometer",
+      "2 year",
+      "2 year",
+      "1 week"
+    ]
+  }
+}

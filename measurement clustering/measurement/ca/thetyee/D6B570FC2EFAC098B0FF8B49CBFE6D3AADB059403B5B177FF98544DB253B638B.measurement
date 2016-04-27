@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/D6B570FC2EFAC098B0FF8B49CBFE6D3AADB059403B5B177FF98544DB253B638B"
+    ],
+    "measurement_value": [
+      "275000",
+      "800",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "kilometer",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "275000 kilometer",
+      "800 kilometer",
+      "10 year",
+      "1 week"
+    ]
+  }
+}

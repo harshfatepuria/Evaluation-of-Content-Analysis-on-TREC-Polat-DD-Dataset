@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ethz/iac/www/E20CA53DBD177AADA7B3C49463EB16BA37CE810E74C01FCBF7DFBD519E4931AD"
+    ],
+    "measurement_value": [
+      "15",
+      "20",
+      "2",
+      "2",
+      "21.0",
+      "2",
+      "2",
+      "50",
+      "2",
+      "20",
+      "2.0",
+      "20",
+      "20"
+    ],
+    "measurement_unit": [
+      "year",
+      "minute",
+      "degrees",
+      "degrees",
+      "century",
+      "degrees",
+      "degrees",
+      "year",
+      "degrees",
+      "minute",
+      "degrees",
+      "minute",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "15 year",
+      "20 minute",
+      "2 degrees",
+      "2 degrees",
+      "21.0 century",
+      "2 degrees",
+      "2 degrees",
+      "50 year",
+      "2 degrees",
+      "20 minute",
+      "2.0 degrees",
+      "20 minute",
+      "20 minute"
+    ]
+  }
+}

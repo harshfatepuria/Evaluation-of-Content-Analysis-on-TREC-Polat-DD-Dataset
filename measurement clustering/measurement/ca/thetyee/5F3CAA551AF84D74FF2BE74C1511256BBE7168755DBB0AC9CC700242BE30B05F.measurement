@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/5F3CAA551AF84D74FF2BE74C1511256BBE7168755DBB0AC9CC700242BE30B05F"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "40",
+      "11.0",
+      "87",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "decade",
+      "year",
+      "day",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "1 decade",
+      "40 year",
+      "11.0 day",
+      "87 percent",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/41518C9F23EC3C3B982C499D16CF4C145FB05080E40E6C826918E1D10310953B"
+    ],
+    "measurement_value": [
+      "1",
+      "41.0",
+      "13",
+      "41.0",
+      "12000001",
+      "2",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "day",
+      "year",
+      "day",
+      "day",
+      "week",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "41.0 day",
+      "13 year",
+      "41.0 day",
+      "12000001 day",
+      "2 week",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/A792A324AA20EE1E17FBDA6A7F33FC2C66BEF7DC4BDB4A71EB642C57447C04C4"
+    ],
+    "measurement_value": [
+      "3",
+      "3.0",
+      "20",
+      "8"
+    ],
+    "measurement_unit": [
+      "decade",
+      "year",
+      "minute",
+      "century"
+    ],
+    "measurement_extractedText": [
+      "3 decade",
+      "3.0 year",
+      "20 minute",
+      "8 century"
+    ]
+  }
+}

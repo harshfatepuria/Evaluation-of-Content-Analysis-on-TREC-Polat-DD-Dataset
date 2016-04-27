@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/ulaval/takuvik/www/92653D12C4A4034C4C50EA32903174F9137D54503B356D33F61A20C506FF81F0"
+    ],
+    "measurement_value": [
+      "3",
+      "3",
+      "2",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "decade",
+      "week",
+      "decade",
+      "centimeter",
+      "centimeter",
+      "kilometer",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "3 decade",
+      "3 week",
+      "2 decade",
+      "2 centimeter",
+      "1 centimeter",
+      "1 kilometer",
+      "1 percent"
+    ]
+  }
+}

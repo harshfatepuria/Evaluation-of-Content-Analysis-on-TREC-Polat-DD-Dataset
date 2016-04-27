@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F40BF3FF3BF165B180358A4FBADFD096936E9EB75C24B14122A5EA6F6D2ABA9B"
+    ],
+    "measurement_value": [
+      "20",
+      "6.6",
+      "6.4",
+      "18.6",
+      "5.3",
+      "10",
+      "10",
+      "20.0",
+      "80",
+      "24",
+      "12",
+      "3",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "20 percent",
+      "6.6 percent",
+      "6.4 percent",
+      "18.6 percent",
+      "5.3 percent",
+      "10 percent",
+      "10 percent",
+      "20.0 percent",
+      "80 percent",
+      "24 percent",
+      "12 percent",
+      "3 percent",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

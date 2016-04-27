@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/canlearn/www/6FD0F0460108B2506569686767B05BC0FF29010EFC8556415E0A2E1DAEE7834C"
+    ],
+    "measurement_value": [
+      "12",
+      "6",
+      "3",
+      "10",
+      "13",
+      "3",
+      "12",
+      "13",
+      "3",
+      "36",
+      "10",
+      "10",
+      "21",
+      "35",
+      "60"
+    ],
+    "measurement_unit": [
+      "month",
+      "month",
+      "week",
+      "hour",
+      "week",
+      "week",
+      "hour",
+      "week",
+      "week",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "12 month",
+      "6 month",
+      "3 week",
+      "10 hour",
+      "13 week",
+      "3 week",
+      "12 hour",
+      "13 week",
+      "3 week",
+      "36 year",
+      "10 year",
+      "10 year",
+      "21 year",
+      "35 year",
+      "60 year"
+    ]
+  }
+}

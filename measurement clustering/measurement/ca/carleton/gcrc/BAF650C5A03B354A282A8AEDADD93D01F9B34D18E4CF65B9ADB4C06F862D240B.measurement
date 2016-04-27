@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/gcrc/BAF650C5A03B354A282A8AEDADD93D01F9B34D18E4CF65B9ADB4C06F862D240B"
+    ],
+    "measurement_value": [
+      "1",
+      "40",
+      "1",
+      "-2008.0",
+      "8",
+      "30",
+      "1",
+      "1",
+      "14"
+    ],
+    "measurement_unit": [
+      "year",
+      "hour",
+      "year",
+      "year",
+      "year",
+      "year",
+      "week",
+      "month",
+      "day"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "40 hour",
+      "1 year",
+      "-2008.0 year",
+      "8 year",
+      "30 year",
+      "1 week",
+      "1 month",
+      "14 day"
+    ]
+  }
+}

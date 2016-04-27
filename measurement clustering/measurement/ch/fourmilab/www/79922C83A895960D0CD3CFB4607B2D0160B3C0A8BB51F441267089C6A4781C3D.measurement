@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/fourmilab/www/79922C83A895960D0CD3CFB4607B2D0160B3C0A8BB51F441267089C6A4781C3D"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "12",
+      "2",
+      "17.4",
+      "4",
+      "0.0004",
+      "0.0054"
+    ],
+    "measurement_unit": [
+      "year",
+      "kilometer",
+      "kilometer",
+      "minute",
+      "second",
+      "second",
+      "degrees",
+      "degrees"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "1 kilometer",
+      "12 kilometer",
+      "2 minute",
+      "17.4 second",
+      "4 second",
+      "0.0004 degrees",
+      "0.0054 degrees"
+    ]
+  }
+}

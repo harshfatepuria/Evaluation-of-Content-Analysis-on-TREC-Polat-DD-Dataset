@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/862CE26C89D98F9070B33EAABDD755A4B5A5A1D276BB094CDEDAEBDFDFC9B939"
+    ],
+    "measurement_value": [
+      "4",
+      "1",
+      "47.1",
+      "56",
+      "4",
+      "1",
+      "60",
+      "1",
+      "1",
+      "385",
+      "28",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "minute",
+      "century",
+      "second",
+      "year",
+      "minute",
+      "week",
+      "year",
+      "week",
+      "year",
+      "metre",
+      "degreeC",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4 minute",
+      "1 century",
+      "47.1 second",
+      "56 year",
+      "4 minute",
+      "1 week",
+      "60 year",
+      "1 week",
+      "1 year",
+      "385 metre",
+      "28 degreeC",
+      "1 decade",
+      "1 week"
+    ]
+  }
+}

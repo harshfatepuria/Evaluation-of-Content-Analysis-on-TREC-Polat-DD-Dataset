@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/24518C9EF29BDF4B38E61CDE25250E06956C350AA9D85FC329AD48552090A810"
+    ],
+    "measurement_value": [
+      "100.0",
+      "5",
+      "18",
+      "18",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "minute",
+      "minute",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "100.0 year",
+      "5 year",
+      "18 minute",
+      "18 minute",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

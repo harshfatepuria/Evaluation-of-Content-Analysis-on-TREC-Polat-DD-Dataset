@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/polarcom/www/4EE850AE9A31C11D983878820438D87A9C5B8E1B76850B3CAB3223ED8AE5BE02"
+    ],
+    "measurement_value": [
+      "18",
+      "100.0",
+      "20",
+      "60",
+      "1",
+      "60"
+    ],
+    "measurement_unit": [
+      "century",
+      "year",
+      "century",
+      "degrees",
+      "perMil",
+      "degrees"
+    ],
+    "measurement_extractedText": [
+      "18 century",
+      "100.0 year",
+      "20 century",
+      "60 degrees",
+      "1 perMil",
+      "60 degrees"
+    ]
+  }
+}

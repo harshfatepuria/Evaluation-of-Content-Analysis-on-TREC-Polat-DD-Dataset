@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/61FE409D27EDC6A04DAD2A0E23DF3FEA87AB3C6965549F832B88354BF6D2160B"
+    ],
+    "measurement_value": [
+      "20",
+      "6.0",
+      "18",
+      "22",
+      "18",
+      "20",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "centimeter",
+      "day",
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "20 centimeter",
+      "6.0 day",
+      "18 year",
+      "22 percent",
+      "18 percent",
+      "20 year",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

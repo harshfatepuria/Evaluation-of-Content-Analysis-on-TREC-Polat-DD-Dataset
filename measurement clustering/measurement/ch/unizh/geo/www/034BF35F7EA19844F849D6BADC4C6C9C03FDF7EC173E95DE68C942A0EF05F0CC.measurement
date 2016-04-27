@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/unizh/geo/www/034BF35F7EA19844F849D6BADC4C6C9C03FDF7EC173E95DE68C942A0EF05F0CC"
+    ],
+    "measurement_value": [
+      "60",
+      "60",
+      "500",
+      "60",
+      "95",
+      "18",
+      "250",
+      "130"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "second",
+      "meter",
+      "meter",
+      "meter",
+      "meter",
+      "meter",
+      "meter"
+    ],
+    "measurement_extractedText": [
+      "60 kilometer",
+      "60 second",
+      "500 meter",
+      "60 meter",
+      "95 meter",
+      "18 meter",
+      "250 meter",
+      "130 meter"
+    ]
+  }
+}

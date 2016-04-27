@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/E32427A5341DD7C110998FB2031B719A5A1251F765CF12D8393B876BAA4B1F3D"
+    ],
+    "measurement_value": [
+      "4",
+      "15.0",
+      "33.0",
+      "80",
+      "73",
+      "1",
+      "80",
+      "6",
+      "20",
+      "2",
+      "5.3E+8",
+      "3",
+      "7",
+      "1",
+      "10.0",
+      "5",
+      "75",
+      "10"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "percent",
+      "metre",
+      "month",
+      "month",
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "4 year",
+      "15.0 percent",
+      "33.0 percent",
+      "80 percent",
+      "73 percent",
+      "1 year",
+      "80 percent",
+      "6 year",
+      "20 percent",
+      "2 percent",
+      "5.3E+8 metre",
+      "3 month",
+      "7 month",
+      "1 year",
+      "10.0 percent",
+      "5 year",
+      "75 percent",
+      "10 percent"
+    ]
+  }
+}

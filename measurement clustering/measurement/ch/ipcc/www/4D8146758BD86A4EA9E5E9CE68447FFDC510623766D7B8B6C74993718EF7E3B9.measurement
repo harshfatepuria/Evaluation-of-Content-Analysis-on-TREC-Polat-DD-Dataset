@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/4D8146758BD86A4EA9E5E9CE68447FFDC510623766D7B8B6C74993718EF7E3B9"
+    ],
+    "measurement_value": [
+      "22",
+      "2026.0",
+      "20",
+      "20",
+      "20",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "22 year",
+      "2026.0 year",
+      "20 year",
+      "20 year",
+      "20 year",
+      "20 year",
+      "1 decade"
+    ]
+  }
+}

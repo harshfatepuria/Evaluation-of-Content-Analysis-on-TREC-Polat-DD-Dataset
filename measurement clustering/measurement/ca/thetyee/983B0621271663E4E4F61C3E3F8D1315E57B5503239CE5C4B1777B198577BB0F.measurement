@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/983B0621271663E4E4F61C3E3F8D1315E57B5503239CE5C4B1777B198577BB0F"
+    ],
+    "measurement_value": [
+      "15",
+      "2",
+      "431.0",
+      "2",
+      "7",
+      "20",
+      "500",
+      "1"
+    ],
+    "measurement_unit": [
+      "minute",
+      "year",
+      "month",
+      "decade",
+      "year",
+      "minute",
+      "kilometer",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "15 minute",
+      "2 year",
+      "431.0 month",
+      "2 decade",
+      "7 year",
+      "20 minute",
+      "500 kilometer",
+      "1 week"
+    ]
+  }
+}

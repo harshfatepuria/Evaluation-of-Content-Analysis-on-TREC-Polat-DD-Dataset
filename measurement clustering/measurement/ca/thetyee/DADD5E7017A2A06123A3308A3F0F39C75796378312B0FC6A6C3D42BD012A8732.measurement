@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/DADD5E7017A2A06123A3308A3F0F39C75796378312B0FC6A6C3D42BD012A8732"
+    ],
+    "measurement_value": [
+      "1",
+      "1872",
+      "3000",
+      "30",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "kilometer",
+      "kilometer",
+      "year",
+      "month",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 season",
+      "1872 kilometer",
+      "3000 kilometer",
+      "30 year",
+      "1 month",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/4F4AEC746935D17BCE8058ABDA9062C77902AE4EEF4F8D30F1F4D56318597142"
+    ],
+    "measurement_value": [
+      "19",
+      "1",
+      "1",
+      "20",
+      "1",
+      "200",
+      "20",
+      "12.0",
+      "30",
+      "1"
+    ],
+    "measurement_unit": [
+      "century",
+      "hour",
+      "year",
+      "percent",
+      "season",
+      "year",
+      "century",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "19 century",
+      "1 hour",
+      "1 year",
+      "20 percent",
+      "1 season",
+      "200 year",
+      "20 century",
+      "12.0 year",
+      "30 year",
+      "1 week"
+    ]
+  }
+}

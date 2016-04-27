@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BDE9A7EACBC75CB13C3C0DA4DCBD350B1ED4EE40660C14EF4BA65F19727BB227"
+    ],
+    "measurement_value": [
+      "2",
+      "60",
+      "3",
+      "24",
+      "90",
+      "300",
+      "21",
+      "1",
+      "34.0",
+      "3",
+      "6",
+      "43",
+      "4",
+      "30",
+      "4",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "second",
+      "year",
+      "hour",
+      "minute",
+      "kilogram",
+      "percent",
+      "year",
+      "percent",
+      "month",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 hour",
+      "60 second",
+      "3 year",
+      "24 hour",
+      "90 minute",
+      "300 kilogram",
+      "21 percent",
+      "1 year",
+      "34.0 percent",
+      "3 month",
+      "6 percent",
+      "43 percent",
+      "4 year",
+      "30 year",
+      "4 week",
+      "1 week"
+    ]
+  }
+}

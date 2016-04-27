@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/BB2881EC1BAE786671CD96B23BD3D09294861C846140B4E942B5E70378BC2D40"
+    ],
+    "measurement_value": [
+      "25",
+      "20",
+      "15",
+      "40",
+      "30",
+      "40",
+      "30",
+      "25"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "meter",
+      "year",
+      "meter"
+    ],
+    "measurement_extractedText": [
+      "25 year",
+      "20 year",
+      "15 year",
+      "40 year",
+      "30 year",
+      "40 meter",
+      "30 year",
+      "25 meter"
+    ]
+  }
+}

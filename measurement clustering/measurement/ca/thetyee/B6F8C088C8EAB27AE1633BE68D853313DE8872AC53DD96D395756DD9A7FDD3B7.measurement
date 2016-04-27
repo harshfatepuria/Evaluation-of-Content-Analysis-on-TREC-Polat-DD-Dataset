@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/B6F8C088C8EAB27AE1633BE68D853313DE8872AC53DD96D395756DD9A7FDD3B7"
+    ],
+    "measurement_value": [
+      "14",
+      "19",
+      "20",
+      "16",
+      "5",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "kilometer",
+      "hour",
+      "year",
+      "metre",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "14 kilometer",
+      "19 kilometer",
+      "20 hour",
+      "16 year",
+      "5 metre",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/8D390495C31CE221B37F8C5291068620A06CADBEC9C00816A585EEF111537135"
+    ],
+    "measurement_value": [
+      "1",
+      "2",
+      "100",
+      "1",
+      "60",
+      "250001.0",
+      "12",
+      "2",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "metre",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "2 year",
+      "100 metre",
+      "1 year",
+      "60 year",
+      "250001.0 year",
+      "12 year",
+      "2 year",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

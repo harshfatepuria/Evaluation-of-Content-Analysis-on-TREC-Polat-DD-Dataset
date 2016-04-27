@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/unep/grid/www/FD694354DC8512C19E55936453FCBF55B5D2B9112C923A953CD8A94DC45EA06A"
+    ],
+    "measurement_value": [
+      "30",
+      "4",
+      "85",
+      "0.25",
+      "28",
+      "47",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "percent",
+      "meter",
+      "kilometer",
+      "kilometer",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "30 year",
+      "4 year",
+      "85 percent",
+      "0.25 meter",
+      "28 kilometer",
+      "47 kilometer",
+      "1 week"
+    ]
+  }
+}

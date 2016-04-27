@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/5242C9F6399A63802ECD3961E4AE0C9CAE7F475CD12C531B107B3DFAC6C5C1D9"
+    ],
+    "measurement_value": [
+      "2",
+      "5",
+      "8",
+      "10",
+      "5",
+      "20"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "week",
+      "hour",
+      "percent",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "2 day",
+      "5 year",
+      "8 week",
+      "10 hour",
+      "5 percent",
+      "20 percent"
+    ]
+  }
+}

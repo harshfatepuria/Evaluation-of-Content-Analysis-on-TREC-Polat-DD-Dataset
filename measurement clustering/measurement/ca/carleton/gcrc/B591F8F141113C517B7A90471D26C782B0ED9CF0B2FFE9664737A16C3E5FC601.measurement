@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/gcrc/B591F8F141113C517B7A90471D26C782B0ED9CF0B2FFE9664737A16C3E5FC601"
+    ],
+    "measurement_value": [
+      "250",
+      "3",
+      "1",
+      "48.0",
+      "15000.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "year",
+      "month",
+      "week",
+      "kilometer",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "250 kilometer",
+      "3 year",
+      "1 month",
+      "48.0 week",
+      "15000.0 kilometer",
+      "1 decade"
+    ]
+  }
+}

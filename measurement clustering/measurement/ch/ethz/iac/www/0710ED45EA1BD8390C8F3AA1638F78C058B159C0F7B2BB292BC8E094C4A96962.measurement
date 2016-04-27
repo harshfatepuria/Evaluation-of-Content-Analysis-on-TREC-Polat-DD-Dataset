@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ethz/iac/www/0710ED45EA1BD8390C8F3AA1638F78C058B159C0F7B2BB292BC8E094C4A96962"
+    ],
+    "measurement_value": [
+      "21",
+      "19",
+      "21",
+      "3580",
+      "1"
+    ],
+    "measurement_unit": [
+      "century",
+      "century",
+      "century",
+      "meter",
+      "joule"
+    ],
+    "measurement_extractedText": [
+      "21 century",
+      "19 century",
+      "21 century",
+      "3580 meter",
+      "1 joule"
+    ]
+  }
+}

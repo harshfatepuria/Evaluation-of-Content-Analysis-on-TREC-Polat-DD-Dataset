@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/phac-aspc/www/A4F9240BE9B257B4C4FC56D8675AA3C6FED6CF4C69991F2E0C12C53DE01B1933"
+    ],
+    "measurement_value": [
+      "858.0",
+      "1170.0",
+      "630.0",
+      "713.0",
+      "720.0",
+      "825.0",
+      "792.0",
+      "1080.0",
+      "884.0",
+      "912.0",
+      "34",
+      "35",
+      "30"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "858.0 hour",
+      "1170.0 hour",
+      "630.0 hour",
+      "713.0 hour",
+      "720.0 hour",
+      "825.0 hour",
+      "792.0 hour",
+      "1080.0 hour",
+      "884.0 hour",
+      "912.0 hour",
+      "34 hour",
+      "35 hour",
+      "30 hour"
+    ]
+  }
+}

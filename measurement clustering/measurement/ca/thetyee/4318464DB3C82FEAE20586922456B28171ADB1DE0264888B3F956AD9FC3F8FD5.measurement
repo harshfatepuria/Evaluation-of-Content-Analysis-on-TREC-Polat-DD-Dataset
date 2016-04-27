@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/4318464DB3C82FEAE20586922456B28171ADB1DE0264888B3F956AD9FC3F8FD5"
+    ],
+    "measurement_value": [
+      "3",
+      "1",
+      "1",
+      "5.0",
+      "3",
+      "40",
+      "650000",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "centimeter",
+      "hour",
+      "hour",
+      "month",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3 week",
+      "1 centimeter",
+      "1 hour",
+      "5.0 hour",
+      "3 month",
+      "40 percent",
+      "650000 year",
+      "1 week"
+    ]
+  }
+}

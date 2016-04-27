@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/nature/EA23627AB30C3DAACB1A150840EFC1DCA11E7B276CE20950D512E2E6CE662785"
+    ],
+    "measurement_value": [
+      "6",
+      "5.5",
+      "5",
+      "150",
+      "3",
+      "2",
+      "1.5"
+    ],
+    "measurement_unit": [
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "year",
+      "centimeter",
+      "centimeter",
+      "centimeter"
+    ],
+    "measurement_extractedText": [
+      "6 centimeter",
+      "5.5 centimeter",
+      "5 centimeter",
+      "150 year",
+      "3 centimeter",
+      "2 centimeter",
+      "1.5 centimeter"
+    ]
+  }
+}

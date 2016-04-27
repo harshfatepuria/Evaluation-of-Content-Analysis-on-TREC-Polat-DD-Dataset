@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/policyalternatives/www/20890D8AE262B8ED58B7525020548364E4A1CEBCE7C324097D5EEEE86C1EF85B"
+    ],
+    "measurement_value": [
+      "3",
+      "71.1",
+      "1",
+      "1",
+      "1.2E+9",
+      "35",
+      "50",
+      "4",
+      "20.10",
+      "35",
+      "50",
+      "2",
+      "21",
+      "19"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "percent",
+      "season",
+      "year",
+      "hour",
+      "week",
+      "hour",
+      "hour",
+      "hour",
+      "week",
+      "year",
+      "century",
+      "century"
+    ],
+    "measurement_extractedText": [
+      "3 year",
+      "71.1 percent",
+      "1 percent",
+      "1 season",
+      "1.2E+9 year",
+      "35 hour",
+      "50 week",
+      "4 hour",
+      "20.10 hour",
+      "35 hour",
+      "50 week",
+      "2 year",
+      "21 century",
+      "19 century"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/5DE3EA328E3E0AD77A40C04CB0A58A3BF31D8707A3B614509575F5EC5D74E883"
+    ],
+    "measurement_value": [
+      "20",
+      "20",
+      "20",
+      "20",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "year",
+      "year",
+      "year",
+      "day",
+      "week",
+      "hour",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "20 percent",
+      "20 year",
+      "20 year",
+      "20 year",
+      "1 day",
+      "1 week",
+      "1 hour",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

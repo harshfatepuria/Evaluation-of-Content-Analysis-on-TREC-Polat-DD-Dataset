@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/ruk/105CEEE36C505FF0A6650DDA259A0B80D1E3CBD29D1D3B83C223A2743EE8E5E1"
+    ],
+    "measurement_value": [
+      "1",
+      "2",
+      "41",
+      "19",
+      "18",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "1 hour",
+      "2 hour",
+      "41 minute",
+      "19 minute",
+      "18 minute",
+      "10 minute",
+      "1 minute"
+    ]
+  }
+}

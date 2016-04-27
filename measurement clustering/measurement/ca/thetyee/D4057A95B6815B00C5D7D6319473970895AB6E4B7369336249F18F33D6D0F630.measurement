@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/D4057A95B6815B00C5D7D6319473970895AB6E4B7369336249F18F33D6D0F630"
+    ],
+    "measurement_value": [
+      "120",
+      "240",
+      "120",
+      "240",
+      "30",
+      "2.7",
+      "8.3E+8",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "metre",
+      "metre",
+      "metre",
+      "metre",
+      "year",
+      "year",
+      "metre",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "120 metre",
+      "240 metre",
+      "120 metre",
+      "240 metre",
+      "30 year",
+      "2.7 year",
+      "8.3E+8 metre",
+      "2 decade",
+      "1 week"
+    ]
+  }
+}

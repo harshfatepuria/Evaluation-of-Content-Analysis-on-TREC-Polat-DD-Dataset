@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/firstair/FCC2004A2A0C55C2049AB2526F115F09D5CEA35A5194EF0C5E2ED824BEE16C3B"
+    ],
+    "measurement_value": [
+      "292",
+      "292",
+      "292",
+      "292",
+      "25",
+      "46",
+      "55",
+      "22",
+      "20",
+      "46"
+    ],
+    "measurement_unit": [
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter"
+    ],
+    "measurement_extractedText": [
+      "292 centimeter",
+      "292 centimeter",
+      "292 centimeter",
+      "292 centimeter",
+      "25 centimeter",
+      "46 centimeter",
+      "55 centimeter",
+      "22 centimeter",
+      "20 centimeter",
+      "46 centimeter"
+    ]
+  }
+}

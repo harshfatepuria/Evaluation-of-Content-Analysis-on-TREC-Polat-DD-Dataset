@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/0516347743B1972DD70515A2B7312E181E4477393172097568965C4C0C808E86"
+    ],
+    "measurement_value": [
+      "3",
+      "22",
+      "1",
+      "0.5",
+      "10",
+      "6",
+      "1",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "second",
+      "year",
+      "year",
+      "year",
+      "season",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3 year",
+      "22 year",
+      "1 second",
+      "0.5 year",
+      "10 year",
+      "6 year",
+      "1 season",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/42A9C5048ECDDE8B769D51B26EC81A8AA8FE18CADF295C09B51A49D3072E5F8C"
+    ],
+    "measurement_value": [
+      "300",
+      "20",
+      "9000",
+      "100000",
+      "2",
+      "2",
+      "25.0",
+      "1",
+      "40",
+      "20",
+      "21.0",
+      "30",
+      "5",
+      "40",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "century",
+      "kilometer",
+      "metre",
+      "year",
+      "decade",
+      "percent",
+      "day",
+      "percent",
+      "kilometer",
+      "century",
+      "percent",
+      "year",
+      "percent",
+      "kilogram",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "300 kilometer",
+      "20 century",
+      "9000 kilometer",
+      "100000 metre",
+      "2 year",
+      "2 decade",
+      "25.0 percent",
+      "1 day",
+      "40 percent",
+      "20 kilometer",
+      "21.0 century",
+      "30 percent",
+      "5 year",
+      "40 percent",
+      "20 kilogram",
+      "1 week"
+    ]
+  }
+}

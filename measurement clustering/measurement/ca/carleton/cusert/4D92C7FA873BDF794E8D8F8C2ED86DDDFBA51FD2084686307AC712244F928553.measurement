@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/cusert/4D92C7FA873BDF794E8D8F8C2ED86DDDFBA51FD2084686307AC712244F928553"
+    ],
+    "measurement_value": [
+      "1",
+      "2",
+      "2",
+      "2",
+      "3",
+      "13",
+      "13"
+    ],
+    "measurement_unit": [
+      "season",
+      "week",
+      "week",
+      "week",
+      "week",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 season",
+      "2 week",
+      "2 week",
+      "2 week",
+      "3 week",
+      "13 year",
+      "13 year"
+    ]
+  }
+}

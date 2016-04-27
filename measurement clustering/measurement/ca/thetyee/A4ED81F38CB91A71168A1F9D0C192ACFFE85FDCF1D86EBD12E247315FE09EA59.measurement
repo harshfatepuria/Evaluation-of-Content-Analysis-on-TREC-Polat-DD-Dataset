@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/A4ED81F38CB91A71168A1F9D0C192ACFFE85FDCF1D86EBD12E247315FE09EA59"
+    ],
+    "measurement_value": [
+      "95",
+      "3",
+      "2",
+      "4",
+      "5",
+      "4",
+      "20",
+      "0.5",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "95 percent",
+      "3 percent",
+      "2 percent",
+      "4 percent",
+      "5 percent",
+      "4 percent",
+      "20 percent",
+      "0.5 year",
+      "3 year",
+      "1 week"
+    ]
+  }
+}

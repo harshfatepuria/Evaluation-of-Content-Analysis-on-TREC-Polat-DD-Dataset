@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/travel/B2CC3BF426CEA8A1281EBE911EFBB24040E889C959DF14D63D2570E7F59ECE16"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "3",
+      "1000"
+    ],
+    "measurement_unit": [
+      "day",
+      "month",
+      "week",
+      "kilometer"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 month",
+      "3 week",
+      "1000 kilometer"
+    ]
+  }
+}

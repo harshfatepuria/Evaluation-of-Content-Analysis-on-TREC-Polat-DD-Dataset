@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/C9E705AB05DD3A1ECF43801D793F70499BC51159127789232F2B82301D6F835A"
+    ],
+    "measurement_value": [
+      "1000001.0",
+      "15001.0",
+      "100",
+      "7",
+      "1",
+      "1",
+      "1",
+      "1000",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "kilometer",
+      "year",
+      "year",
+      "season",
+      "day",
+      "kilometer",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1000001.0 year",
+      "15001.0 year",
+      "100 kilometer",
+      "7 year",
+      "1 year",
+      "1 season",
+      "1 day",
+      "1000 kilometer",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

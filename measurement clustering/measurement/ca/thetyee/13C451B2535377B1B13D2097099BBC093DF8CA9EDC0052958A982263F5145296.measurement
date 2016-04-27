@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/13C451B2535377B1B13D2097099BBC093DF8CA9EDC0052958A982263F5145296"
+    ],
+    "measurement_value": [
+      "50",
+      "15",
+      "200000",
+      "1",
+      "3",
+      "5500000.0",
+      "5",
+      "6500000.0",
+      "40",
+      "37",
+      "50",
+      "15",
+      "97",
+      "1",
+      "292",
+      "1312",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "year",
+      "metre",
+      "metre",
+      "year",
+      "metre",
+      "year",
+      "metre",
+      "metre",
+      "metre",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "metre",
+      "metre",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "50 percent",
+      "15 year",
+      "200000 metre",
+      "1 metre",
+      "3 year",
+      "5500000.0 metre",
+      "5 year",
+      "6500000.0 metre",
+      "40 metre",
+      "37 metre",
+      "50 percent",
+      "15 year",
+      "97 percent",
+      "1 year",
+      "292 metre",
+      "1312 metre",
+      "1 week"
+    ]
+  }
+}

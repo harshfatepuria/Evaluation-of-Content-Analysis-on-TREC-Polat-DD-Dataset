@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/D087BEC6E69F70F23FD7AE084D14BFEFED3B0DBB65C827BEE67766435C3D961C"
+    ],
+    "measurement_value": [
+      "130001.0",
+      "40",
+      "40",
+      "20",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "century",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "130001.0 year",
+      "40 year",
+      "40 year",
+      "20 century",
+      "10 year",
+      "1 week"
+    ]
+  }
+}

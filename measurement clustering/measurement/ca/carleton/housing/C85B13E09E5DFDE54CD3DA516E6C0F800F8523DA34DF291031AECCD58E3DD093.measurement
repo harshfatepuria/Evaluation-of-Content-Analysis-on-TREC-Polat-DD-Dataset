@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/housing/C85B13E09E5DFDE54CD3DA516E6C0F800F8523DA34DF291031AECCD58E3DD093"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "hour",
+      "day",
+      "day",
+      "week",
+      "week",
+      "week",
+      "day"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 hour",
+      "1 day",
+      "1 day",
+      "1 week",
+      "1 week",
+      "1 week",
+      "1 day"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/alumni/6F50F5A962844F707DFFD176FB3E1ADF7415B1C8D8D210EEA9486A3603CD93DE"
+    ],
+    "measurement_value": [
+      "10",
+      "20.0",
+      "10",
+      "30",
+      "10.0",
+      "50",
+      "15",
+      "15.0"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "minute",
+      "percent",
+      "percent",
+      "percent",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "10 percent",
+      "20.0 percent",
+      "10 percent",
+      "30 minute",
+      "10.0 percent",
+      "50 percent",
+      "15 percent",
+      "15.0 percent"
+    ]
+  }
+}

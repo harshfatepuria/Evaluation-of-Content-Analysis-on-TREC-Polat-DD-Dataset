@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/7B4ED5EEC945B5BC3BDF1FF7C9267C26D344096B98BAB8F95E78BA2513BCDDFD"
+    ],
+    "measurement_value": [
+      "100",
+      "100",
+      "156000",
+      "1000000.0",
+      "1",
+      "1",
+      "21",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "day",
+      "week",
+      "metre",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "100 hour",
+      "100 hour",
+      "156000 day",
+      "1000000.0 week",
+      "1 metre",
+      "1 percent",
+      "21 percent",
+      "1 week"
+    ]
+  }
+}

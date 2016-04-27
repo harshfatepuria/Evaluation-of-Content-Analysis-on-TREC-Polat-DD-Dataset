@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/89679236B419DA40CF67FDF0AA80842F1D6BAA13CEF898F898CCA7A73B8D5E32"
+    ],
+    "measurement_value": [
+      "21",
+      "220",
+      "100",
+      "1.3",
+      "1020",
+      "836",
+      "836",
+      "735",
+      "1080",
+      "1088",
+      "1020",
+      "21",
+      "450",
+      "450",
+      "21",
+      "450"
+    ],
+    "measurement_unit": [
+      "century",
+      "ppm",
+      "ppm",
+      "meter",
+      "ppm",
+      "ppm",
+      "ppm",
+      "ppm",
+      "ppm",
+      "ppm",
+      "ppm",
+      "century",
+      "ppm",
+      "ppm",
+      "century",
+      "ppm"
+    ],
+    "measurement_extractedText": [
+      "21 century",
+      "220 ppm",
+      "100 ppm",
+      "1.3 meter",
+      "1020 ppm",
+      "836 ppm",
+      "836 ppm",
+      "735 ppm",
+      "1080 ppm",
+      "1088 ppm",
+      "1020 ppm",
+      "21 century",
+      "450 ppm",
+      "450 ppm",
+      "21 century",
+      "450 ppm"
+    ]
+  }
+}

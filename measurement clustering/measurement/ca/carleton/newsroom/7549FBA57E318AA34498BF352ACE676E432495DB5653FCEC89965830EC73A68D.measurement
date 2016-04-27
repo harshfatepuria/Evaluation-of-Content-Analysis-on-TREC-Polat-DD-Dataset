@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/newsroom/7549FBA57E318AA34498BF352ACE676E432495DB5653FCEC89965830EC73A68D"
+    ],
+    "measurement_value": [
+      "37",
+      "3",
+      "5",
+      "5",
+      "5",
+      "4",
+      "5"
+    ],
+    "measurement_unit": [
+      "minute",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "37 minute",
+      "3 hour",
+      "5 hour",
+      "5 hour",
+      "5 hour",
+      "4 hour",
+      "5 hour"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+This is just a dummy folder. See the sample files for an idea.
+This folder should contain relative mappings of Mime Types and file paths for all Mime Types.
+Size of folder was too large to be uplaoded on github.

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/ipy2012montreal/www/7C0E8F87EF3DA3FBC0A2C5B697A7BE8183B132FCC024A77FB554E09DF3CA059E"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "1",
+      "30.0",
+      "25",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "decade",
+      "second",
+      "minute",
+      "hour",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "1 month",
+      "1 decade",
+      "1 second",
+      "30.0 minute",
+      "25 hour",
+      "1 decade"
+    ]
+  }
+}

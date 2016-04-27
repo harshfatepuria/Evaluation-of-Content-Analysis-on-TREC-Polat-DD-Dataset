@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/CA25D7DFB43FB7A91EEEA33731CDCB3DD9C65F159545E6BEED4E903D20AD5F36"
+    ],
+    "measurement_value": [
+      "25000",
+      "1",
+      "1",
+      "2",
+      "28",
+      "5",
+      "2",
+      "30",
+      "18",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "century",
+      "year",
+      "month",
+      "percent",
+      "year",
+      "degreeC",
+      "year",
+      "month",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "25000 hour",
+      "1 century",
+      "1 year",
+      "2 month",
+      "28 percent",
+      "5 year",
+      "2 degreeC",
+      "30 year",
+      "18 month",
+      "1 week"
+    ]
+  }
+}

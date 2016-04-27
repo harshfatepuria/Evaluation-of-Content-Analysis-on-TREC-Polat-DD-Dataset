@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/8688BE175DF1511F7EDE0C526191F6EC87BDAEBFE1D6E09FBE5E41C975A5A5DF"
+    ],
+    "measurement_value": [
+      "12",
+      "1",
+      "1",
+      "1",
+      "12",
+      "1",
+      "2",
+      "25",
+      "1",
+      "1",
+      "8",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "day",
+      "month",
+      "year",
+      "year",
+      "season",
+      "decade",
+      "year",
+      "year",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "12 year",
+      "1 day",
+      "1 month",
+      "1 year",
+      "12 year",
+      "1 season",
+      "2 decade",
+      "25 year",
+      "1 year",
+      "1 year",
+      "8 year",
+      "1 week"
+    ]
+  }
+}

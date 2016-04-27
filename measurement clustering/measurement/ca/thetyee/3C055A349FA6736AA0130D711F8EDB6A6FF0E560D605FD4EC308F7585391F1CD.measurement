@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/3C055A349FA6736AA0130D711F8EDB6A6FF0E560D605FD4EC308F7585391F1CD"
+    ],
+    "measurement_value": [
+      "40",
+      "62",
+      "50",
+      "90",
+      "40",
+      "3",
+      "5600.0",
+      "10",
+      "20",
+      "40",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "degrees",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "40 year",
+      "62 degrees",
+      "50 percent",
+      "90 percent",
+      "40 percent",
+      "3 year",
+      "5600.0 percent",
+      "10 percent",
+      "20 year",
+      "40 year",
+      "1 week"
+    ]
+  }
+}

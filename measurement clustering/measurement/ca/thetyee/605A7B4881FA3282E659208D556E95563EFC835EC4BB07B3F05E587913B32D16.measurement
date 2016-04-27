@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/605A7B4881FA3282E659208D556E95563EFC835EC4BB07B3F05E587913B32D16"
+    ],
+    "measurement_value": [
+      "5",
+      "1500000.0",
+      "90",
+      "22",
+      "14",
+      "14",
+      "2",
+      "8.0E+8",
+      "2",
+      "25.0",
+      "5",
+      "25",
+      "100000001",
+      "1.72E+8",
+      "12",
+      "90",
+      "15",
+      "4.5"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "percent",
+      "year",
+      "year",
+      "year",
+      "decade",
+      "day",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "5 year",
+      "1500000.0 year",
+      "90 percent",
+      "22 year",
+      "14 year",
+      "14 year",
+      "2 decade",
+      "8.0E+8 day",
+      "2 percent",
+      "25.0 percent",
+      "5 year",
+      "25 percent",
+      "100000001 year",
+      "1.72E+8 year",
+      "12 percent",
+      "90 percent",
+      "15 percent",
+      "4.5 percent"
+    ]
+  }
+}

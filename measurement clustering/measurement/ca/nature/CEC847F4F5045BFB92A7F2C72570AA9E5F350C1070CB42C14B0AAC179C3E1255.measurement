@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/nature/CEC847F4F5045BFB92A7F2C72570AA9E5F350C1070CB42C14B0AAC179C3E1255"
+    ],
+    "measurement_value": [
+      "3",
+      "20",
+      "1.4",
+      "1",
+      "2014"
+    ],
+    "measurement_unit": [
+      "hour",
+      "minute",
+      "kilometer",
+      "hour",
+      "season"
+    ],
+    "measurement_extractedText": [
+      "3 hour",
+      "20 minute",
+      "1.4 kilometer",
+      "1 hour",
+      "2014 season"
+    ]
+  }
+}

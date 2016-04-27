@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/4EEA0EFE4761DDE4CD5648A744866F0DB31785C9A56C12894E139558D1476FD3"
+    ],
+    "measurement_value": [
+      "25",
+      "29",
+      "350",
+      "55",
+      "90",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "kilometer",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "25 percent",
+      "29 percent",
+      "350 kilometer",
+      "55 percent",
+      "90 percent",
+      "1 week"
+    ]
+  }
+}

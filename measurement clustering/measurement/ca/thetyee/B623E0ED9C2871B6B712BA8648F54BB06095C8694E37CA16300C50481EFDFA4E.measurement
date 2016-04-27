@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/B623E0ED9C2871B6B712BA8648F54BB06095C8694E37CA16300C50481EFDFA4E"
+    ],
+    "measurement_value": [
+      "1600",
+      "450",
+      "40",
+      "10",
+      "2",
+      "60",
+      "80",
+      "3"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "kilometer",
+      "percent",
+      "year",
+      "year",
+      "percent",
+      "kilometer",
+      "month"
+    ],
+    "measurement_extractedText": [
+      "1600 kilometer",
+      "450 kilometer",
+      "40 percent",
+      "10 year",
+      "2 year",
+      "60 percent",
+      "80 kilometer",
+      "3 month"
+    ]
+  }
+}

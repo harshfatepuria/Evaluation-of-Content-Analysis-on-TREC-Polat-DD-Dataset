@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/1D0514B5E59B8494583363289E4686E28DBE240362FD1266021BCAF20C8E2792"
+    ],
+    "measurement_value": [
+      "45",
+      "37",
+      "40",
+      "50",
+      "1",
+      "11",
+      "2002",
+      "26",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "hour",
+      "day",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "45 percent",
+      "37 percent",
+      "40 percent",
+      "50 percent",
+      "1 year",
+      "11 hour",
+      "2002 day",
+      "26 percent",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/65E8B05B521065A496F387D94212F1E327B307B6D4A971944323D1B61FC7146A"
+    ],
+    "measurement_value": [
+      "30",
+      "1",
+      "1",
+      "35",
+      "3",
+      "15",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "month",
+      "year",
+      "decade",
+      "year",
+      "second",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "30 year",
+      "1 percent",
+      "1 month",
+      "35 year",
+      "3 decade",
+      "15 year",
+      "1 second",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/09BCB3AB2CD33CFE524C8FE57917AF628522BBE3E632D1DD5BCE2909D499D0B9"
+    ],
+    "measurement_value": [
+      "28",
+      "10",
+      "30",
+      "80",
+      "1",
+      "50",
+      "1",
+      "17",
+      "35",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "percent",
+      "percent",
+      "degrees",
+      "year",
+      "year",
+      "hour",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "28 year",
+      "10 year",
+      "30 percent",
+      "80 percent",
+      "1 degrees",
+      "50 year",
+      "1 year",
+      "17 hour",
+      "35 year",
+      "1 week"
+    ]
+  }
+}

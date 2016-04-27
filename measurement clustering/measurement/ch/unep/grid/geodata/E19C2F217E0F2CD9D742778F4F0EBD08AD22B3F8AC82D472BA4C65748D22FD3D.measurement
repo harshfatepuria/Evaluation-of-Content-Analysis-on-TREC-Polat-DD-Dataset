@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/unep/grid/geodata/E19C2F217E0F2CD9D742778F4F0EBD08AD22B3F8AC82D472BA4C65748D22FD3D"
+    ],
+    "measurement_value": [
+      "10",
+      "2.5",
+      "5",
+      "1.25",
+      "2",
+      "100"
+    ],
+    "measurement_unit": [
+      "micron",
+      "micron",
+      "meter",
+      "day",
+      "day",
+      "kilometer"
+    ],
+    "measurement_extractedText": [
+      "10 micron",
+      "2.5 micron",
+      "5 meter",
+      "1.25 day",
+      "2 day",
+      "100 kilometer"
+    ]
+  }
+}

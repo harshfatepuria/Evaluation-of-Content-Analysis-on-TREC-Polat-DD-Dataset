@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/haidanation/www/9DA5027EFE3869819E30AF5F1771E1AE96F683C77C1B924EE6048668CB5316DA"
+    ],
+    "measurement_value": [
+      "100",
+      "3000",
+      "4",
+      "1",
+      "80",
+      "8",
+      "48",
+      "720"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "metre",
+      "metre",
+      "year",
+      "centimeter",
+      "hour",
+      "kilometer",
+      "kilometer"
+    ],
+    "measurement_extractedText": [
+      "100 kilometer",
+      "3000 metre",
+      "4 metre",
+      "1 year",
+      "80 centimeter",
+      "8 hour",
+      "48 kilometer",
+      "720 kilometer"
+    ]
+  }
+}

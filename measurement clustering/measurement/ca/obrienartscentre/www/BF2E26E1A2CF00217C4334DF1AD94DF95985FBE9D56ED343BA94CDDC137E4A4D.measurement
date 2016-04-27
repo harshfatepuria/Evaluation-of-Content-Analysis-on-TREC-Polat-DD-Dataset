@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/obrienartscentre/www/BF2E26E1A2CF00217C4334DF1AD94DF95985FBE9D56ED343BA94CDDC137E4A4D"
+    ],
+    "measurement_value": [
+      "2",
+      "2",
+      "20",
+      "50",
+      "200",
+      "100",
+      "20",
+      "50",
+      "50"
+    ],
+    "measurement_unit": [
+      "hour",
+      "week",
+      "hour",
+      "hour",
+      "day",
+      "day",
+      "hour",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "2 hour",
+      "2 week",
+      "20 hour",
+      "50 hour",
+      "200 day",
+      "100 day",
+      "20 hour",
+      "50 hour",
+      "50 hour"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/B11CB4AB44B889733271D3BEA34CAAA0B1D4806FBF04482176372A15CD2E46F9"
+    ],
+    "measurement_value": [
+      "72",
+      "14.7",
+      "70",
+      "1",
+      "40",
+      "25",
+      "1",
+      "8.7",
+      "1",
+      "70",
+      "100",
+      "40",
+      "4",
+      "2007",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "degrees",
+      "percent",
+      "percent",
+      "degrees",
+      "percent",
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "72 percent",
+      "14.7 percent",
+      "70 percent",
+      "1 degrees",
+      "40 percent",
+      "25 percent",
+      "1 degrees",
+      "8.7 percent",
+      "1 year",
+      "70 percent",
+      "100 percent",
+      "40 year",
+      "4 percent",
+      "2007 year",
+      "3 percent",
+      "1 week"
+    ]
+  }
+}

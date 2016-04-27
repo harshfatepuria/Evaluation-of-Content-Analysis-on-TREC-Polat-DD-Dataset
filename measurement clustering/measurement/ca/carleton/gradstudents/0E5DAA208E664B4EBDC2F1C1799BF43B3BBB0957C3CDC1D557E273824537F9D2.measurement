@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/gradstudents/0E5DAA208E664B4EBDC2F1C1799BF43B3BBB0957C3CDC1D557E273824537F9D2"
+    ],
+    "measurement_value": [
+      "1",
+      "5",
+      "65",
+      "5",
+      "6.0",
+      "1",
+      "1",
+      "11"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "week",
+      "month",
+      "month",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "1 hour",
+      "5 hour",
+      "65 hour",
+      "5 hour",
+      "6.0 week",
+      "1 month",
+      "1 month",
+      "11 hour"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/greenenergyfutures/www/CF1EBDB930E60485CA6F67D5176CFB4B26CF1A8A1FC5B4F51C97605E9171DAF6"
+    ],
+    "measurement_value": [
+      "6",
+      "6",
+      "6",
+      "24",
+      "50001.0",
+      "1",
+      "24.0"
+    ],
+    "measurement_unit": [
+      "degreeC",
+      "degrees",
+      "degrees",
+      "degrees",
+      "year",
+      "meter",
+      "degrees"
+    ],
+    "measurement_extractedText": [
+      "6 degreeC",
+      "6 degrees",
+      "6 degrees",
+      "24 degrees",
+      "50001.0 year",
+      "1 meter",
+      "24.0 degrees"
+    ]
+  }
+}

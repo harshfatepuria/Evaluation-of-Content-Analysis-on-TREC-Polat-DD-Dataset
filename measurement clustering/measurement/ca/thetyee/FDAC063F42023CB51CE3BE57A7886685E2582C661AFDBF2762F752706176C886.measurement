@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/FDAC063F42023CB51CE3BE57A7886685E2582C661AFDBF2762F752706176C886"
+    ],
+    "measurement_value": [
+      "90",
+      "10",
+      "90.0",
+      "1",
+      "1",
+      "3",
+      "90.0",
+      "1000",
+      "100",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "hour",
+      "percent",
+      "year",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "90 percent",
+      "10 percent",
+      "90.0 percent",
+      "1 year",
+      "1 year",
+      "3 hour",
+      "90.0 percent",
+      "1000 year",
+      "100 year",
+      "20 year",
+      "1 week"
+    ]
+  }
+}

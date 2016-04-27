@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/EC9732FA7E36240678DABFCBB5FF8037F81F75005151A250CA7418FDEAF5B1BC"
+    ],
+    "measurement_value": [
+      "2",
+      "1",
+      "21.5",
+      "24",
+      "19.5",
+      "2",
+      "17.5",
+      "2",
+      "600.0",
+      "21.5",
+      "1"
+    ],
+    "measurement_unit": [
+      "degrees",
+      "month",
+      "degreeC",
+      "degreeC",
+      "degrees",
+      "degrees",
+      "degrees",
+      "degreeC",
+      "watt",
+      "degrees",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 degrees",
+      "1 month",
+      "21.5 degreeC",
+      "24 degreeC",
+      "19.5 degrees",
+      "2 degrees",
+      "17.5 degrees",
+      "2 degreeC",
+      "600.0 watt",
+      "21.5 degrees",
+      "1 week"
+    ]
+  }
+}

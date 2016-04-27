@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/521549E502CA9F466EDDEED86E15C4EBE9952C0CFDDC8EC786ECFDBA5325A128"
+    ],
+    "measurement_value": [
+      "1",
+      "30",
+      "2.0",
+      "30",
+      "20",
+      "1",
+      "17",
+      "1.5",
+      "40",
+      "5",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "year",
+      "season",
+      "percent",
+      "year",
+      "season",
+      "percent",
+      "percent",
+      "hour",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 percent",
+      "30 year",
+      "2.0 season",
+      "30 percent",
+      "20 year",
+      "1 season",
+      "17 percent",
+      "1.5 percent",
+      "40 hour",
+      "5 year",
+      "1 week"
+    ]
+  }
+}

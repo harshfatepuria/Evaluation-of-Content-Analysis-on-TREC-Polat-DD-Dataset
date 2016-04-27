@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/AB7BBC7F45190909D83523485639210B43B1CA2B13125FD91C7F3CB376FF776C"
+    ],
+    "measurement_value": [
+      "5057712.0",
+      "5",
+      "5",
+      "12",
+      "1",
+      "1",
+      "6",
+      "12",
+      "1",
+      "12",
+      "700",
+      "5057712.0"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "year",
+      "month",
+      "day",
+      "day",
+      "month",
+      "month",
+      "second",
+      "month",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "5057712.0 hour",
+      "5 year",
+      "5 year",
+      "12 month",
+      "1 day",
+      "1 day",
+      "6 month",
+      "12 month",
+      "1 second",
+      "12 month",
+      "700 hour",
+      "5057712.0 hour"
+    ]
+  }
+}

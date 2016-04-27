@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/EB1909ADC40937FC5E18F2007622E0F1E7BA5EEC1BA91F7956D54E9A6D9C9443"
+    ],
+    "measurement_value": [
+      "1",
+      "10",
+      "1",
+      "4",
+      "80000000001",
+      "1",
+      "1",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "month",
+      "year",
+      "year",
+      "year",
+      "season",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 percent",
+      "10 percent",
+      "1 month",
+      "4 year",
+      "80000000001 year",
+      "1 year",
+      "1 season",
+      "10 year",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/9C3D381E80C12075F27E683B62303E508640081D3ADD5F8BF96E458395439E7B"
+    ],
+    "measurement_value": [
+      "5",
+      "5",
+      "5",
+      "2",
+      "6",
+      "20",
+      "6"
+    ],
+    "measurement_unit": [
+      "year",
+      "decade",
+      "year",
+      "hour",
+      "year",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "5 year",
+      "5 decade",
+      "5 year",
+      "2 hour",
+      "6 year",
+      "20 year",
+      "6 year"
+    ]
+  }
+}

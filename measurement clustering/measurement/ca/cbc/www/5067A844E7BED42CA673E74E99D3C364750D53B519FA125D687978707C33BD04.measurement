@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/5067A844E7BED42CA673E74E99D3C364750D53B519FA125D687978707C33BD04"
+    ],
+    "measurement_value": [
+      "2",
+      "2",
+      "2",
+      "2",
+      "1",
+      "15",
+      "1",
+      "1",
+      "15",
+      "1",
+      "2",
+      "0.5"
+    ],
+    "measurement_unit": [
+      "degrees",
+      "degrees",
+      "degrees",
+      "degrees",
+      "metre",
+      "percent",
+      "percent",
+      "metre",
+      "percent",
+      "percent",
+      "degrees",
+      "degrees"
+    ],
+    "measurement_extractedText": [
+      "2 degrees",
+      "2 degrees",
+      "2 degrees",
+      "2 degrees",
+      "1 metre",
+      "15 percent",
+      "1 percent",
+      "1 metre",
+      "15 percent",
+      "1 percent",
+      "2 degrees",
+      "0.5 degrees"
+    ]
+  }
+}

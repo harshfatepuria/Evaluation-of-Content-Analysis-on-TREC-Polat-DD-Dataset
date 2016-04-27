@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/8FDFCB71999D54A7187D88EFE53DE50780F76E93FED89113BD00BC415BDBD0FF"
+    ],
+    "measurement_value": [
+      "3",
+      "3",
+      "300",
+      "1",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "decade",
+      "year",
+      "year",
+      "decade",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3 decade",
+      "3 year",
+      "300 year",
+      "1 decade",
+      "2 year",
+      "1 week"
+    ]
+  }
+}

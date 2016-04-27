@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/9E9F483B2466067AE9A4E310C449B3EFAB20D33B5C2E7375E5C1C9D3E1FA6050"
+    ],
+    "measurement_value": [
+      "4",
+      "2",
+      "1",
+      "2",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "decade",
+      "year",
+      "season",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4 hour",
+      "2 decade",
+      "1 year",
+      "2 season",
+      "2 hour",
+      "1 week"
+    ]
+  }
+}

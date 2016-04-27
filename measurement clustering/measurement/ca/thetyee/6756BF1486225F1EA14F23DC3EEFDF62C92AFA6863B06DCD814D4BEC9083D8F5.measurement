@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/6756BF1486225F1EA14F23DC3EEFDF62C92AFA6863B06DCD814D4BEC9083D8F5"
+    ],
+    "measurement_value": [
+      "350",
+      "24",
+      "1",
+      "1",
+      "5",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "metre",
+      "hour",
+      "day",
+      "week",
+      "year",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "350 metre",
+      "24 hour",
+      "1 day",
+      "1 week",
+      "5 year",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

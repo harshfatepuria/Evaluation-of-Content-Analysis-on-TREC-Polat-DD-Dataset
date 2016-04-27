@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/E2BEB40E235C1D92D5B664B9FD22473A2D0D6E61E9607214AD18C71086B1BB94"
+    ],
+    "measurement_value": [
+      "1",
+      "5050914.0",
+      "1",
+      "1",
+      "1",
+      "5050914.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "hour",
+      "year",
+      "week",
+      "day",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "5050914.0 hour",
+      "1 year",
+      "1 week",
+      "1 day",
+      "5050914.0 hour",
+      "1 hour"
+    ]
+  }
+}

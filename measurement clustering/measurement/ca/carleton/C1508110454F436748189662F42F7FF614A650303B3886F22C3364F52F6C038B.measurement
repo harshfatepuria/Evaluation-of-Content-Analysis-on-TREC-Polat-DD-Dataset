@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/C1508110454F436748189662F42F7FF614A650303B3886F22C3364F52F6C038B"
+    ],
+    "measurement_value": [
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10",
+      "4907023.0",
+      "44529.0"
+    ],
+    "measurement_unit": [
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "10 minute",
+      "4907023.0 hour",
+      "44529.0 hour"
+    ]
+  }
+}

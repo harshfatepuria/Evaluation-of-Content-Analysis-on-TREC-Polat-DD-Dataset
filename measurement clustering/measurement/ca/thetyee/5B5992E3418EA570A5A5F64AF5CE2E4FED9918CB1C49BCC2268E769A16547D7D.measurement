@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/5B5992E3418EA570A5A5F64AF5CE2E4FED9918CB1C49BCC2268E769A16547D7D"
+    ],
+    "measurement_value": [
+      "3",
+      "4099999.9999999995",
+      "70000",
+      "4170000.0",
+      "6",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "kilometer",
+      "kilometer",
+      "kilometer",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3 week",
+      "4099999.9999999995 kilometer",
+      "70000 kilometer",
+      "4170000.0 kilometer",
+      "6 year",
+      "1 week"
+    ]
+  }
+}

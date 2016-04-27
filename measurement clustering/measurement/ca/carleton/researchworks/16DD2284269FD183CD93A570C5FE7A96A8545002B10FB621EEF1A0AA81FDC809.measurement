@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/researchworks/16DD2284269FD183CD93A570C5FE7A96A8545002B10FB621EEF1A0AA81FDC809"
+    ],
+    "measurement_value": [
+      "10",
+      "1",
+      "2",
+      "50",
+      "2",
+      "1",
+      "3"
+    ],
+    "measurement_unit": [
+      "year",
+      "season",
+      "week",
+      "percent",
+      "week",
+      "year",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "10 year",
+      "1 season",
+      "2 week",
+      "50 percent",
+      "2 week",
+      "1 year",
+      "3 minute"
+    ]
+  }
+}

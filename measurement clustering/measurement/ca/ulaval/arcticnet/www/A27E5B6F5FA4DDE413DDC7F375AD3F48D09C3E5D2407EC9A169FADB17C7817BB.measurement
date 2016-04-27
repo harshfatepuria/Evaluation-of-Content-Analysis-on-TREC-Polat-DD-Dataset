@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/ulaval/arcticnet/www/A27E5B6F5FA4DDE413DDC7F375AD3F48D09C3E5D2407EC9A169FADB17C7817BB"
+    ],
+    "measurement_value": [
+      "100",
+      "5",
+      "5",
+      "20",
+      "7",
+      "2",
+      "20"
+    ],
+    "measurement_unit": [
+      "year",
+      "week",
+      "week",
+      "kilometer",
+      "week",
+      "month",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "100 year",
+      "5 week",
+      "5 week",
+      "20 kilometer",
+      "7 week",
+      "2 month",
+      "20 year"
+    ]
+  }
+}

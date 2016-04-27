@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/sigmund/0F76419712279C4AACFC4A327BAA074A01619905FDBF317F4F1153A2D513774E"
+    ],
+    "measurement_value": [
+      "1",
+      "2",
+      "2",
+      "2",
+      "6963"
+    ],
+    "measurement_unit": [
+      "second",
+      "joule",
+      "joule",
+      "joule",
+      "meter"
+    ],
+    "measurement_extractedText": [
+      "1 second",
+      "2 joule",
+      "2 joule",
+      "2 joule",
+      "6963 meter"
+    ]
+  }
+}

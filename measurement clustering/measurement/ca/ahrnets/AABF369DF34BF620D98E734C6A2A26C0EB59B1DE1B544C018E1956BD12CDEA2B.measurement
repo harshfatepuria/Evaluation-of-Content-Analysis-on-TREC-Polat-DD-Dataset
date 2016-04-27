@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/ahrnets/AABF369DF34BF620D98E734C6A2A26C0EB59B1DE1B544C018E1956BD12CDEA2B"
+    ],
+    "measurement_value": [
+      "1.2",
+      "2.4",
+      "3",
+      "6.0",
+      "96.0",
+      "18",
+      "1",
+      "1.1"
+    ],
+    "measurement_unit": [
+      "meter",
+      "meter",
+      "year",
+      "month",
+      "month",
+      "year",
+      "year",
+      "meter"
+    ],
+    "measurement_extractedText": [
+      "1.2 meter",
+      "2.4 meter",
+      "3 year",
+      "6.0 month",
+      "96.0 month",
+      "18 year",
+      "1 year",
+      "1.1 meter"
+    ]
+  }
+}

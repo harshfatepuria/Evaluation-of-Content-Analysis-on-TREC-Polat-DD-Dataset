@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/498002A6E6830D5DA9DC5EADC9E8281B5EDCE2978F252FACCBD8F9912757DB43"
+    ],
+    "measurement_value": [
+      "27.6",
+      "47",
+      "54",
+      "60",
+      "10",
+      "100.0",
+      "18",
+      "19",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "century",
+      "century",
+      "century",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "27.6 percent",
+      "47 percent",
+      "54 percent",
+      "60 percent",
+      "10 percent",
+      "100.0 year",
+      "18 century",
+      "19 century",
+      "20 century",
+      "1 week"
+    ]
+  }
+}

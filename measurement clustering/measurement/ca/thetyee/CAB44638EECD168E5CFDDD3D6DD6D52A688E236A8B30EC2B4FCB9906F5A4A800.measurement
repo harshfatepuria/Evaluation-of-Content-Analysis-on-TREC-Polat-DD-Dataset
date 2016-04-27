@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/CAB44638EECD168E5CFDDD3D6DD6D52A688E236A8B30EC2B4FCB9906F5A4A800"
+    ],
+    "measurement_value": [
+      "2",
+      "10",
+      "5",
+      "2",
+      "23",
+      "7",
+      "1",
+      "20",
+      "1",
+      "10002.0",
+      "56",
+      "35",
+      "15",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "month",
+      "week",
+      "percent",
+      "day",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "10 percent",
+      "5 percent",
+      "2 year",
+      "23 percent",
+      "7 month",
+      "1 week",
+      "20 percent",
+      "1 day",
+      "10002.0 year",
+      "56 percent",
+      "35 percent",
+      "15 percent",
+      "1 week"
+    ]
+  }
+}

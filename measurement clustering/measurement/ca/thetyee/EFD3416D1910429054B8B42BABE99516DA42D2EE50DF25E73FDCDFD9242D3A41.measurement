@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/EFD3416D1910429054B8B42BABE99516DA42D2EE50DF25E73FDCDFD9242D3A41"
+    ],
+    "measurement_value": [
+      "2",
+      "1",
+      "25",
+      "5",
+      "4",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "second",
+      "year",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 week",
+      "1 second",
+      "25 year",
+      "5 percent",
+      "4 year",
+      "1 week"
+    ]
+  }
+}

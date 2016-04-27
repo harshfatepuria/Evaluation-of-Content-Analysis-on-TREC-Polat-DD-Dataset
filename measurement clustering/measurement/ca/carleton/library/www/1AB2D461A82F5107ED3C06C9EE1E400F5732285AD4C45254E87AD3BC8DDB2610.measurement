@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/library/www/1AB2D461A82F5107ED3C06C9EE1E400F5732285AD4C45254E87AD3BC8DDB2610"
+    ],
+    "measurement_value": [
+      "12.0",
+      "1",
+      "2.0",
+      "15"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "week",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "12.0 hour",
+      "1 hour",
+      "2.0 week",
+      "15 hour"
+    ]
+  }
+}

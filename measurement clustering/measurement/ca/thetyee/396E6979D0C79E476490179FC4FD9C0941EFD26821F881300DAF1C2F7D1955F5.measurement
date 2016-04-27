@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/396E6979D0C79E476490179FC4FD9C0941EFD26821F881300DAF1C2F7D1955F5"
+    ],
+    "measurement_value": [
+      "5",
+      "10",
+      "18",
+      "1",
+      "1037.0",
+      "6.15E+8",
+      "10",
+      "31",
+      "27",
+      "6",
+      "70",
+      "4125.0",
+      "12",
+      "1.7",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "week",
+      "month",
+      "year",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "5 year",
+      "10 year",
+      "18 year",
+      "1 week",
+      "1037.0 month",
+      "6.15E+8 year",
+      "10 year",
+      "31 percent",
+      "27 percent",
+      "6 percent",
+      "70 percent",
+      "4125.0 percent",
+      "12 percent",
+      "1.7 percent",
+      "1 week"
+    ]
+  }
+}

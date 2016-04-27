@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/E8997910363E4543349C5DA813F1BF10C073365CDD71619019263F709384363D"
+    ],
+    "measurement_value": [
+      "2",
+      "1",
+      "1",
+      "40",
+      "2",
+      "600.0",
+      "1.5E+9",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "perMil",
+      "day",
+      "year",
+      "year",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "1 perMil",
+      "1 day",
+      "40 year",
+      "2 year",
+      "600.0 year",
+      "1.5E+9 year",
+      "1 week"
+    ]
+  }
+}

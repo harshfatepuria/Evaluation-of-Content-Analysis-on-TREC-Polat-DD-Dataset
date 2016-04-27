@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/786553F2200EB66104D77788A7C523F2ACA22FC1D07D2B9F63EFAEF80E9230EE"
+    ],
+    "measurement_value": [
+      "4",
+      "2",
+      "90",
+      "72",
+      "70",
+      "20",
+      "94",
+      "1",
+      "1",
+      "300",
+      "90",
+      "4100",
+      "1",
+      "90",
+      "5",
+      "1",
+      "70",
+      "20",
+      "30",
+      "1"
+    ],
+    "measurement_unit": [
+      "decade",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "decade",
+      "degrees",
+      "percent",
+      "percent",
+      "kilometer",
+      "year",
+      "percent",
+      "year",
+      "day",
+      "percent",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4 decade",
+      "2 year",
+      "90 percent",
+      "72 percent",
+      "70 percent",
+      "20 percent",
+      "94 percent",
+      "1 decade",
+      "1 degrees",
+      "300 percent",
+      "90 percent",
+      "4100 kilometer",
+      "1 year",
+      "90 percent",
+      "5 year",
+      "1 day",
+      "70 percent",
+      "20 percent",
+      "30 percent",
+      "1 week"
+    ]
+  }
+}

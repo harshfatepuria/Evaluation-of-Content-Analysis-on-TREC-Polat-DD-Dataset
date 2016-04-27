@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/64ECEF363503B4E24051E6C8EE841C451E5470F6A55F63EC7852A3CD2977889F"
+    ],
+    "measurement_value": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "2",
+      "1",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "week",
+      "week",
+      "week",
+      "year",
+      "hour",
+      "year",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 week",
+      "2 week",
+      "3 week",
+      "4 week",
+      "5 year",
+      "2 hour",
+      "1 year",
+      "2 decade",
+      "1 week"
+    ]
+  }
+}

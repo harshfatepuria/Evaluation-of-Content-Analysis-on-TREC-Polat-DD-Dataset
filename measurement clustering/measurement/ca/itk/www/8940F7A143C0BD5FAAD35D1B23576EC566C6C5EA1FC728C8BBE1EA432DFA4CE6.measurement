@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/itk/www/8940F7A143C0BD5FAAD35D1B23576EC566C6C5EA1FC728C8BBE1EA432DFA4CE6"
+    ],
+    "measurement_value": [
+      "2009",
+      "10",
+      "1",
+      "100",
+      "1000",
+      "20"
+    ],
+    "measurement_unit": [
+      "day",
+      "kilometer",
+      "year",
+      "meter",
+      "year",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "2009 day",
+      "10 kilometer",
+      "1 year",
+      "100 meter",
+      "1000 year",
+      "20 percent"
+    ]
+  }
+}

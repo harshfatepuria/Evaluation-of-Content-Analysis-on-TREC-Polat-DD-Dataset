@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/7F2BABD0E5011E44EB942DFCE67F40EC5C393FF886B03236862219991D2A7892"
+    ],
+    "measurement_value": [
+      "1",
+      "14",
+      "4.8",
+      "36",
+      "160",
+      "1.5",
+      "4",
+      "3",
+      "8",
+      "8.59",
+      "40",
+      "3",
+      "30",
+      "2",
+      "22",
+      "87",
+      "2",
+      "2",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "kilometer",
+      "kilometer",
+      "metre",
+      "kilometer",
+      "metre",
+      "year",
+      "year",
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "kilometer",
+      "week",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "14 kilometer",
+      "4.8 kilometer",
+      "36 metre",
+      "160 kilometer",
+      "1.5 metre",
+      "4 year",
+      "3 year",
+      "8 year",
+      "8.59 percent",
+      "40 percent",
+      "3 year",
+      "30 kilometer",
+      "2 week",
+      "22 percent",
+      "87 percent",
+      "2 year",
+      "2 year",
+      "3 decade",
+      "1 week"
+    ]
+  }
+}

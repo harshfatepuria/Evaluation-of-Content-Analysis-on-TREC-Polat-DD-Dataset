@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/admissions/2A9CF001100D9052013CEA41A1C2BCC175B8F7857027B0546D962D20985C7FAC"
+    ],
+    "measurement_value": [
+      "80",
+      "12",
+      "1.0",
+      "2.0",
+      "17"
+    ],
+    "measurement_unit": [
+      "percent",
+      "hour",
+      "year",
+      "year",
+      "degrees"
+    ],
+    "measurement_extractedText": [
+      "80 percent",
+      "12 hour",
+      "1.0 year",
+      "2.0 year",
+      "17 degrees"
+    ]
+  }
+}

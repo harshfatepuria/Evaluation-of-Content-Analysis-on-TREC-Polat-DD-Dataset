@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/6F5B7109617E035157770AA84916741E47A1F4C17E9ACBB5661D54F4F0C5EB9F"
+    ],
+    "measurement_value": [
+      "4.4",
+      "1",
+      "260",
+      "1",
+      "3000",
+      "260",
+      "3.8",
+      "1",
+      "1",
+      "1",
+      "30",
+      "1",
+      "5",
+      "20",
+      "1",
+      "3.0",
+      "50.0",
+      "2",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "year",
+      "kilometer",
+      "year",
+      "metre",
+      "kilometer",
+      "month",
+      "second",
+      "year",
+      "day",
+      "centimeter",
+      "month",
+      "kilometer",
+      "kilometer",
+      "month",
+      "year",
+      "percent",
+      "year",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4.4 week",
+      "1 year",
+      "260 kilometer",
+      "1 year",
+      "3000 metre",
+      "260 kilometer",
+      "3.8 month",
+      "1 second",
+      "1 year",
+      "1 day",
+      "30 centimeter",
+      "1 month",
+      "5 kilometer",
+      "20 kilometer",
+      "1 month",
+      "3.0 year",
+      "50.0 percent",
+      "2 year",
+      "2 decade",
+      "1 week"
+    ]
+  }
+}

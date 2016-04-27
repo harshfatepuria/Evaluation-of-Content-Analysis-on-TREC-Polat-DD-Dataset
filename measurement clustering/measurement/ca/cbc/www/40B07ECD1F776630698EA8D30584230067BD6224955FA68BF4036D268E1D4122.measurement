@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/40B07ECD1F776630698EA8D30584230067BD6224955FA68BF4036D268E1D4122"
+    ],
+    "measurement_value": [
+      "15",
+      "30",
+      "3",
+      "15",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "centimeter",
+      "week",
+      "year",
+      "day"
+    ],
+    "measurement_extractedText": [
+      "15 season",
+      "30 centimeter",
+      "3 week",
+      "15 year",
+      "1 day"
+    ]
+  }
+}

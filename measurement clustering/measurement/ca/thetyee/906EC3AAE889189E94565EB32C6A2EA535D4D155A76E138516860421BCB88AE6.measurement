@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/906EC3AAE889189E94565EB32C6A2EA535D4D155A76E138516860421BCB88AE6"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "22",
+      "7",
+      "3",
+      "1",
+      "24",
+      "1",
+      "1",
+      "1",
+      "10",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "century",
+      "week",
+      "year",
+      "month",
+      "month",
+      "season",
+      "hour",
+      "day",
+      "week",
+      "season",
+      "year",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 century",
+      "1 week",
+      "22 year",
+      "7 month",
+      "3 month",
+      "1 season",
+      "24 hour",
+      "1 day",
+      "1 week",
+      "1 season",
+      "10 year",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

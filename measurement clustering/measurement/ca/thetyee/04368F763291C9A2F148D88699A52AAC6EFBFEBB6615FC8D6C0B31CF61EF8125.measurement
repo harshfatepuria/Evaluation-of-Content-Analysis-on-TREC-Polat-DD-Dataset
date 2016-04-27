@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/04368F763291C9A2F148D88699A52AAC6EFBFEBB6615FC8D6C0B31CF61EF8125"
+    ],
+    "measurement_value": [
+      "436",
+      "1",
+      "10",
+      "3",
+      "8",
+      "2.7",
+      "2",
+      "3",
+      "4",
+      "4",
+      "3",
+      "30",
+      "40.0",
+      "60.0",
+      "35",
+      "65",
+      "1"
+    ],
+    "measurement_unit": [
+      "metre",
+      "decade",
+      "year",
+      "year",
+      "percent",
+      "degrees",
+      "year",
+      "year",
+      "year",
+      "degreeC",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "436 metre",
+      "1 decade",
+      "10 year",
+      "3 year",
+      "8 percent",
+      "2.7 degrees",
+      "2 year",
+      "3 year",
+      "4 year",
+      "4 degreeC",
+      "3 year",
+      "30 percent",
+      "40.0 percent",
+      "60.0 percent",
+      "35 year",
+      "65 year",
+      "1 week"
+    ]
+  }
+}

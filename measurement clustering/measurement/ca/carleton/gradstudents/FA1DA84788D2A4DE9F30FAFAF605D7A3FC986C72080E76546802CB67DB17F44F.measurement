@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/gradstudents/FA1DA84788D2A4DE9F30FAFAF605D7A3FC986C72080E76546802CB67DB17F44F"
+    ],
+    "measurement_value": [
+      "3",
+      "1",
+      "14.0",
+      "11",
+      "15",
+      "16",
+      "3",
+      "11",
+      "3"
+    ],
+    "measurement_unit": [
+      "minute",
+      "minute",
+      "minute",
+      "hour",
+      "hour",
+      "hour",
+      "minute",
+      "hour",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "3 minute",
+      "1 minute",
+      "14.0 minute",
+      "11 hour",
+      "15 hour",
+      "16 hour",
+      "3 minute",
+      "11 hour",
+      "3 minute"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/91F4119CDEBEA93B7D86B5B121EE48F73CA29AE9A3C35871B3E4AEBDBCA1160D"
+    ],
+    "measurement_value": [
+      "40",
+      "20",
+      "100",
+      "0.5",
+      "15",
+      "100",
+      "18",
+      "1",
+      "40",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "metre",
+      "year",
+      "century",
+      "metre",
+      "year",
+      "century",
+      "decade",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "40 year",
+      "20 metre",
+      "100 year",
+      "0.5 century",
+      "15 metre",
+      "100 year",
+      "18 century",
+      "1 decade",
+      "40 year",
+      "1 week"
+    ]
+  }
+}

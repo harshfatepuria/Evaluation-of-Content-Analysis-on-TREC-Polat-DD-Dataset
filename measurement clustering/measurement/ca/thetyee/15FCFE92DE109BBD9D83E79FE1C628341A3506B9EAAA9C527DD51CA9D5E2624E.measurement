@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/15FCFE92DE109BBD9D83E79FE1C628341A3506B9EAAA9C527DD51CA9D5E2624E"
+    ],
+    "measurement_value": [
+      "46",
+      "1",
+      "1",
+      "400",
+      "4",
+      "4",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "minute",
+      "day",
+      "week",
+      "kilometer",
+      "hour",
+      "season",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "46 minute",
+      "1 day",
+      "1 week",
+      "400 kilometer",
+      "4 hour",
+      "4 season",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

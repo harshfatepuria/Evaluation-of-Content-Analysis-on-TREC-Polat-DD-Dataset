@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/firstair/5B69DDE008AD1688CF7F3A105300E2E52C48190A7355100C270FBC38760B934F"
+    ],
+    "measurement_value": [
+      "12",
+      "12",
+      "2",
+      "5",
+      "12",
+      "2",
+      "24",
+      "24",
+      "6.5",
+      "3.5",
+      "24"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "12 year",
+      "12 year",
+      "2 year",
+      "5 year",
+      "12 year",
+      "2 year",
+      "24 hour",
+      "24 hour",
+      "6.5 hour",
+      "3.5 hour",
+      "24 hour"
+    ]
+  }
+}

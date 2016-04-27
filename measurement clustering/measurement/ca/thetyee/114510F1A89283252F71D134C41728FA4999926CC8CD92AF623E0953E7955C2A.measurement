@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/114510F1A89283252F71D134C41728FA4999926CC8CD92AF623E0953E7955C2A"
+    ],
+    "measurement_value": [
+      "5",
+      "9",
+      "125",
+      "5",
+      "53",
+      "1",
+      "4",
+      "6",
+      "32",
+      "3",
+      "5",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "season",
+      "year",
+      "season",
+      "year",
+      "week",
+      "year",
+      "season",
+      "year",
+      "decade",
+      "season",
+      "degrees",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "5 season",
+      "9 season",
+      "125 year",
+      "5 season",
+      "53 year",
+      "1 week",
+      "4 year",
+      "6 season",
+      "32 year",
+      "3 decade",
+      "5 season",
+      "1 degrees",
+      "1 week"
+    ]
+  }
+}

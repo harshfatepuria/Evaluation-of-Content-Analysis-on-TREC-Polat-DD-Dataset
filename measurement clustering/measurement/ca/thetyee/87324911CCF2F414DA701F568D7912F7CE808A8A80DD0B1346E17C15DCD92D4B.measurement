@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/87324911CCF2F414DA701F568D7912F7CE808A8A80DD0B1346E17C15DCD92D4B"
+    ],
+    "measurement_value": [
+      "300",
+      "1200",
+      "2",
+      "450",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "kilometer",
+      "month",
+      "ppm",
+      "degrees",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "300 kilometer",
+      "1200 kilometer",
+      "2 month",
+      "450 ppm",
+      "2 degrees",
+      "1 week"
+    ]
+  }
+}

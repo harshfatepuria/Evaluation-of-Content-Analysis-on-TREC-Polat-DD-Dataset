@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BE9D28BBC3F26F0E89187CA27FB559C5EE6BB9BBEB07771C2310764FDE7B1DD7"
+    ],
+    "measurement_value": [
+      "1",
+      "3.4E+10",
+      "13",
+      "7.3E+9",
+      "44",
+      "34000000001",
+      "140",
+      "560",
+      "2",
+      "80",
+      "2",
+      "40",
+      "500000",
+      "5",
+      "3.7E+9",
+      "60",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "kilometer",
+      "kilometer",
+      "year",
+      "percent",
+      "month",
+      "kilometer",
+      "year",
+      "year",
+      "year",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 season",
+      "3.4E+10 year",
+      "13 percent",
+      "7.3E+9 year",
+      "44 percent",
+      "34000000001 year",
+      "140 kilometer",
+      "560 kilometer",
+      "2 year",
+      "80 percent",
+      "2 month",
+      "40 kilometer",
+      "500000 year",
+      "5 year",
+      "3.7E+9 year",
+      "60 percent",
+      "10 year",
+      "1 week"
+    ]
+  }
+}

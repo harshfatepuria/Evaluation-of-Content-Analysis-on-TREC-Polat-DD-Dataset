@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/409C6A57F1E04480671D324D3D5D6F25E6996600C7B2DF5E03F3632E66E648C4"
+    ],
+    "measurement_value": [
+      "40",
+      "70000",
+      "90",
+      "5",
+      "4",
+      "20",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "kilometer",
+      "percent",
+      "percent",
+      "decade",
+      "year",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "40 year",
+      "70000 kilometer",
+      "90 percent",
+      "5 percent",
+      "4 decade",
+      "20 year",
+      "2 decade",
+      "1 week"
+    ]
+  }
+}

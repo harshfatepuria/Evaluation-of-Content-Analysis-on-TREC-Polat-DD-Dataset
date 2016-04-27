@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/asc-csa/www/1F6665A4A8F14E71C43D97BF32AF5FB32667D5E526FDEEB3C060EB804832A40D"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "3.0",
+      "1.0",
+      "1",
+      "1",
+      "3",
+      "30.0",
+      "10"
+    ],
+    "measurement_unit": [
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "minute",
+      "minute",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "1 week",
+      "1 week",
+      "1 week",
+      "1 week",
+      "1 week",
+      "1 week",
+      "3.0 week",
+      "1.0 week",
+      "1 week",
+      "1 week",
+      "3 minute",
+      "30.0 minute",
+      "10 minute"
+    ]
+  }
+}

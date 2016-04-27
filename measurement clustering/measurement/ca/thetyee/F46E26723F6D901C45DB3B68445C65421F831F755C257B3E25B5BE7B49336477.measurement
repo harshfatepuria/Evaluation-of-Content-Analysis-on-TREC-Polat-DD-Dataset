@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F46E26723F6D901C45DB3B68445C65421F831F755C257B3E25B5BE7B49336477"
+    ],
+    "measurement_value": [
+      "1",
+      "5",
+      "751.0",
+      "801.0",
+      "17000001",
+      "45000000001",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "month",
+      "month",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "5 year",
+      "751.0 month",
+      "801.0 month",
+      "17000001 year",
+      "45000000001 year",
+      "1 week"
+    ]
+  }
+}

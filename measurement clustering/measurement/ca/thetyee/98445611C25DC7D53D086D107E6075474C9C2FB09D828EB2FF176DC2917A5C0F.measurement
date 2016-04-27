@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/98445611C25DC7D53D086D107E6075474C9C2FB09D828EB2FF176DC2917A5C0F"
+    ],
+    "measurement_value": [
+      "80",
+      "2",
+      "80",
+      "28",
+      "1",
+      "15",
+      "40",
+      "100",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "year",
+      "kilometer",
+      "year",
+      "perMil",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "80 kilometer",
+      "2 year",
+      "80 kilometer",
+      "28 year",
+      "1 perMil",
+      "15 percent",
+      "40 percent",
+      "100 percent",
+      "1 year",
+      "1 week"
+    ]
+  }
+}

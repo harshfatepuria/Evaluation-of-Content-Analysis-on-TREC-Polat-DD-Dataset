@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/housing/799C1B284A969AB1A226C6E5B5D69C171D753E07574152D59B5673FA8D9B56D0"
+    ],
+    "measurement_value": [
+      "10",
+      "1",
+      "15",
+      "50.0",
+      "15",
+      "10"
+    ],
+    "measurement_unit": [
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "10 minute",
+      "1 minute",
+      "15 minute",
+      "50.0 minute",
+      "15 minute",
+      "10 minute"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F25ECE3B8E66B39EF1DA632FA514B18A93E15DD801AD75027E84B831FA5E8B96"
+    ],
+    "measurement_value": [
+      "57.6",
+      "60",
+      "39",
+      "29",
+      "2",
+      "21",
+      "34.5",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "year",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "57.6 percent",
+      "60 percent",
+      "39 percent",
+      "29 year",
+      "2 year",
+      "21 year",
+      "34.5 percent",
+      "1 week"
+    ]
+  }
+}

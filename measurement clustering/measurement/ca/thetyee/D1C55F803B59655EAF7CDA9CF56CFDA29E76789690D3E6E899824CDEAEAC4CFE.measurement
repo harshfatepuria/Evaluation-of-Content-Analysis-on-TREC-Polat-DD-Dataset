@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/D1C55F803B59655EAF7CDA9CF56CFDA29E76789690D3E6E899824CDEAEAC4CFE"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "2",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "season",
+      "week",
+      "day",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 season",
+      "2 week",
+      "1 day",
+      "1 year",
+      "1 week"
+    ]
+  }
+}

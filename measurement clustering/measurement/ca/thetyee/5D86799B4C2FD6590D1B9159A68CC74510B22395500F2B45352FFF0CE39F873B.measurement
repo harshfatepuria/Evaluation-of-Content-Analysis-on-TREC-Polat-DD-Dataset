@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/5D86799B4C2FD6590D1B9159A68CC74510B22395500F2B45352FFF0CE39F873B"
+    ],
+    "measurement_value": [
+      "80",
+      "14",
+      "1",
+      "8",
+      "66.0",
+      "75",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "metre",
+      "percent",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "80 percent",
+      "14 percent",
+      "1 metre",
+      "8 percent",
+      "66.0 percent",
+      "75 percent",
+      "1 week"
+    ]
+  }
+}

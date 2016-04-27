@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/D1F1B059978F9B37C03FF51E50403A7FA1936C23CEEC02C97085BB924AA6D842"
+    ],
+    "measurement_value": [
+      "2",
+      "1000",
+      "2",
+      "2",
+      "11",
+      "25"
+    ],
+    "measurement_unit": [
+      "degrees",
+      "year",
+      "degreeC",
+      "degrees",
+      "percent",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "2 degrees",
+      "1000 year",
+      "2 degreeC",
+      "2 degrees",
+      "11 percent",
+      "25 year"
+    ]
+  }
+}

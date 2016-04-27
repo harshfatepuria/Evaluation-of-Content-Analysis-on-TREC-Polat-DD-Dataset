@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/A07589B084A39A554FEC900612FBE32A19CB5F6F37413CF0AF23AE981EA6C10D"
+    ],
+    "measurement_value": [
+      "6",
+      "6",
+      "2.5E+7",
+      "2",
+      "53000",
+      "35",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "month",
+      "metre",
+      "year",
+      "kilometer",
+      "metre",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "6 month",
+      "6 month",
+      "2.5E+7 metre",
+      "2 year",
+      "53000 kilometer",
+      "35 metre",
+      "1 week"
+    ]
+  }
+}

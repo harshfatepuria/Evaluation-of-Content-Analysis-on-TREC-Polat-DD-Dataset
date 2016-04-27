@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/A8165B09337A68A3963B4BAABC3BE439A08554E763F08E235CC372556BDE4D77"
+    ],
+    "measurement_value": [
+      "6",
+      "10",
+      "5",
+      "100",
+      "50",
+      "100",
+      "20",
+      "500",
+      "20",
+      "3",
+      "20"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "century",
+      "year",
+      "century",
+      "decade",
+      "century"
+    ],
+    "measurement_extractedText": [
+      "6 year",
+      "10 year",
+      "5 year",
+      "100 year",
+      "50 year",
+      "100 year",
+      "20 century",
+      "500 year",
+      "20 century",
+      "3 decade",
+      "20 century"
+    ]
+  }
+}

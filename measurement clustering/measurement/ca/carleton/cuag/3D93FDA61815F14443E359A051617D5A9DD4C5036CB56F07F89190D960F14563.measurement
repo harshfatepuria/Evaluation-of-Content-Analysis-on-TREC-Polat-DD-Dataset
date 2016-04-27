@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/cuag/3D93FDA61815F14443E359A051617D5A9DD4C5036CB56F07F89190D960F14563"
+    ],
+    "measurement_value": [
+      "4",
+      "1",
+      "449",
+      "860",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "second",
+      "metre",
+      "metre",
+      "decade",
+      "decade",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "4 year",
+      "1 second",
+      "449 metre",
+      "860 metre",
+      "1 decade",
+      "1 decade",
+      "1 decade"
+    ]
+  }
+}

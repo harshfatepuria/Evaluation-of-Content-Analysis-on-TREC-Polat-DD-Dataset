@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/graduate/14C9C56C5A906107BCCBA4347FBE55DFAA236B4F20A70B22D391FAB5A583F417"
+    ],
+    "measurement_value": [
+      "1",
+      "35000",
+      "35000",
+      "3.0",
+      "4.0",
+      "1",
+      "40000",
+      "4",
+      "1",
+      "50000",
+      "3"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "degrees",
+      "year",
+      "year",
+      "day",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "35000 year",
+      "35000 year",
+      "3.0 year",
+      "4.0 year",
+      "1 degrees",
+      "40000 year",
+      "4 year",
+      "1 day",
+      "50000 year",
+      "3 year"
+    ]
+  }
+}

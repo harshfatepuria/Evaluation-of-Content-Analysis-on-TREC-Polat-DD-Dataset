@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F27046CF07C179CF68C00FAA6704A220C8778FF22184F89CCF60B3994085FA4A"
+    ],
+    "measurement_value": [
+      "10",
+      "2003",
+      "10",
+      "2003",
+      "10",
+      "50",
+      "500",
+      "1",
+      "5",
+      "6",
+      "1",
+      "10",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "meter",
+      "year",
+      "meter",
+      "year",
+      "year",
+      "kilometer",
+      "year",
+      "century",
+      "year",
+      "year",
+      "year",
+      "degrees",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "10 year",
+      "2003 meter",
+      "10 year",
+      "2003 meter",
+      "10 year",
+      "50 year",
+      "500 kilometer",
+      "1 year",
+      "5 century",
+      "6 year",
+      "1 year",
+      "10 year",
+      "1 degrees",
+      "1 week"
+    ]
+  }
+}

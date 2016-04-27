@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/steveburgess/www/77B2F9BAC29AA46037DFC8B7FE00FE15F58BBE9DD6E6D73E1BD121AADB74E603"
+    ],
+    "measurement_value": [
+      "1",
+      "50",
+      "1",
+      "0.5",
+      "1",
+      "4",
+      "2"
+    ],
+    "measurement_unit": [
+      "minute",
+      "percent",
+      "month",
+      "hour",
+      "day",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 minute",
+      "50 percent",
+      "1 month",
+      "0.5 hour",
+      "1 day",
+      "4 year",
+      "2 year"
+    ]
+  }
+}

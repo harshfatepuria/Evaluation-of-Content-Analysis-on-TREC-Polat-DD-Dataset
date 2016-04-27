@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/0EF596960D5EC1BB10976E9F15525B228863964D76CD635C3FCDCA1722186F4A"
+    ],
+    "measurement_value": [
+      "99",
+      "1",
+      "35",
+      "20",
+      "40",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "degrees",
+      "percent",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "99 percent",
+      "1 degrees",
+      "35 percent",
+      "20 year",
+      "40 year",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/A5723FC457760C670A4AF064D988A18E0A5B4B2432317DA95448ED438183C865"
+    ],
+    "measurement_value": [
+      "2",
+      "21.0",
+      "20000",
+      "40",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "century",
+      "year",
+      "year",
+      "season",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "21.0 century",
+      "20000 year",
+      "40 year",
+      "1 season",
+      "1 week"
+    ]
+  }
+}

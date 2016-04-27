@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/27733BA09E97F33DE56D41CED98E4567CCDBF9AB03EB33D594C36AFEB9E98305"
+    ],
+    "measurement_value": [
+      "19",
+      "14",
+      "1",
+      "30",
+      "30",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "kilometer",
+      "year",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "19 month",
+      "14 kilometer",
+      "1 year",
+      "30 percent",
+      "30 year",
+      "1 week"
+    ]
+  }
+}

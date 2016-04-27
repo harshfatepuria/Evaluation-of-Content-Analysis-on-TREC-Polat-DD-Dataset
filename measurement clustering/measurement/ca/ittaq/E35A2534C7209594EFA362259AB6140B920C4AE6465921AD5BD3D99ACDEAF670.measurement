@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/ittaq/E35A2534C7209594EFA362259AB6140B920C4AE6465921AD5BD3D99ACDEAF670"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "2",
+      "54",
+      "10",
+      "3",
+      "40",
+      "7",
+      "1.34",
+      "1.2",
+      "12.0",
+      "50",
+      "10"
+    ],
+    "measurement_unit": [
+      "centimeter",
+      "metre",
+      "meter",
+      "meter",
+      "meter",
+      "meter",
+      "centimeter",
+      "centimeter",
+      "meter",
+      "meter",
+      "week",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 centimeter",
+      "1 metre",
+      "2 meter",
+      "54 meter",
+      "10 meter",
+      "3 meter",
+      "40 centimeter",
+      "7 centimeter",
+      "1.34 meter",
+      "1.2 meter",
+      "12.0 week",
+      "50 year",
+      "10 year"
+    ]
+  }
+}

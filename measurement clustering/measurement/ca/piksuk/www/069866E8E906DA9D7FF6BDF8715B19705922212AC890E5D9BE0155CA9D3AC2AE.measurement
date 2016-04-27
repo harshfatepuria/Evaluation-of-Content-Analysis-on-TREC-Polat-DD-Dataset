@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/piksuk/www/069866E8E906DA9D7FF6BDF8715B19705922212AC890E5D9BE0155CA9D3AC2AE"
+    ],
+    "measurement_value": [
+      "20",
+      "500",
+      "1",
+      "500",
+      "1500.0",
+      "25.0",
+      "1",
+      "3",
+      "20",
+      "2051.0"
+    ],
+    "measurement_unit": [
+      "year",
+      "kilometer",
+      "week",
+      "kilometer",
+      "kilometer",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "20 year",
+      "500 kilometer",
+      "1 week",
+      "500 kilometer",
+      "1500.0 kilometer",
+      "25.0 year",
+      "1 year",
+      "3 year",
+      "20 year",
+      "2051.0 year"
+    ]
+  }
+}

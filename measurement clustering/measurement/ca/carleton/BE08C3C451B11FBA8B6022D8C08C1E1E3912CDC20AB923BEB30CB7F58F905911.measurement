@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/BE08C3C451B11FBA8B6022D8C08C1E1E3912CDC20AB923BEB30CB7F58F905911"
+    ],
+    "measurement_value": [
+      "1",
+      "5050914.0",
+      "1",
+      "8.0",
+      "5050914.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "hour",
+      "year",
+      "year",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "5050914.0 hour",
+      "1 year",
+      "8.0 year",
+      "5050914.0 hour",
+      "1 hour"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/4E1F62147449EBAD7AE2E427D045E5A8B9A91BFBBFE8D60F225D1B6EFD4C972C"
+    ],
+    "measurement_value": [
+      "11",
+      "1",
+      "1",
+      "5001.0",
+      "3",
+      "14",
+      "35",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "season",
+      "year",
+      "year",
+      "decade",
+      "percent",
+      "perMil",
+      "season",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "11 hour",
+      "1 season",
+      "1 year",
+      "5001.0 year",
+      "3 decade",
+      "14 percent",
+      "35 perMil",
+      "1 season",
+      "1 hour",
+      "1 week"
+    ]
+  }
+}

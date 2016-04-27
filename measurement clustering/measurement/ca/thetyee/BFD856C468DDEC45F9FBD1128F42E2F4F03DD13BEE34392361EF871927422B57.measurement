@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BFD856C468DDEC45F9FBD1128F42E2F4F03DD13BEE34392361EF871927422B57"
+    ],
+    "measurement_value": [
+      "4",
+      "4.0",
+      "4",
+      "4",
+      "1",
+      "4",
+      "72.1",
+      "1",
+      "3",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "season",
+      "season",
+      "season",
+      "year",
+      "season",
+      "percent",
+      "year",
+      "year",
+      "perMil",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4 season",
+      "4.0 season",
+      "4 season",
+      "4 season",
+      "1 year",
+      "4 season",
+      "72.1 percent",
+      "1 year",
+      "3 year",
+      "1 perMil",
+      "1 week"
+    ]
+  }
+}

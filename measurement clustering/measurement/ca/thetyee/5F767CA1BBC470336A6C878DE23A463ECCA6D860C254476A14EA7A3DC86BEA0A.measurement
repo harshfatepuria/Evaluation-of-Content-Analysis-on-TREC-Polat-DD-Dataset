@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/5F767CA1BBC470336A6C878DE23A463ECCA6D860C254476A14EA7A3DC86BEA0A"
+    ],
+    "measurement_value": [
+      "205",
+      "298",
+      "1189",
+      "1",
+      "1.0E+8",
+      "1"
+    ],
+    "measurement_unit": [
+      "metre",
+      "metre",
+      "metre",
+      "metre",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "205 metre",
+      "298 metre",
+      "1189 metre",
+      "1 metre",
+      "1.0E+8 year",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/AA272FE18F692CBE06E68902268F5B749514979C5E9C9C4C197BEA5850DCA37C"
+    ],
+    "measurement_value": [
+      "2",
+      "8",
+      "1",
+      "1",
+      "2",
+      "90",
+      "156.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "degrees",
+      "year",
+      "season",
+      "season",
+      "degrees",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 degrees",
+      "8 year",
+      "1 season",
+      "1 season",
+      "2 degrees",
+      "90 percent",
+      "156.0 percent",
+      "1 week"
+    ]
+  }
+}

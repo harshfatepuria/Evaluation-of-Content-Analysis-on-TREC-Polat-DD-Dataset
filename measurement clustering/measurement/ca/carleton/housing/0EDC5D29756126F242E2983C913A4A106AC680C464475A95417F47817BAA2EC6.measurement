@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/housing/0EDC5D29756126F242E2983C913A4A106AC680C464475A95417F47817BAA2EC6"
+    ],
+    "measurement_value": [
+      "35",
+      "650",
+      "3",
+      "4",
+      "8",
+      "12",
+      "1",
+      "60",
+      "15",
+      "1200",
+      "1200.00",
+      "15",
+      "1",
+      "5",
+      "30",
+      "5",
+      "20",
+      "3",
+      "18"
+    ],
+    "measurement_unit": [
+      "year",
+      "month",
+      "minute",
+      "month",
+      "month",
+      "month",
+      "year",
+      "minute",
+      "minute",
+      "month",
+      "month",
+      "minute",
+      "century",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "month",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "35 year",
+      "650 month",
+      "3 minute",
+      "4 month",
+      "8 month",
+      "12 month",
+      "1 year",
+      "60 minute",
+      "15 minute",
+      "1200 month",
+      "1200.00 month",
+      "15 minute",
+      "1 century",
+      "5 minute",
+      "30 minute",
+      "5 minute",
+      "20 minute",
+      "3 month",
+      "18 minute"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/polarcom/www/A15A6FADC89C623974117537ADD555B6C7D6E31A986BA6B7AAA7530EBD878486"
+    ],
+    "measurement_value": [
+      "1",
+      "40",
+      "300",
+      "1"
+    ],
+    "measurement_unit": [
+      "perMil",
+      "kilometer",
+      "kilometer",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "1 perMil",
+      "40 kilometer",
+      "300 kilometer",
+      "1 decade"
+    ]
+  }
+}

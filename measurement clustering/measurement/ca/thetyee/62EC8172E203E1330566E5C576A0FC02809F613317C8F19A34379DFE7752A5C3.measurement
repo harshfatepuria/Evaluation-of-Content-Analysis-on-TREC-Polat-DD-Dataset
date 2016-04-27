@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/62EC8172E203E1330566E5C576A0FC02809F613317C8F19A34379DFE7752A5C3"
+    ],
+    "measurement_value": [
+      "75",
+      "2",
+      "22",
+      "2",
+      "18",
+      "1",
+      "2",
+      "1",
+      "2",
+      "2",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "day",
+      "year",
+      "week",
+      "year",
+      "degrees",
+      "hour",
+      "week",
+      "year",
+      "month",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "75 year",
+      "2 day",
+      "22 year",
+      "2 week",
+      "18 year",
+      "1 degrees",
+      "2 hour",
+      "1 week",
+      "2 year",
+      "2 month",
+      "1 week",
+      "1 week"
+    ]
+  }
+}

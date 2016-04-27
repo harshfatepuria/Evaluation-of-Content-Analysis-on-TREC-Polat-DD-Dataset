@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/95B123A016F47C3F3B59D5F0E3C7AAC61FBB12C847A9AD5F576C526C3180453C"
+    ],
+    "measurement_value": [
+      "2015.0",
+      "50",
+      "7",
+      "2",
+      "2014",
+      "1",
+      "128",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "year",
+      "hour",
+      "month",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2015.0 day",
+      "50 year",
+      "7 year",
+      "2 hour",
+      "2014 month",
+      "1 year",
+      "128 year",
+      "1 week"
+    ]
+  }
+}

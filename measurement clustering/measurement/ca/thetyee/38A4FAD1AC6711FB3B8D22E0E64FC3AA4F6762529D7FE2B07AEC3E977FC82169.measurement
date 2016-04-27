@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/38A4FAD1AC6711FB3B8D22E0E64FC3AA4F6762529D7FE2B07AEC3E977FC82169"
+    ],
+    "measurement_value": [
+      "30",
+      "7",
+      "7",
+      "700",
+      "6",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "week",
+      "week",
+      "watt",
+      "year",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "30 kilometer",
+      "7 week",
+      "7 week",
+      "700 watt",
+      "6 year",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

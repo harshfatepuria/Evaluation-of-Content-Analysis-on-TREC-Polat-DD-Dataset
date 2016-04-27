@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/66642CD1BCA1ADA7A93D3EB30880D61A708E23895C4FF0672B4D6EEE3B01AA46"
+    ],
+    "measurement_value": [
+      "5",
+      "6.0E+7",
+      "1000",
+      "1.4E+8",
+      "10",
+      "1000",
+      "1"
+    ],
+    "measurement_unit": [
+      "minute",
+      "metre",
+      "year",
+      "metre",
+      "year",
+      "kilometer",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "5 minute",
+      "6.0E+7 metre",
+      "1000 year",
+      "1.4E+8 metre",
+      "10 year",
+      "1000 kilometer",
+      "1 week"
+    ]
+  }
+}

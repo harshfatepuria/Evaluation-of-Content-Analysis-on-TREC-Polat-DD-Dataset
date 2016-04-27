@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/684F5950625FCC16AE78F8377918BD07EBB10827BDC033899B91BDB926D3F3B9"
+    ],
+    "measurement_value": [
+      "1",
+      "120000",
+      "500",
+      "1",
+      "100",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "minute",
+      "year",
+      "day",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "120000 minute",
+      "500 year",
+      "1 day",
+      "100 year",
+      "1 week"
+    ]
+  }
+}

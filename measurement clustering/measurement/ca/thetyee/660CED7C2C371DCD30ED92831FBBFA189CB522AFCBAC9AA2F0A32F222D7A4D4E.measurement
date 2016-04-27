@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/660CED7C2C371DCD30ED92831FBBFA189CB522AFCBAC9AA2F0A32F222D7A4D4E"
+    ],
+    "measurement_value": [
+      "3.8E+10",
+      "30",
+      "161",
+      "15",
+      "50",
+      "78",
+      "1",
+      "30",
+      "300000001",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "metre",
+      "year",
+      "degreeC",
+      "percent",
+      "percent",
+      "percent",
+      "day",
+      "year",
+      "year",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3.8E+10 metre",
+      "30 year",
+      "161 degreeC",
+      "15 percent",
+      "50 percent",
+      "78 percent",
+      "1 day",
+      "30 year",
+      "300000001 year",
+      "2 decade",
+      "1 week"
+    ]
+  }
+}

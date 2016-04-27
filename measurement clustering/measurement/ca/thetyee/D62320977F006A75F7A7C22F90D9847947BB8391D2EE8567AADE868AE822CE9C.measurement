@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/D62320977F006A75F7A7C22F90D9847947BB8391D2EE8567AADE868AE822CE9C"
+    ],
+    "measurement_value": [
+      "11.0",
+      "8",
+      "15",
+      "5",
+      "5",
+      "3",
+      "24"
+    ],
+    "measurement_unit": [
+      "month",
+      "percent",
+      "year",
+      "year",
+      "year",
+      "year",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "11.0 month",
+      "8 percent",
+      "15 year",
+      "5 year",
+      "5 year",
+      "3 year",
+      "24 hour"
+    ]
+  }
+}

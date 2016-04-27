@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/E866F3741A4DEF1FAB43E151B55296AD96262D83FF194DDC567552B252F12048"
+    ],
+    "measurement_value": [
+      "1",
+      "1501.0",
+      "201.0",
+      "1",
+      "1",
+      "2001.0",
+      "1",
+      "1",
+      "25.2",
+      "20.9",
+      "14.8",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "month",
+      "month",
+      "month",
+      "year",
+      "month",
+      "perMil",
+      "month",
+      "percent",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 month",
+      "1501.0 month",
+      "201.0 month",
+      "1 month",
+      "1 year",
+      "2001.0 month",
+      "1 perMil",
+      "1 month",
+      "25.2 percent",
+      "20.9 percent",
+      "14.8 percent",
+      "1 week"
+    ]
+  }
+}

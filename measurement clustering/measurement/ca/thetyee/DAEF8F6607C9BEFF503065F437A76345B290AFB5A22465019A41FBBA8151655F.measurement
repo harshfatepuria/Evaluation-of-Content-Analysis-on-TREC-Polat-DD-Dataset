@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/DAEF8F6607C9BEFF503065F437A76345B290AFB5A22465019A41FBBA8151655F"
+    ],
+    "measurement_value": [
+      "35.0",
+      "3.8E+9",
+      "90",
+      "9",
+      "40",
+      "1.3E+9",
+      "1",
+      "90",
+      "4",
+      "3.3E+10",
+      "1",
+      "35.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "week",
+      "percent",
+      "percent",
+      "percent",
+      "metre",
+      "day",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "35.0 year",
+      "3.8E+9 week",
+      "90 percent",
+      "9 percent",
+      "40 percent",
+      "1.3E+9 metre",
+      "1 day",
+      "90 percent",
+      "4 percent",
+      "3.3E+10 year",
+      "1 percent",
+      "35.0 year",
+      "1 week"
+    ]
+  }
+}

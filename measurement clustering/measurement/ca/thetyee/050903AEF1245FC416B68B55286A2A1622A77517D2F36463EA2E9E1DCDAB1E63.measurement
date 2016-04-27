@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/050903AEF1245FC416B68B55286A2A1622A77517D2F36463EA2E9E1DCDAB1E63"
+    ],
+    "measurement_value": [
+      "2",
+      "17",
+      "24",
+      "12.4",
+      "3",
+      "3",
+      "25.0",
+      "50",
+      "3",
+      "13",
+      "50",
+      "3",
+      "15",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "hour",
+      "percent",
+      "month",
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "17 percent",
+      "24 hour",
+      "12.4 percent",
+      "3 month",
+      "3 year",
+      "25.0 percent",
+      "50 percent",
+      "3 year",
+      "13 percent",
+      "50 percent",
+      "3 year",
+      "15 year",
+      "1 week"
+    ]
+  }
+}

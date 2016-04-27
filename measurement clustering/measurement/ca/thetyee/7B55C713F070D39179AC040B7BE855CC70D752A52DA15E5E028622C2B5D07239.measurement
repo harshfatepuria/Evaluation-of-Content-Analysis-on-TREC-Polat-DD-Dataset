@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/7B55C713F070D39179AC040B7BE855CC70D752A52DA15E5E028622C2B5D07239"
+    ],
+    "measurement_value": [
+      "1",
+      "6",
+      "31",
+      "15",
+      "1",
+      "15",
+      "31",
+      "99",
+      "20",
+      "5",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "month",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 season",
+      "6 month",
+      "31 year",
+      "15 year",
+      "1 year",
+      "15 year",
+      "31 year",
+      "99 percent",
+      "20 year",
+      "5 percent",
+      "20 year",
+      "1 week"
+    ]
+  }
+}

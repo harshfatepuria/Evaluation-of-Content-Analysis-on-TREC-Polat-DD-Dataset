@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/B118A1BFE7CF4893460B4348DC7C21D88C1259295A28BFF009B53119A40E8DC1"
+    ],
+    "measurement_value": [
+      "36",
+      "1",
+      "404378",
+      "1.5",
+      "30",
+      "4",
+      "100",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "centimeter",
+      "month",
+      "metre",
+      "kilometer",
+      "centimeter",
+      "year",
+      "percent",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "36 centimeter",
+      "1 month",
+      "404378 metre",
+      "1.5 kilometer",
+      "30 centimeter",
+      "4 year",
+      "100 percent",
+      "2 decade",
+      "1 week"
+    ]
+  }
+}

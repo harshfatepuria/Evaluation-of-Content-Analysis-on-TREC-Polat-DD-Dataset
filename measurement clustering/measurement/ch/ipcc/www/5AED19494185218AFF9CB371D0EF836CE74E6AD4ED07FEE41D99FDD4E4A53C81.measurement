@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/5AED19494185218AFF9CB371D0EF836CE74E6AD4ED07FEE41D99FDD4E4A53C81"
+    ],
+    "measurement_value": [
+      "2",
+      "20",
+      "0.9",
+      "0.6",
+      "0.5"
+    ],
+    "measurement_unit": [
+      "decade",
+      "century",
+      "meter",
+      "meter",
+      "meter"
+    ],
+    "measurement_extractedText": [
+      "2 decade",
+      "20 century",
+      "0.9 meter",
+      "0.6 meter",
+      "0.5 meter"
+    ]
+  }
+}

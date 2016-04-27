@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/firstair/B5C56ED54845F243DDA09C5929AB1986EB280C4EB2E95665B9B7005C8825B687"
+    ],
+    "measurement_value": [
+      "25",
+      "46",
+      "55",
+      "22",
+      "20",
+      "46"
+    ],
+    "measurement_unit": [
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter"
+    ],
+    "measurement_extractedText": [
+      "25 centimeter",
+      "46 centimeter",
+      "55 centimeter",
+      "22 centimeter",
+      "20 centimeter",
+      "46 centimeter"
+    ]
+  }
+}

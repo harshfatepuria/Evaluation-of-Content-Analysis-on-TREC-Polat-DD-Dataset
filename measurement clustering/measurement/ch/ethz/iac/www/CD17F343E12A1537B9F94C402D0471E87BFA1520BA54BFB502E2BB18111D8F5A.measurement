@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ethz/iac/www/CD17F343E12A1537B9F94C402D0471E87BFA1520BA54BFB502E2BB18111D8F5A"
+    ],
+    "measurement_value": [
+      "1",
+      "100",
+      "280",
+      "120",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "kilometer",
+      "kilometer",
+      "kilometer"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "100 year",
+      "280 kilometer",
+      "120 kilometer",
+      "1 kilometer"
+    ]
+  }
+}

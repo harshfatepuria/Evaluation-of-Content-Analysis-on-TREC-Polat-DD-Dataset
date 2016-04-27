@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/www/C1874A32E9B88323D071DC102C5FDF62CCB27CA8AACE8FC2A21B978C5F8C9F60"
+    ],
+    "measurement_value": [
+      "90",
+      "4",
+      "1",
+      "5000",
+      "4",
+      "4",
+      "4",
+      "1",
+      "4",
+      "1",
+      "4",
+      "20"
+    ],
+    "measurement_unit": [
+      "percent",
+      "year",
+      "year",
+      "second",
+      "year",
+      "year",
+      "year",
+      "second",
+      "year",
+      "second",
+      "year",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "90 percent",
+      "4 year",
+      "1 year",
+      "5000 second",
+      "4 year",
+      "4 year",
+      "4 year",
+      "1 second",
+      "4 year",
+      "1 second",
+      "4 year",
+      "20 hour"
+    ]
+  }
+}

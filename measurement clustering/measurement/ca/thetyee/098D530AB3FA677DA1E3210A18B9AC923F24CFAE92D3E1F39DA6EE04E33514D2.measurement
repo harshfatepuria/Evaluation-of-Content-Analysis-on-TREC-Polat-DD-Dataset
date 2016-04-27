@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/098D530AB3FA677DA1E3210A18B9AC923F24CFAE92D3E1F39DA6EE04E33514D2"
+    ],
+    "measurement_value": [
+      "80.0",
+      "2",
+      "40",
+      "6",
+      "2",
+      "17.4",
+      "10",
+      "10",
+      "50",
+      "80",
+      "2",
+      "80",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "degreeC",
+      "percent",
+      "month",
+      "degrees",
+      "percent",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "80.0 percent",
+      "2 degreeC",
+      "40 percent",
+      "6 month",
+      "2 degrees",
+      "17.4 percent",
+      "10 year",
+      "10 percent",
+      "50 percent",
+      "80 percent",
+      "2 year",
+      "80 percent",
+      "1 week"
+    ]
+  }
+}

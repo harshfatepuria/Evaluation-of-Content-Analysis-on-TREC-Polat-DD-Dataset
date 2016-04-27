@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/900248F8CE0E03211F176B81140DAEDDDB7139C23B01851D719300AA86F3DEE5"
+    ],
+    "measurement_value": [
+      "0.75",
+      "1",
+      "1.8",
+      "2.1",
+      "2.4",
+      "1.5",
+      "2.1",
+      "2.4",
+      "2"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "0.75 percent",
+      "1 percent",
+      "1.8 percent",
+      "2.1 percent",
+      "2.4 percent",
+      "1.5 percent",
+      "2.1 percent",
+      "2.4 percent",
+      "2 year"
+    ]
+  }
+}

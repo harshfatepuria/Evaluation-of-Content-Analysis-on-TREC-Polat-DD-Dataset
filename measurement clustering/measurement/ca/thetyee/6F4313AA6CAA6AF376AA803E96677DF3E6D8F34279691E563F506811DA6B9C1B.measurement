@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/6F4313AA6CAA6AF376AA803E96677DF3E6D8F34279691E563F506811DA6B9C1B"
+    ],
+    "measurement_value": [
+      "6",
+      "1",
+      "1",
+      "7",
+      "6",
+      "6",
+      "3",
+      "80",
+      "16",
+      "7",
+      "220",
+      "18",
+      "7",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "month",
+      "month",
+      "month",
+      "month",
+      "hour",
+      "hour",
+      "kilometer",
+      "second",
+      "second",
+      "metre",
+      "percent",
+      "month",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "6 month",
+      "1 month",
+      "1 month",
+      "7 month",
+      "6 month",
+      "6 hour",
+      "3 hour",
+      "80 kilometer",
+      "16 second",
+      "7 second",
+      "220 metre",
+      "18 percent",
+      "7 month",
+      "1 week"
+    ]
+  }
+}

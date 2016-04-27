@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/FA73EA4EC9B387FE548EE9170686713C5EE3951FA60CD58B32402B27B86C021B"
+    ],
+    "measurement_value": [
+      "90",
+      "1",
+      "1",
+      "1",
+      "5",
+      "1",
+      "1",
+      "100",
+      "50",
+      "1"
+    ],
+    "measurement_unit": [
+      "minute",
+      "day",
+      "week",
+      "second",
+      "hour",
+      "year",
+      "week",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "90 minute",
+      "1 day",
+      "1 week",
+      "1 second",
+      "5 hour",
+      "1 year",
+      "1 week",
+      "100 year",
+      "50 year",
+      "1 week"
+    ]
+  }
+}

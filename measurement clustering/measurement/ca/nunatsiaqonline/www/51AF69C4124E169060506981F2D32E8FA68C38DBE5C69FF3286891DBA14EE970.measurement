@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/nunatsiaqonline/www/51AF69C4124E169060506981F2D32E8FA68C38DBE5C69FF3286891DBA14EE970"
+    ],
+    "measurement_value": [
+      "10",
+      "2025.0",
+      "25",
+      "20",
+      "88",
+      "1",
+      "40",
+      "12",
+      "9",
+      "220.0",
+      "15",
+      "10",
+      "7",
+      "4",
+      "3410000.0",
+      "1",
+      "32",
+      "4.5",
+      "19.6"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "kilometer",
+      "degrees",
+      "hour",
+      "minute",
+      "second",
+      "kilometer",
+      "percent",
+      "year",
+      "month",
+      "year",
+      "kilometer",
+      "degrees",
+      "year",
+      "year",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "10 year",
+      "2025.0 year",
+      "25 year",
+      "20 year",
+      "88 kilometer",
+      "1 degrees",
+      "40 hour",
+      "12 minute",
+      "9 second",
+      "220.0 kilometer",
+      "15 percent",
+      "10 year",
+      "7 month",
+      "4 year",
+      "3410000.0 kilometer",
+      "1 degrees",
+      "32 year",
+      "4.5 year",
+      "19.6 percent"
+    ]
+  }
+}

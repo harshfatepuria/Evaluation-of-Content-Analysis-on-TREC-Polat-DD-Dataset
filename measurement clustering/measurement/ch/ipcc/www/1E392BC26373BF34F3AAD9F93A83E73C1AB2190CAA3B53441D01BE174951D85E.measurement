@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/1E392BC26373BF34F3AAD9F93A83E73C1AB2190CAA3B53441D01BE174951D85E"
+    ],
+    "measurement_value": [
+      "2",
+      "800000",
+      "20",
+      "20",
+      "12",
+      "27",
+      "63"
+    ],
+    "measurement_unit": [
+      "decade",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "2 decade",
+      "800000 year",
+      "20 year",
+      "20 year",
+      "12 year",
+      "27 year",
+      "63 year"
+    ]
+  }
+}

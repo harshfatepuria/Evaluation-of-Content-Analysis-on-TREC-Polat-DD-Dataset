@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/6BBBF49D13C33116F63944A587F366107CF972B4637E6958E17D06A493BD9E62"
+    ],
+    "measurement_value": [
+      "16.0",
+      "16.0",
+      "5",
+      "15.0",
+      "66",
+      "21.0",
+      "1",
+      "11.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "year",
+      "hour",
+      "percent",
+      "hour",
+      "percent",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "16.0 hour",
+      "16.0 hour",
+      "5 year",
+      "15.0 hour",
+      "66 percent",
+      "21.0 hour",
+      "1 percent",
+      "11.0 hour",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/571B6636ED2461D3F79665E1882675D9AAE9ACBB8EA8E661504A321F0E589F55"
+    ],
+    "measurement_value": [
+      "1",
+      "5050914.0",
+      "1",
+      "1",
+      "1",
+      "5050914.0",
+      "15",
+      "53"
+    ],
+    "measurement_unit": [
+      "year",
+      "hour",
+      "year",
+      "day",
+      "day",
+      "hour",
+      "minute",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "5050914.0 hour",
+      "1 year",
+      "1 day",
+      "1 day",
+      "5050914.0 hour",
+      "15 minute",
+      "53 minute"
+    ]
+  }
+}

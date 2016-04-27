@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/DB44FD5988C23CEAB17F6FDFE8FAE2BAA2473ABD92C961EC6AF81655FBD453C9"
+    ],
+    "measurement_value": [
+      "9000",
+      "5",
+      "10",
+      "8",
+      "1",
+      "12",
+      "1",
+      "50",
+      "10",
+      "40",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "year",
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "kilometer",
+      "year",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "9000 kilometer",
+      "5 year",
+      "10 year",
+      "8 percent",
+      "1 year",
+      "12 percent",
+      "1 year",
+      "50 kilometer",
+      "10 year",
+      "40 percent",
+      "1 week"
+    ]
+  }
+}

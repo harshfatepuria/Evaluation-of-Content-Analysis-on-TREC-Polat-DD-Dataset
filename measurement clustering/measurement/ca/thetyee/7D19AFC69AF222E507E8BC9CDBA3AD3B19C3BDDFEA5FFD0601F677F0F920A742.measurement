@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/7D19AFC69AF222E507E8BC9CDBA3AD3B19C3BDDFEA5FFD0601F677F0F920A742"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "5",
+      "24",
+      "1",
+      "2",
+      "3",
+      "1",
+      "6",
+      "20",
+      "20",
+      "15",
+      "15",
+      "2",
+      "40",
+      "40",
+      "70",
+      "70",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "year",
+      "hour",
+      "day",
+      "year",
+      "decade",
+      "year",
+      "year",
+      "century",
+      "year",
+      "minute",
+      "minute",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 year",
+      "5 year",
+      "24 hour",
+      "1 day",
+      "2 year",
+      "3 decade",
+      "1 year",
+      "6 year",
+      "20 century",
+      "20 year",
+      "15 minute",
+      "15 minute",
+      "2 year",
+      "40 year",
+      "40 year",
+      "70 year",
+      "70 year",
+      "1 week"
+    ]
+  }
+}

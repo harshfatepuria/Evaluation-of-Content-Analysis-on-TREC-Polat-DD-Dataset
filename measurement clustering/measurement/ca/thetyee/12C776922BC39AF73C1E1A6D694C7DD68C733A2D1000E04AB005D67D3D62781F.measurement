@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/12C776922BC39AF73C1E1A6D694C7DD68C733A2D1000E04AB005D67D3D62781F"
+    ],
+    "measurement_value": [
+      "100",
+      "161",
+      "10000",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "kilometer",
+      "year",
+      "decade",
+      "year",
+      "century",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "100 year",
+      "161 kilometer",
+      "10000 year",
+      "1 decade",
+      "1 year",
+      "1 century",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/47A9C7A021F667643CDB63EF0289837598D7A3558C010127AEEA13021DF5AC9D"
+    ],
+    "measurement_value": [
+      "2",
+      "2",
+      "20",
+      "100",
+      "25",
+      "1",
+      "1",
+      "10",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "week",
+      "percent",
+      "year",
+      "percent",
+      "day",
+      "hour",
+      "percent",
+      "meter",
+      "meter",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "2 week",
+      "20 percent",
+      "100 year",
+      "25 percent",
+      "1 day",
+      "1 hour",
+      "10 percent",
+      "1 meter",
+      "1 meter",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/91FE9A0593F66EC73A01382FEC1F5B61EECC9365CBDE156E30970061D615C044"
+    ],
+    "measurement_value": [
+      "360",
+      "40",
+      "1",
+      "30",
+      "200",
+      "40",
+      "1"
+    ],
+    "measurement_unit": [
+      "metre",
+      "year",
+      "week",
+      "percent",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "360 metre",
+      "40 year",
+      "1 week",
+      "30 percent",
+      "200 year",
+      "40 year",
+      "1 week"
+    ]
+  }
+}

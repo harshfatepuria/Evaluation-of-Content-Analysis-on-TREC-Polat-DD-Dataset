@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/FDE3EDC4497D10E81ACDCE41A7D7D75C15D040344C599A893BF75646491F29AB"
+    ],
+    "measurement_value": [
+      "15.0",
+      "3",
+      "1",
+      "1",
+      "5",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "season",
+      "perMil",
+      "perMil",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "15.0 kilometer",
+      "3 season",
+      "1 perMil",
+      "1 perMil",
+      "5 year",
+      "1 week"
+    ]
+  }
+}

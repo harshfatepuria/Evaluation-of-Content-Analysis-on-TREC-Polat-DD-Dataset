@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/EC6B5A5125F7EDB225579487A2DA0C4E2251CE9FF477C3EE5DBFC196C6A2F308"
+    ],
+    "measurement_value": [
+      "0",
+      "0",
+      "0",
+      "1",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "kelvin",
+      "kelvin",
+      "joule",
+      "joule",
+      "joule",
+      "joule",
+      "meter",
+      "meter",
+      "meter",
+      "joule",
+      "kelvin"
+    ],
+    "measurement_extractedText": [
+      "0 kelvin",
+      "0 kelvin",
+      "0 joule",
+      "1 joule",
+      "1 joule",
+      "0 joule",
+      "0 meter",
+      "0 meter",
+      "0 meter",
+      "1 joule",
+      "1 kelvin"
+    ]
+  }
+}

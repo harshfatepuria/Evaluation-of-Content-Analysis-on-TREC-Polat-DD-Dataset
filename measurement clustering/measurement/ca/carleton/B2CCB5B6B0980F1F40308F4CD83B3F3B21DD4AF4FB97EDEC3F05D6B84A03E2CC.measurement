@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/B2CCB5B6B0980F1F40308F4CD83B3F3B21DD4AF4FB97EDEC3F05D6B84A03E2CC"
+    ],
+    "measurement_value": [
+      "8517894.0",
+      "30",
+      "2.4",
+      "95",
+      "21"
+    ],
+    "measurement_unit": [
+      "hour",
+      "minute",
+      "kilogram",
+      "percent",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "8517894.0 hour",
+      "30 minute",
+      "2.4 kilogram",
+      "95 percent",
+      "21 year"
+    ]
+  }
+}

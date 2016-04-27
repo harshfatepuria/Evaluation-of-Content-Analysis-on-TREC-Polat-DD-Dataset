@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/5355E847F9CBD089B8B65BB2B326ABA645BA5E6889F7E98FE58909D3B7979674"
+    ],
+    "measurement_value": [
+      "5057712.0",
+      "1",
+      "1",
+      "1",
+      "5057712.0"
+    ],
+    "measurement_unit": [
+      "hour",
+      "day",
+      "perMil",
+      "perMil",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "5057712.0 hour",
+      "1 day",
+      "1 perMil",
+      "1 perMil",
+      "5057712.0 hour"
+    ]
+  }
+}

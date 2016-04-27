@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/C785A4777134551AB081BED861F9C6B4990AE4EB21A7F9D07A1B7B18CAC89369"
+    ],
+    "measurement_value": [
+      "1",
+      "30",
+      "1",
+      "12",
+      "10",
+      "1",
+      "50",
+      "100",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "day",
+      "year",
+      "year",
+      "day",
+      "percent",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "30 year",
+      "1 day",
+      "12 year",
+      "10 year",
+      "1 day",
+      "50 percent",
+      "100 percent",
+      "20 year",
+      "1 week"
+    ]
+  }
+}

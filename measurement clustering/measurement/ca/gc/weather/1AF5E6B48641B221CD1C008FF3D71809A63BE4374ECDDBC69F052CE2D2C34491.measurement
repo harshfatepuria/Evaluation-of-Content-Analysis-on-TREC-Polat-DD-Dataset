@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/weather/1AF5E6B48641B221CD1C008FF3D71809A63BE4374ECDDBC69F052CE2D2C34491"
+    ],
+    "measurement_value": [
+      "3.0",
+      "315",
+      "100",
+      "315",
+      "100",
+      "4",
+      "30",
+      "2"
+    ],
+    "measurement_unit": [
+      "month",
+      "kilometer",
+      "kilometer",
+      "kilometer",
+      "kilometer",
+      "month",
+      "year",
+      "metre"
+    ],
+    "measurement_extractedText": [
+      "3.0 month",
+      "315 kilometer",
+      "100 kilometer",
+      "315 kilometer",
+      "100 kilometer",
+      "4 month",
+      "30 year",
+      "2 metre"
+    ]
+  }
+}

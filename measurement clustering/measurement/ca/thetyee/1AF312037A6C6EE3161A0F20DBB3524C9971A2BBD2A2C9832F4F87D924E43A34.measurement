@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/1AF312037A6C6EE3161A0F20DBB3524C9971A2BBD2A2C9832F4F87D924E43A34"
+    ],
+    "measurement_value": [
+      "110.0",
+      "18.0",
+      "2",
+      "40",
+      "99",
+      "1",
+      "1",
+      "1",
+      "99"
+    ],
+    "measurement_unit": [
+      "percent",
+      "hour",
+      "year",
+      "year",
+      "percent",
+      "day",
+      "perMil",
+      "minute",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "110.0 percent",
+      "18.0 hour",
+      "2 year",
+      "40 year",
+      "99 percent",
+      "1 day",
+      "1 perMil",
+      "1 minute",
+      "99 percent"
+    ]
+  }
+}

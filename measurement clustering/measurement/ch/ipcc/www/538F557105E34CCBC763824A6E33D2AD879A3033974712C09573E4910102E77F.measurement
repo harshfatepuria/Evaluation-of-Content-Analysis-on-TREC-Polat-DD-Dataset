@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/538F557105E34CCBC763824A6E33D2AD879A3033974712C09573E4910102E77F"
+    ],
+    "measurement_value": [
+      "1000000",
+      "180",
+      "300",
+      "280",
+      "280",
+      "380",
+      "700",
+      "1775",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "ppm",
+      "ppm",
+      "ppm",
+      "ppm",
+      "ppm",
+      "ppb",
+      "ppb",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "1000000 year",
+      "180 ppm",
+      "300 ppm",
+      "280 ppm",
+      "280 ppm",
+      "380 ppm",
+      "700 ppb",
+      "1775 ppb",
+      "1 decade"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/1700ED4378F80633BB06B0B571AC2C95223A7349D435B182623BAA434EC212F5"
+    ],
+    "measurement_value": [
+      "465001.0",
+      "500001.0",
+      "1",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "465001.0 year",
+      "500001.0 year",
+      "1 year",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

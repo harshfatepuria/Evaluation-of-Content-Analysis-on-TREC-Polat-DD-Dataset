@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/5BE8A61BD57B2368864DA06DD0FC4A7643EB6FA23B7A58C74C2A71D1E6E9F20E"
+    ],
+    "measurement_value": [
+      "34",
+      "34",
+      "55",
+      "34.0",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "millimeter",
+      "millimeter",
+      "meter",
+      "millimeter",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "34 millimeter",
+      "34 millimeter",
+      "55 meter",
+      "34.0 millimeter",
+      "3 year",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F9C5131494ACEF4CD79058F5DEB35090EC630B6075918003C881226C59425753"
+    ],
+    "measurement_value": [
+      "20",
+      "20",
+      "2",
+      "60",
+      "50",
+      "20",
+      "35",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "minute",
+      "metre",
+      "percent",
+      "kilometer",
+      "month",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "20 month",
+      "20 minute",
+      "2 metre",
+      "60 percent",
+      "50 kilometer",
+      "20 month",
+      "35 percent",
+      "1 week"
+    ]
+  }
+}

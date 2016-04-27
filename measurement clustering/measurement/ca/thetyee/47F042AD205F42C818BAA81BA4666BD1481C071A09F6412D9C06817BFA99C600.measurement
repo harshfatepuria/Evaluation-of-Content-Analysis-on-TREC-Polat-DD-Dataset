@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/47F042AD205F42C818BAA81BA4666BD1481C071A09F6412D9C06817BFA99C600"
+    ],
+    "measurement_value": [
+      "40",
+      "4.5",
+      "3.8",
+      "20.0",
+      "14.4",
+      "35",
+      "15",
+      "20",
+      "2",
+      "40",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "month",
+      "metre",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "40 percent",
+      "4.5 percent",
+      "3.8 percent",
+      "20.0 percent",
+      "14.4 percent",
+      "35 percent",
+      "15 percent",
+      "20 percent",
+      "2 year",
+      "40 percent",
+      "1 month",
+      "1 metre",
+      "1 week"
+    ]
+  }
+}

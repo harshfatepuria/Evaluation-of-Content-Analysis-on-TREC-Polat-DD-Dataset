@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/nature/0EB551119CEBB43C5560BC240363C3D04D16ABA16FA0879BAECF69FE14EDBE53"
+    ],
+    "measurement_value": [
+      "1",
+      "19",
+      "3",
+      "5",
+      "5",
+      "5",
+      "5"
+    ],
+    "measurement_unit": [
+      "month",
+      "year",
+      "season",
+      "hour",
+      "hour",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "1 month",
+      "19 year",
+      "3 season",
+      "5 hour",
+      "5 hour",
+      "5 hour",
+      "5 hour"
+    ]
+  }
+}

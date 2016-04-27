@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/8167CBE1BA46F07B8D6E3228FFB940E0C70216DEE553CB0FAC167221A4084FB1"
+    ],
+    "measurement_value": [
+      "7",
+      "4",
+      "4",
+      "1",
+      "90",
+      "2",
+      "0.5",
+      "0.5",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "week",
+      "week",
+      "year",
+      "minute",
+      "hour",
+      "hour",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "7 hour",
+      "4 week",
+      "4 week",
+      "1 year",
+      "90 minute",
+      "2 hour",
+      "0.5 hour",
+      "0.5 hour",
+      "1 week"
+    ]
+  }
+}

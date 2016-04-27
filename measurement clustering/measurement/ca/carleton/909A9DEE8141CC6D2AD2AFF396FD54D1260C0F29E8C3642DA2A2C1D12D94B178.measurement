@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/909A9DEE8141CC6D2AD2AFF396FD54D1260C0F29E8C3642DA2A2C1D12D94B178"
+    ],
+    "measurement_value": [
+      "2849495.0",
+      "9",
+      "4",
+      "6",
+      "1",
+      "100.0",
+      "18",
+      "4",
+      "4"
+    ],
+    "measurement_unit": [
+      "hour",
+      "century",
+      "year",
+      "year",
+      "degrees",
+      "year",
+      "century",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "2849495.0 hour",
+      "9 century",
+      "4 year",
+      "6 year",
+      "1 degrees",
+      "100.0 year",
+      "18 century",
+      "4 year",
+      "4 year"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/arcticjournal/www/7EADD55D3CC5F72E5037CA504F8066F7B161867B5C79BD1C425E5485A38A29BC"
+    ],
+    "measurement_value": [
+      "50",
+      "30",
+      "2300",
+      "200",
+      "50",
+      "1",
+      "7.3",
+      "1000",
+      "20",
+      "2000"
+    ],
+    "measurement_unit": [
+      "year",
+      "centimeter",
+      "metre",
+      "kilometer",
+      "metre",
+      "degrees",
+      "metre",
+      "kilogram",
+      "century",
+      "metre"
+    ],
+    "measurement_extractedText": [
+      "50 year",
+      "30 centimeter",
+      "2300 metre",
+      "200 kilometer",
+      "50 metre",
+      "1 degrees",
+      "7.3 metre",
+      "1000 kilogram",
+      "20 century",
+      "2000 metre"
+    ]
+  }
+}

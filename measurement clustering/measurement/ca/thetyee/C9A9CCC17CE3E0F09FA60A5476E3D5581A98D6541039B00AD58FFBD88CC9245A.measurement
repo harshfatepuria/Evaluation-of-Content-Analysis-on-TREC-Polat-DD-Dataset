@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/C9A9CCC17CE3E0F09FA60A5476E3D5581A98D6541039B00AD58FFBD88CC9245A"
+    ],
+    "measurement_value": [
+      "12",
+      "2",
+      "56",
+      "3",
+      "12",
+      "3",
+      "6",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "year",
+      "kilometer",
+      "week",
+      "kilometer",
+      "month",
+      "week",
+      "season",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "12 kilometer",
+      "2 year",
+      "56 kilometer",
+      "3 week",
+      "12 kilometer",
+      "3 month",
+      "6 week",
+      "3 season",
+      "1 week"
+    ]
+  }
+}

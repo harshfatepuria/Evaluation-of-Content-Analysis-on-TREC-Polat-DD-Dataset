@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/10A10B7BC8975606C0AE993018DBDBF7136CC05EE053BE60F71AE4303F7E1D31"
+    ],
+    "measurement_value": [
+      "19",
+      "33",
+      "20",
+      "2",
+      "1",
+      "45",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "century",
+      "year",
+      "year",
+      "year",
+      "day",
+      "minute",
+      "week",
+      "degrees",
+      "second",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "19 century",
+      "33 year",
+      "20 year",
+      "2 year",
+      "1 day",
+      "45 minute",
+      "1 week",
+      "1 degrees",
+      "1 second",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/0522A87EBC9C54956D4D8E8E618A2570385F7AC2E38FFBA71A70512D71B7270D"
+    ],
+    "measurement_value": [
+      "15",
+      "25",
+      "1.0E+7",
+      "13",
+      "301.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "metre",
+      "year",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "15 percent",
+      "25 percent",
+      "1.0E+7 metre",
+      "13 year",
+      "301.0 hour",
+      "1 week"
+    ]
+  }
+}

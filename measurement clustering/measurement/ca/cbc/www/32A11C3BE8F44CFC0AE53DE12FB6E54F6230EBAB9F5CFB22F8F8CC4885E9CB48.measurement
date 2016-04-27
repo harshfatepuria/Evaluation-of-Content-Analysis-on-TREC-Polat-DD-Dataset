@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/32A11C3BE8F44CFC0AE53DE12FB6E54F6230EBAB9F5CFB22F8F8CC4885E9CB48"
+    ],
+    "measurement_value": [
+      "1",
+      "3.1",
+      "0.9",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "second",
+      "second",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "1 season",
+      "3.1 second",
+      "0.9 second",
+      "1 minute"
+    ]
+  }
+}

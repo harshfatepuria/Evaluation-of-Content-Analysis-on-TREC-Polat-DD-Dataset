@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/possiblecanadas/71D2E041D6C0F34D136CF09215545C8313C4BC2A05A9BCEB58F96BA9D784A5CC"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "1000",
+      "100",
+      "1",
+      "20"
+    ],
+    "measurement_unit": [
+      "month",
+      "year",
+      "year",
+      "year",
+      "day",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 month",
+      "1 year",
+      "1000 year",
+      "100 year",
+      "1 day",
+      "20 year"
+    ]
+  }
+}

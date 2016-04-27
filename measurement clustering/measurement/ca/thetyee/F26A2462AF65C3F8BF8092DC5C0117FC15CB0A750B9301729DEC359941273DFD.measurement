@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F26A2462AF65C3F8BF8092DC5C0117FC15CB0A750B9301729DEC359941273DFD"
+    ],
+    "measurement_value": [
+      "73",
+      "0.63",
+      "74.5",
+      "4.3",
+      "4.1",
+      "29.5",
+      "19.3",
+      "8",
+      "4.9",
+      "2",
+      "1",
+      "10",
+      "10",
+      "34000000001",
+      "7",
+      "1.7",
+      "1",
+      "2.25",
+      "0.5",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "decade",
+      "year",
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "percent",
+      "month",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "73 percent",
+      "0.63 percent",
+      "74.5 percent",
+      "4.3 percent",
+      "4.1 percent",
+      "29.5 percent",
+      "19.3 percent",
+      "8 percent",
+      "4.9 percent",
+      "2 decade",
+      "1 year",
+      "10 year",
+      "10 percent",
+      "34000000001 year",
+      "7 percent",
+      "1.7 percent",
+      "1 month",
+      "2.25 percent",
+      "0.5 percent",
+      "1 week"
+    ]
+  }
+}

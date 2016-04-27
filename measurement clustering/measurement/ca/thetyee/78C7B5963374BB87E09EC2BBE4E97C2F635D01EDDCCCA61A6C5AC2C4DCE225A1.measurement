@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/78C7B5963374BB87E09EC2BBE4E97C2F635D01EDDCCCA61A6C5AC2C4DCE225A1"
+    ],
+    "measurement_value": [
+      "1",
+      "34",
+      "20.4",
+      "67",
+      "44",
+      "3",
+      "80",
+      "10",
+      "50",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "34 percent",
+      "20.4 percent",
+      "67 percent",
+      "44 percent",
+      "3 year",
+      "80 percent",
+      "10 percent",
+      "50 percent",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

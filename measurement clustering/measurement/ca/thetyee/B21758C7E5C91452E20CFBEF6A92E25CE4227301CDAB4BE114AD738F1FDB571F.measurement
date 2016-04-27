@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/B21758C7E5C91452E20CFBEF6A92E25CE4227301CDAB4BE114AD738F1FDB571F"
+    ],
+    "measurement_value": [
+      "19",
+      "2",
+      "60000",
+      "1",
+      "1.2",
+      "1",
+      "1",
+      "1",
+      "3",
+      "2.0",
+      "800",
+      "20",
+      "1",
+      "17",
+      "2",
+      "2"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "kilometer",
+      "year",
+      "kilometer",
+      "year",
+      "perMil",
+      "perMil",
+      "week",
+      "kilometer",
+      "metre",
+      "minute",
+      "day",
+      "month",
+      "year",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "19 year",
+      "2 year",
+      "60000 kilometer",
+      "1 year",
+      "1.2 kilometer",
+      "1 year",
+      "1 perMil",
+      "1 perMil",
+      "3 week",
+      "2.0 kilometer",
+      "800 metre",
+      "20 minute",
+      "1 day",
+      "17 month",
+      "2 year",
+      "2 decade"
+    ]
+  }
+}

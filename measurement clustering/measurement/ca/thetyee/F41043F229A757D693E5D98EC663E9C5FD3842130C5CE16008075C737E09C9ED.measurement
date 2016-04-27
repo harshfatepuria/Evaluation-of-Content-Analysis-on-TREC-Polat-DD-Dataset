@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F41043F229A757D693E5D98EC663E9C5FD3842130C5CE16008075C737E09C9ED"
+    ],
+    "measurement_value": [
+      "4",
+      "20",
+      "2",
+      "99.4",
+      "4.5",
+      "0.5",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "percent",
+      "week",
+      "percent",
+      "month",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4 week",
+      "20 percent",
+      "2 week",
+      "99.4 percent",
+      "4.5 month",
+      "0.5 percent",
+      "1 week"
+    ]
+  }
+}

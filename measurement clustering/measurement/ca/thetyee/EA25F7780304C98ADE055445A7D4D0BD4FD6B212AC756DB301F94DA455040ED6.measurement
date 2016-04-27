@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/EA25F7780304C98ADE055445A7D4D0BD4FD6B212AC756DB301F94DA455040ED6"
+    ],
+    "measurement_value": [
+      "18",
+      "1000",
+      "13000",
+      "19",
+      "3",
+      "1",
+      "2",
+      "17",
+      "8.6",
+      "5.7",
+      "13000",
+      "1"
+    ],
+    "measurement_unit": [
+      "century",
+      "year",
+      "year",
+      "century",
+      "month",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "18 century",
+      "1000 year",
+      "13000 year",
+      "19 century",
+      "3 month",
+      "1 year",
+      "2 percent",
+      "17 percent",
+      "8.6 percent",
+      "5.7 percent",
+      "13000 year",
+      "1 week"
+    ]
+  }
+}

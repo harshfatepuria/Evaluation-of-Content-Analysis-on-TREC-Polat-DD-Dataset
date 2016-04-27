@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/545DB9C56C1E1DFF2078AC2B4933558E2B6A98998195205A824B0DEF5A5BC469"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "50",
+      "10",
+      "0.5",
+      "1",
+      "1",
+      "15",
+      "25",
+      "15",
+      "15",
+      "1",
+      "1",
+      "1501.0",
+      "1126.0",
+      "30",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "percent",
+      "minute",
+      "hour",
+      "day",
+      "week",
+      "percent",
+      "percent",
+      "minute",
+      "minute",
+      "month",
+      "month",
+      "year",
+      "year",
+      "minute",
+      "week",
+      "day"
+    ],
+    "measurement_extractedText": [
+      "1 hour",
+      "1 year",
+      "50 percent",
+      "10 minute",
+      "0.5 hour",
+      "1 day",
+      "1 week",
+      "15 percent",
+      "25 percent",
+      "15 minute",
+      "15 minute",
+      "1 month",
+      "1 month",
+      "1501.0 year",
+      "1126.0 year",
+      "30 minute",
+      "1 week",
+      "1 day"
+    ]
+  }
+}

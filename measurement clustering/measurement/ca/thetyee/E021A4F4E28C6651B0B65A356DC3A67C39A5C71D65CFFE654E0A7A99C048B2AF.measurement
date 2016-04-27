@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/E021A4F4E28C6651B0B65A356DC3A67C39A5C71D65CFFE654E0A7A99C048B2AF"
+    ],
+    "measurement_value": [
+      "99",
+      "2",
+      "1",
+      "60001.0",
+      "20",
+      "1",
+      "500",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "week",
+      "decade",
+      "year",
+      "century",
+      "decade",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "99 percent",
+      "2 week",
+      "1 decade",
+      "60001.0 year",
+      "20 century",
+      "1 decade",
+      "500 percent",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ethz/c2sm/www/DDFC4BD44AC163E2BD4EDC2BDE84474FB559A62006C95E5C99981FA4A0AFCF35"
+    ],
+    "measurement_value": [
+      "2.2",
+      "1.1",
+      "15",
+      "15",
+      "2",
+      "150",
+      "2000"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "kilometer",
+      "year",
+      "year",
+      "kilometer",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "2.2 kilometer",
+      "1.1 kilometer",
+      "15 year",
+      "15 year",
+      "2 kilometer",
+      "150 year",
+      "2000 year"
+    ]
+  }
+}

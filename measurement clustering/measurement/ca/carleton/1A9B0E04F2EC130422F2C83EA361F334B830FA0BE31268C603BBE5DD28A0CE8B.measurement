@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/1A9B0E04F2EC130422F2C83EA361F334B830FA0BE31268C603BBE5DD28A0CE8B"
+    ],
+    "measurement_value": [
+      "2015",
+      "10",
+      "1",
+      "18.0",
+      "1",
+      "1",
+      "16",
+      "2",
+      "21"
+    ],
+    "measurement_unit": [
+      "month",
+      "month",
+      "year",
+      "month",
+      "year",
+      "year",
+      "week",
+      "week",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "2015 month",
+      "10 month",
+      "1 year",
+      "18.0 month",
+      "1 year",
+      "1 year",
+      "16 week",
+      "2 week",
+      "21 hour"
+    ]
+  }
+}

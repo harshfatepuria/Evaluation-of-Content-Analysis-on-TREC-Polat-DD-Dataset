@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/E5522B6E619593AE096FE0201F83112C99C1A53D3FBD5C766305A7D6F2F751E2"
+    ],
+    "measurement_value": [
+      "49.0",
+      "1",
+      "4",
+      "75",
+      "1",
+      "1",
+      "50.0",
+      "5",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "year",
+      "year",
+      "percent",
+      "decade",
+      "degrees",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "49.0 percent",
+      "1 year",
+      "4 year",
+      "75 percent",
+      "1 decade",
+      "1 degrees",
+      "50.0 percent",
+      "5 year",
+      "1 week"
+    ]
+  }
+}

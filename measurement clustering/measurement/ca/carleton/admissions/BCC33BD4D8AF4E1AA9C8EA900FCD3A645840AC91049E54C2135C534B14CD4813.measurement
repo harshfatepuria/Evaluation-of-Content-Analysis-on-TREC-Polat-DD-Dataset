@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/admissions/BCC33BD4D8AF4E1AA9C8EA900FCD3A645840AC91049E54C2135C534B14CD4813"
+    ],
+    "measurement_value": [
+      "3",
+      "3",
+      "4",
+      "1",
+      "0.5",
+      "1.0"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "tesla",
+      "tesla",
+      "tesla"
+    ],
+    "measurement_extractedText": [
+      "3 year",
+      "3 year",
+      "4 year",
+      "1 tesla",
+      "0.5 tesla",
+      "1.0 tesla"
+    ]
+  }
+}

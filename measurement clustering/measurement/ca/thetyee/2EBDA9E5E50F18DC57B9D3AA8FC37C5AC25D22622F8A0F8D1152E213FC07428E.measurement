@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/2EBDA9E5E50F18DC57B9D3AA8FC37C5AC25D22622F8A0F8D1152E213FC07428E"
+    ],
+    "measurement_value": [
+      "10",
+      "30",
+      "300",
+      "1",
+      "99.999",
+      "90",
+      "1",
+      "20",
+      "19",
+      "99.9",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "kilometer",
+      "month",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "century",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "10 percent",
+      "30 percent",
+      "300 kilometer",
+      "1 month",
+      "99.999 percent",
+      "90 percent",
+      "1 year",
+      "20 percent",
+      "19 century",
+      "99.9 percent",
+      "1 week"
+    ]
+  }
+}

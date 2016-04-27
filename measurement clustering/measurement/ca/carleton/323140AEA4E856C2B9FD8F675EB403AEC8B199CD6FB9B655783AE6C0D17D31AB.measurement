@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/323140AEA4E856C2B9FD8F675EB403AEC8B199CD6FB9B655783AE6C0D17D31AB"
+    ],
+    "measurement_value": [
+      "5076973.0",
+      "1987.0",
+      "3.0",
+      "20",
+      "8"
+    ],
+    "measurement_unit": [
+      "hour",
+      "decade",
+      "year",
+      "minute",
+      "century"
+    ],
+    "measurement_extractedText": [
+      "5076973.0 hour",
+      "1987.0 decade",
+      "3.0 year",
+      "20 minute",
+      "8 century"
+    ]
+  }
+}

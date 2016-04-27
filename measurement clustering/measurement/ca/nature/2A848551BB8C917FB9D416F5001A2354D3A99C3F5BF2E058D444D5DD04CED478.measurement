@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/nature/2A848551BB8C917FB9D416F5001A2354D3A99C3F5BF2E058D444D5DD04CED478"
+    ],
+    "measurement_value": [
+      "1",
+      "1.5",
+      "5",
+      "250",
+      "1",
+      "2008"
+    ],
+    "measurement_unit": [
+      "day",
+      "meter",
+      "meter",
+      "kilogram",
+      "day",
+      "season"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1.5 meter",
+      "5 meter",
+      "250 kilogram",
+      "1 day",
+      "2008 season"
+    ]
+  }
+}

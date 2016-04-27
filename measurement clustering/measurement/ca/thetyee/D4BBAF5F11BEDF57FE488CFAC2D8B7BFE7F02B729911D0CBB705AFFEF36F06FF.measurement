@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/D4BBAF5F11BEDF57FE488CFAC2D8B7BFE7F02B729911D0CBB705AFFEF36F06FF"
+    ],
+    "measurement_value": [
+      "2",
+      "1",
+      "201.0",
+      "2",
+      "6",
+      "1986.0",
+      "12",
+      "3",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "month",
+      "month",
+      "year",
+      "month",
+      "month",
+      "month",
+      "month",
+      "perMil",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "1 month",
+      "201.0 month",
+      "2 year",
+      "6 month",
+      "1986.0 month",
+      "12 month",
+      "3 month",
+      "1 perMil",
+      "1 year",
+      "1 week"
+    ]
+  }
+}

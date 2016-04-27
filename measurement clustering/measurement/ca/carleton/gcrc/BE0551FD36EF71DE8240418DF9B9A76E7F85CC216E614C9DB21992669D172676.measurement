@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/gcrc/BE0551FD36EF71DE8240418DF9B9A76E7F85CC216E614C9DB21992669D172676"
+    ],
+    "measurement_value": [
+      "12",
+      "11",
+      "640",
+      "90",
+      "5",
+      "10",
+      "3500.0",
+      "3500.0",
+      "2"
+    ],
+    "measurement_unit": [
+      "month",
+      "month",
+      "kilometer",
+      "kilometer",
+      "month",
+      "centimeter",
+      "kilometer",
+      "kilometer",
+      "month"
+    ],
+    "measurement_extractedText": [
+      "12 month",
+      "11 month",
+      "640 kilometer",
+      "90 kilometer",
+      "5 month",
+      "10 centimeter",
+      "3500.0 kilometer",
+      "3500.0 kilometer",
+      "2 month"
+    ]
+  }
+}

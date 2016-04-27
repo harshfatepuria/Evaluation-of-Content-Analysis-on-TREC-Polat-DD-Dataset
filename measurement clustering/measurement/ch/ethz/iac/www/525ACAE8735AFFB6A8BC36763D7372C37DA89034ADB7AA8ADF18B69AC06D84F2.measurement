@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ethz/iac/www/525ACAE8735AFFB6A8BC36763D7372C37DA89034ADB7AA8ADF18B69AC06D84F2"
+    ],
+    "measurement_value": [
+      "100",
+      "2014",
+      "2007",
+      "2007",
+      "2007",
+      "2008",
+      "2015"
+    ],
+    "measurement_unit": [
+      "year",
+      "kelvin",
+      "kelvin",
+      "kelvin",
+      "kelvin",
+      "kelvin",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "100 year",
+      "2014 kelvin",
+      "2007 kelvin",
+      "2007 kelvin",
+      "2007 kelvin",
+      "2008 kelvin",
+      "2015 year"
+    ]
+  }
+}

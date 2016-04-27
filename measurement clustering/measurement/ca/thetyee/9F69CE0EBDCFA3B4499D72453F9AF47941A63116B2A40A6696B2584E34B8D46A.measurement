@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/9F69CE0EBDCFA3B4499D72453F9AF47941A63116B2A40A6696B2584E34B8D46A"
+    ],
+    "measurement_value": [
+      "1",
+      "2000",
+      "1",
+      "125",
+      "4",
+      "350",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "metre",
+      "hour",
+      "metre",
+      "year",
+      "metre",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "2000 metre",
+      "1 hour",
+      "125 metre",
+      "4 year",
+      "350 metre",
+      "2 decade",
+      "1 week"
+    ]
+  }
+}

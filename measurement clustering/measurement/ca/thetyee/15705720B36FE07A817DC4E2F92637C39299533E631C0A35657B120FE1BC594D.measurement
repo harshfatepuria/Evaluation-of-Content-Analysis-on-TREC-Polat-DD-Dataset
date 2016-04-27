@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/15705720B36FE07A817DC4E2F92637C39299533E631C0A35657B120FE1BC594D"
+    ],
+    "measurement_value": [
+      "22.6",
+      "1",
+      "2",
+      "52",
+      "17",
+      "70.0",
+      "1",
+      "1",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "degreeC",
+      "kilometer",
+      "kilometer",
+      "percent",
+      "percent",
+      "percent",
+      "week",
+      "week",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "22.6 degreeC",
+      "1 kilometer",
+      "2 kilometer",
+      "52 percent",
+      "17 percent",
+      "70.0 percent",
+      "1 week",
+      "1 week",
+      "2 week",
+      "1 week"
+    ]
+  }
+}

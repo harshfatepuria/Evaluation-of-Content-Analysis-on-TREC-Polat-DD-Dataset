@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/itk/www/1268B1D34F5DC159633754FD546CD3AD3231131F73E5A91AFAFD363D79B55C42"
+    ],
+    "measurement_value": [
+      "35",
+      "4000.0",
+      "1000",
+      "1000",
+      "1",
+      "1",
+      "20",
+      "60",
+      "9000",
+      "900",
+      "2",
+      "2"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "degrees",
+      "minute",
+      "year",
+      "year",
+      "kilometer",
+      "kilometer",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "35 year",
+      "4000.0 year",
+      "1000 year",
+      "1000 year",
+      "1 degrees",
+      "1 minute",
+      "20 year",
+      "60 year",
+      "9000 kilometer",
+      "900 kilometer",
+      "2 year",
+      "2 week"
+    ]
+  }
+}

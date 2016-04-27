@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/425BE8A3AE6D61D74E7FD6F3548AA281E8768B083E48CFDD0A545980096C226B"
+    ],
+    "measurement_value": [
+      "1",
+      "10",
+      "1",
+      "30",
+      "601.0",
+      "25",
+      "50",
+      "80",
+      "54",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "minute",
+      "day",
+      "year",
+      "hour",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "10 minute",
+      "1 day",
+      "30 year",
+      "601.0 hour",
+      "25 year",
+      "50 percent",
+      "80 percent",
+      "54 percent",
+      "20 percent",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/3C77E04DE47FCF33A7DEC5DE19FC7628B8693339DC9F39E7922935E6706DAD92"
+    ],
+    "measurement_value": [
+      "200",
+      "10000",
+      "1",
+      "2000",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "season",
+      "kilometer",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "200 year",
+      "10000 year",
+      "1 season",
+      "2000 kilometer",
+      "1 week"
+    ]
+  }
+}

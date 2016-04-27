@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/2AC7A9DE79FB28F8A0624A7348B0030723A996067941A9F775217736C3E34CA8"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "15",
+      "8",
+      "1",
+      "4",
+      "2",
+      "6",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "year",
+      "year",
+      "month",
+      "month",
+      "week",
+      "week",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 season",
+      "1 year",
+      "15 year",
+      "8 month",
+      "1 month",
+      "4 week",
+      "2 week",
+      "6 week",
+      "1 week"
+    ]
+  }
+}

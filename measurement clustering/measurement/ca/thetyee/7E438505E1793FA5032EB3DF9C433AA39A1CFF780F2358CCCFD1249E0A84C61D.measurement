@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/7E438505E1793FA5032EB3DF9C433AA39A1CFF780F2358CCCFD1249E0A84C61D"
+    ],
+    "measurement_value": [
+      "200000",
+      "8000",
+      "7",
+      "1",
+      "400",
+      "85",
+      "0.5",
+      "1",
+      "11",
+      "2"
+    ],
+    "measurement_unit": [
+      "year",
+      "kilometer",
+      "percent",
+      "year",
+      "kilometer",
+      "percent",
+      "percent",
+      "century",
+      "month",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "200000 year",
+      "8000 kilometer",
+      "7 percent",
+      "1 year",
+      "400 kilometer",
+      "85 percent",
+      "0.5 percent",
+      "1 century",
+      "11 month",
+      "2 decade"
+    ]
+  }
+}

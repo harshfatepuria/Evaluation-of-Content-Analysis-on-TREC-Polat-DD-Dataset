@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/naho/www/775C338F7206A6D61E7B6FBBD2D9D7E750A72A8A9C2987C41E0D61D3327D3BD7"
+    ],
+    "measurement_value": [
+      "1",
+      "9",
+      "2011",
+      "12",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "hour",
+      "second",
+      "year",
+      "year",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "1 year",
+      "9 hour",
+      "2011 second",
+      "12 year",
+      "3 year",
+      "1 decade"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/goravens/0724CC03DB05E9A0D90A5596C7D0C2F062EE609059A2DA4361107D381175D949"
+    ],
+    "measurement_value": [
+      "2",
+      "31",
+      "7",
+      "4",
+      "23"
+    ],
+    "measurement_unit": [
+      "db",
+      "db",
+      "db",
+      "kelvin",
+      "db"
+    ],
+    "measurement_extractedText": [
+      "2 db",
+      "31 db",
+      "7 db",
+      "4 kelvin",
+      "23 db"
+    ]
+  }
+}

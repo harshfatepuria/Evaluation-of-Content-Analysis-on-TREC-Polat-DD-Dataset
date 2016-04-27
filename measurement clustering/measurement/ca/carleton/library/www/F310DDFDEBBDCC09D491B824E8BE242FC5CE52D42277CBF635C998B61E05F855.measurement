@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/library/www/F310DDFDEBBDCC09D491B824E8BE242FC5CE52D42277CBF635C998B61E05F855"
+    ],
+    "measurement_value": [
+      "24",
+      "1.8",
+      "1579",
+      "700",
+      "62",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "meter",
+      "metre",
+      "kelvin",
+      "kelvin",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "24 hour",
+      "1.8 meter",
+      "1579 metre",
+      "700 kelvin",
+      "62 kelvin",
+      "1 hour"
+    ]
+  }
+}

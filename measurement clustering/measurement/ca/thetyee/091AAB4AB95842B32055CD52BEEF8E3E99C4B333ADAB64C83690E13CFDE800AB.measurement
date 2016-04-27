@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/091AAB4AB95842B32055CD52BEEF8E3E99C4B333ADAB64C83690E13CFDE800AB"
+    ],
+    "measurement_value": [
+      "2",
+      "3",
+      "53",
+      "24",
+      "4500000.0",
+      "1",
+      "406122",
+      "177041",
+      "3114",
+      "86",
+      "1",
+      "1",
+      "1",
+      "1",
+      "30",
+      "1",
+      "600.0",
+      "35",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "decade",
+      "percent",
+      "hour",
+      "metre",
+      "metre",
+      "kilogram",
+      "kilogram",
+      "kilogram",
+      "percent",
+      "decade",
+      "season",
+      "metre",
+      "day",
+      "year",
+      "day",
+      "metre",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "3 decade",
+      "53 percent",
+      "24 hour",
+      "4500000.0 metre",
+      "1 metre",
+      "406122 kilogram",
+      "177041 kilogram",
+      "3114 kilogram",
+      "86 percent",
+      "1 decade",
+      "1 season",
+      "1 metre",
+      "1 day",
+      "30 year",
+      "1 day",
+      "600.0 metre",
+      "35 year",
+      "1 week"
+    ]
+  }
+}

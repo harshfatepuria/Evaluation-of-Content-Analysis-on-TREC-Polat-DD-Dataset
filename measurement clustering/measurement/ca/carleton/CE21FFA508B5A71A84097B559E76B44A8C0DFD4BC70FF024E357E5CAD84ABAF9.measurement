@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/CE21FFA508B5A71A84097B559E76B44A8C0DFD4BC70FF024E357E5CAD84ABAF9"
+    ],
+    "measurement_value": [
+      "5057712.0",
+      "25",
+      "40",
+      "40",
+      "5057712.0"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "year",
+      "meter",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "5057712.0 hour",
+      "25 year",
+      "40 year",
+      "40 meter",
+      "5057712.0 hour"
+    ]
+  }
+}

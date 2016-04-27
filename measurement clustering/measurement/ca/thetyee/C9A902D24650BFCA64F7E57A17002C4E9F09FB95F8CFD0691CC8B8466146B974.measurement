@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/C9A902D24650BFCA64F7E57A17002C4E9F09FB95F8CFD0691CC8B8466146B974"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "4",
+      "40",
+      "40",
+      "1",
+      "70",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "second",
+      "day",
+      "year",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "month",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 second",
+      "1 day",
+      "4 year",
+      "40 percent",
+      "40 percent",
+      "1 year",
+      "70 percent",
+      "1 month",
+      "1 week"
+    ]
+  }
+}

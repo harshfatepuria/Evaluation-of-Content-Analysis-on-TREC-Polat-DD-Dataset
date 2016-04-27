@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/0CDEF278D6B90764BCDBA80C5A3A0C85FC9123CC4471436581EDA7784F4B5A53"
+    ],
+    "measurement_value": [
+      "2",
+      "4",
+      "65.00",
+      "2",
+      "4",
+      "2",
+      "4",
+      "600.00",
+      "100.00",
+      "200.00"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "week",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "day",
+      "day",
+      "day"
+    ],
+    "measurement_extractedText": [
+      "2 hour",
+      "4 hour",
+      "65.00 week",
+      "2 hour",
+      "4 hour",
+      "2 hour",
+      "4 hour",
+      "600.00 day",
+      "100.00 day",
+      "200.00 day"
+    ]
+  }
+}

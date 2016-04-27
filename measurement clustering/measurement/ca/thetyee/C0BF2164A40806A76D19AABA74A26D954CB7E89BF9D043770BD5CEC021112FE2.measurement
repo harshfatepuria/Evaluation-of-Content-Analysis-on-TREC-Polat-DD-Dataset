@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/C0BF2164A40806A76D19AABA74A26D954CB7E89BF9D043770BD5CEC021112FE2"
+    ],
+    "measurement_value": [
+      "80",
+      "80",
+      "5",
+      "5.0",
+      "70",
+      "80"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "minute",
+      "minute",
+      "percent",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "80 percent",
+      "80 percent",
+      "5 minute",
+      "5.0 minute",
+      "70 percent",
+      "80 percent"
+    ]
+  }
+}

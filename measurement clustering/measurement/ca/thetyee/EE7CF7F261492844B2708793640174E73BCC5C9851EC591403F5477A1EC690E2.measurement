@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/EE7CF7F261492844B2708793640174E73BCC5C9851EC591403F5477A1EC690E2"
+    ],
+    "measurement_value": [
+      "1201.0",
+      "2",
+      "3",
+      "1",
+      "1",
+      "1",
+      "1",
+      "2",
+      "1201.0",
+      "1",
+      "15",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "degrees",
+      "year",
+      "day",
+      "year",
+      "year",
+      "year",
+      "degrees",
+      "year",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1201.0 year",
+      "2 degrees",
+      "3 year",
+      "1 day",
+      "1 year",
+      "1 year",
+      "1 year",
+      "2 degrees",
+      "1201.0 year",
+      "1 year",
+      "15 year",
+      "1 week"
+    ]
+  }
+}

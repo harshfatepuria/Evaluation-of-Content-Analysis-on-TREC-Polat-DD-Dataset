@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/4DE192B23C5C38393D540123A1E9E6C4BDB0BE880FED28456B13E63B5DF376EF"
+    ],
+    "measurement_value": [
+      "100",
+      "20",
+      "10",
+      "100",
+      "3",
+      "1",
+      "1",
+      "45",
+      "15000",
+      "1",
+      "50",
+      "10"
+    ],
+    "measurement_unit": [
+      "year",
+      "century",
+      "year",
+      "year",
+      "year",
+      "year",
+      "hour",
+      "kilometer",
+      "year",
+      "year",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "100 year",
+      "20 century",
+      "10 year",
+      "100 year",
+      "3 year",
+      "1 year",
+      "1 hour",
+      "45 kilometer",
+      "15000 year",
+      "1 year",
+      "50 year",
+      "10 year"
+    ]
+  }
+}

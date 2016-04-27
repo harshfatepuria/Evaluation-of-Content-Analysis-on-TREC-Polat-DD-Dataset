@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/302D6255C9D64D18A2A0075B7F5834CF5B7229CDF7D7116CEE221E0693DCBE2F"
+    ],
+    "measurement_value": [
+      "1000000.0",
+      "5",
+      "1000000.0",
+      "3",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "month",
+      "year",
+      "decade",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1000000.0 year",
+      "5 month",
+      "1000000.0 year",
+      "3 decade",
+      "3 year",
+      "1 week"
+    ]
+  }
+}

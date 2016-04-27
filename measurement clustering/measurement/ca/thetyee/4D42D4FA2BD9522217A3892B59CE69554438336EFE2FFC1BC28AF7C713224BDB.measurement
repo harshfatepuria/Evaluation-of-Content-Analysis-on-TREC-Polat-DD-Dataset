@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/4D42D4FA2BD9522217A3892B59CE69554438336EFE2FFC1BC28AF7C713224BDB"
+    ],
+    "measurement_value": [
+      "4",
+      "50",
+      "5",
+      "47",
+      "30",
+      "35",
+      "1"
+    ],
+    "measurement_unit": [
+      "decade",
+      "degreeC",
+      "year",
+      "percent",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4 decade",
+      "50 degreeC",
+      "5 year",
+      "47 percent",
+      "30 year",
+      "35 year",
+      "1 week"
+    ]
+  }
+}

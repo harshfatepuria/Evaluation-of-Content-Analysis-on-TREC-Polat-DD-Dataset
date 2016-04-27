@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/78C2329788C312FBF7CC0B462A9FB9770C4E3769E8A703F364C9F2FE26422AD0"
+    ],
+    "measurement_value": [
+      "1",
+      "150",
+      "20",
+      "1",
+      "18",
+      "4",
+      "4",
+      "12",
+      "1",
+      "1",
+      "3",
+      "10",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "kilometer",
+      "year",
+      "season",
+      "month",
+      "hour",
+      "hour",
+      "hour",
+      "day",
+      "week",
+      "month",
+      "minute",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 season",
+      "150 kilometer",
+      "20 year",
+      "1 season",
+      "18 month",
+      "4 hour",
+      "4 hour",
+      "12 hour",
+      "1 day",
+      "1 week",
+      "3 month",
+      "10 minute",
+      "1 week",
+      "1 week"
+    ]
+  }
+}

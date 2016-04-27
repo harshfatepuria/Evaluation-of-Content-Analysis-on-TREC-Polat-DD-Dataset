@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/gcrc/0072B7EB96A04C5A9640A58633FC7F246ED0CF4695093118C42BE0147D1F7D20"
+    ],
+    "measurement_value": [
+      "180",
+      "100",
+      "1",
+      "80",
+      "72.0",
+      "1",
+      "50",
+      "3"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "kilometer",
+      "day",
+      "kilometer",
+      "month",
+      "year",
+      "year",
+      "month"
+    ],
+    "measurement_extractedText": [
+      "180 kilometer",
+      "100 kilometer",
+      "1 day",
+      "80 kilometer",
+      "72.0 month",
+      "1 year",
+      "50 year",
+      "3 month"
+    ]
+  }
+}

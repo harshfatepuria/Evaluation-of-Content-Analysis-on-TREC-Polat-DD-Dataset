@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/umanitoba/cc/home/F17A168106CD8EAED0C3793AEE264AAD50EDCC95BB4AA1528527592626A727BD"
+    ],
+    "measurement_value": [
+      "1",
+      "22",
+      "75",
+      "70",
+      "1",
+      "100",
+      "20",
+      "50",
+      "65",
+      "25",
+      "45",
+      "80",
+      "60",
+      "26",
+      "30",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "year",
+      "percent",
+      "percent",
+      "degrees",
+      "kilometer",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "kilometer",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 week",
+      "22 year",
+      "75 percent",
+      "70 percent",
+      "1 degrees",
+      "100 kilometer",
+      "20 year",
+      "50 percent",
+      "65 percent",
+      "25 percent",
+      "45 percent",
+      "80 percent",
+      "60 percent",
+      "26 kilometer",
+      "30 percent",
+      "1 week"
+    ]
+  }
+}

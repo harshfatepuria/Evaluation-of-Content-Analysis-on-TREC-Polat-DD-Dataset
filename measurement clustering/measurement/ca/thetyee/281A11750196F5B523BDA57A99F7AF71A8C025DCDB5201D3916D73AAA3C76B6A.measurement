@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/281A11750196F5B523BDA57A99F7AF71A8C025DCDB5201D3916D73AAA3C76B6A"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "30",
+      "4",
+      "6",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "hour",
+      "year",
+      "day",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 hour",
+      "30 year",
+      "4 day",
+      "6 week",
+      "1 week"
+    ]
+  }
+}

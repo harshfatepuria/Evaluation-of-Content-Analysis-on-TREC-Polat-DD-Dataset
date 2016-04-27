@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/8D28D6B74B2B610D29D22985D862CD9C57D60316001BCD15D38DE5E79663A0A8"
+    ],
+    "measurement_value": [
+      "1",
+      "2500",
+      "5000000.0",
+      "1",
+      "3500",
+      "1.4E+7",
+      "1",
+      "60",
+      "10",
+      "10",
+      "60",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "second",
+      "metre",
+      "metre",
+      "year",
+      "metre",
+      "meter",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 second",
+      "2500 metre",
+      "5000000.0 metre",
+      "1 year",
+      "3500 metre",
+      "1.4E+7 meter",
+      "1 year",
+      "60 percent",
+      "10 percent",
+      "10 percent",
+      "60 percent",
+      "2 decade",
+      "1 week"
+    ]
+  }
+}

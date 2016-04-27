@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/DAB47F470C2C8CC842A3E14CC70A43A5EB84ADF8E78046104C1A8B1D7420CF76"
+    ],
+    "measurement_value": [
+      "1.9E+7",
+      "70",
+      "1",
+      "46",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "season",
+      "percent",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1.9E+7 year",
+      "70 percent",
+      "1 season",
+      "46 percent",
+      "1 decade",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BF6E6DD8D6E1C717991309BE26B0F0918FB04AD3B022890B37357496F6574F24"
+    ],
+    "measurement_value": [
+      "2",
+      "55",
+      "2",
+      "1",
+      "350",
+      "50",
+      "25",
+      "90",
+      "1",
+      "60",
+      "1",
+      "35000001",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "year",
+      "month",
+      "kilometer",
+      "metre",
+      "percent",
+      "percent",
+      "degrees",
+      "year",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "55 percent",
+      "2 year",
+      "1 month",
+      "350 kilometer",
+      "50 metre",
+      "25 percent",
+      "90 percent",
+      "1 degrees",
+      "60 year",
+      "1 year",
+      "35000001 year",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/alumni/99FF71A898D41BA29F84AC19536B67102BAAF63CEEEF76067C83792C4006F4BA"
+    ],
+    "measurement_value": [
+      "5",
+      "1",
+      "90",
+      "15",
+      "46",
+      "37",
+      "1",
+      "14.95",
+      "4"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "hour",
+      "week",
+      "hour",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "5 kilometer",
+      "1 percent",
+      "90 percent",
+      "15 percent",
+      "46 percent",
+      "37 hour",
+      "1 week",
+      "14.95 hour",
+      "4 year"
+    ]
+  }
+}

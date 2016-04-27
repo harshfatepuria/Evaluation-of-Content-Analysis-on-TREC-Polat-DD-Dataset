@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/F0C90538BE06F5F2F22141B71A7946CD020AA549CCDFE0E2F5C898B336636BEE"
+    ],
+    "measurement_value": [
+      "5057712.0",
+      "25",
+      "80",
+      "24",
+      "40",
+      "5057712.0"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "percent",
+      "month",
+      "year",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "5057712.0 hour",
+      "25 year",
+      "80 percent",
+      "24 month",
+      "40 year",
+      "5057712.0 hour"
+    ]
+  }
+}

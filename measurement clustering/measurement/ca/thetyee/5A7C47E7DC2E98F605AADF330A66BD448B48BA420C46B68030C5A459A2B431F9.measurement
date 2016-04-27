@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/5A7C47E7DC2E98F605AADF330A66BD448B48BA420C46B68030C5A459A2B431F9"
+    ],
+    "measurement_value": [
+      "3",
+      "3",
+      "460",
+      "40",
+      "75",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "kilometer",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3 year",
+      "3 year",
+      "460 kilometer",
+      "40 percent",
+      "75 percent",
+      "1 week"
+    ]
+  }
+}

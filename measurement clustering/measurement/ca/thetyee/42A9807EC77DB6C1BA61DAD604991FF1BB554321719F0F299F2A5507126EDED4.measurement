@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/42A9807EC77DB6C1BA61DAD604991FF1BB554321719F0F299F2A5507126EDED4"
+    ],
+    "measurement_value": [
+      "10",
+      "10",
+      "1",
+      "0.5",
+      "30",
+      "3",
+      "13",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "decade",
+      "century",
+      "year",
+      "decade",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "10 year",
+      "10 year",
+      "1 decade",
+      "0.5 century",
+      "30 year",
+      "3 decade",
+      "13 year",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/EDB8A97D2085B29057C23D9873CB13B662E6E23D282B2896A6D05A7655FBFF81"
+    ],
+    "measurement_value": [
+      "4",
+      "1",
+      "1",
+      "48",
+      "1",
+      "1",
+      "1",
+      "2",
+      "4907023.0",
+      "44534.0"
+    ],
+    "measurement_unit": [
+      "year",
+      "day",
+      "day",
+      "hour",
+      "degrees",
+      "year",
+      "second",
+      "year",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "4 year",
+      "1 day",
+      "1 day",
+      "48 hour",
+      "1 degrees",
+      "1 year",
+      "1 second",
+      "2 year",
+      "4907023.0 hour",
+      "44534.0 hour"
+    ]
+  }
+}

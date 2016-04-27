@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/14F075FAC7FF6526A8A62C3253CFB3329184B999EC34E979145373CB6975DBF4"
+    ],
+    "measurement_value": [
+      "300",
+      "1",
+      "1",
+      "1",
+      "24",
+      "2",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "day",
+      "year",
+      "day",
+      "hour",
+      "hour",
+      "kilometer",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "300 kilometer",
+      "1 day",
+      "1 year",
+      "1 day",
+      "24 hour",
+      "2 hour",
+      "2 kilometer",
+      "1 week"
+    ]
+  }
+}

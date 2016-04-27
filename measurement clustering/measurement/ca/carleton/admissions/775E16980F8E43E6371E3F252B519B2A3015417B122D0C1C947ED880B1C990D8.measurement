@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/admissions/775E16980F8E43E6371E3F252B519B2A3015417B122D0C1C947ED880B1C990D8"
+    ],
+    "measurement_value": [
+      "5548.0",
+      "4",
+      "1",
+      "5548.0",
+      "4",
+      "2"
+    ],
+    "measurement_unit": [
+      "degrees",
+      "year",
+      "degrees",
+      "degrees",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "5548.0 degrees",
+      "4 year",
+      "1 degrees",
+      "5548.0 degrees",
+      "4 year",
+      "2 year"
+    ]
+  }
+}

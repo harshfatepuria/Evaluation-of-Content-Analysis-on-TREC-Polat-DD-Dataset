@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/wgms/www/2CF30E7CBB8852C8FF18602435476DDAE48697CCFA7DB4E0DB273547C14C3C89"
+    ],
+    "measurement_value": [
+      "0.89",
+      "17.5",
+      "21",
+      "20",
+      "6",
+      "30"
+    ],
+    "measurement_unit": [
+      "metre",
+      "meter",
+      "century",
+      "century",
+      "decade",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "0.89 metre",
+      "17.5 meter",
+      "21 century",
+      "20 century",
+      "6 decade",
+      "30 year"
+    ]
+  }
+}

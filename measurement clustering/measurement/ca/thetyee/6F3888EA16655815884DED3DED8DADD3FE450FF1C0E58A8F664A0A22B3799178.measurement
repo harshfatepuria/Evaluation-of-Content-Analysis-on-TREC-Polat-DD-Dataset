@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/6F3888EA16655815884DED3DED8DADD3FE450FF1C0E58A8F664A0A22B3799178"
+    ],
+    "measurement_value": [
+      "19",
+      "2025.0",
+      "20000",
+      "46",
+      "5",
+      "16.0",
+      "35001.0",
+      "17.0",
+      "26.0",
+      "8",
+      "16.0",
+      "16.0",
+      "5",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "hour",
+      "year",
+      "hour",
+      "hour",
+      "year",
+      "hour",
+      "hour",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "19 year",
+      "2025.0 percent",
+      "20000 year",
+      "46 percent",
+      "5 year",
+      "16.0 hour",
+      "35001.0 year",
+      "17.0 hour",
+      "26.0 hour",
+      "8 year",
+      "16.0 hour",
+      "16.0 hour",
+      "5 year",
+      "1 week"
+    ]
+  }
+}

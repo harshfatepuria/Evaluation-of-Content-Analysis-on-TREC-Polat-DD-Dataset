@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/B9884327D20EBCDA481B02725A66DCC23B93A824401176785A80101BDC76EB3F"
+    ],
+    "measurement_value": [
+      "30",
+      "15",
+      "30",
+      "15",
+      "60",
+      "15"
+    ],
+    "measurement_unit": [
+      "hour",
+      "minute",
+      "hour",
+      "minute",
+      "hour",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "30 hour",
+      "15 minute",
+      "30 hour",
+      "15 minute",
+      "60 hour",
+      "15 minute"
+    ]
+  }
+}

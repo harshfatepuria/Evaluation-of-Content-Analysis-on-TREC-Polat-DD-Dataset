@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/polarcom/www/C612CE0E8978D53CD3401A92CF3F4E9F1D63015D2C8B9FE78BF529F010B63582"
+    ],
+    "measurement_value": [
+      "2",
+      "6",
+      "5",
+      "2000000.0",
+      "97500.0",
+      "5",
+      "1000000",
+      "30",
+      "30",
+      "10",
+      "2",
+      "10",
+      "1",
+      "108000.0",
+      "3"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "kilometer",
+      "kilometer",
+      "nanometer",
+      "year",
+      "year",
+      "year",
+      "kilometer",
+      "decade",
+      "year",
+      "season",
+      "meter",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "2 year",
+      "6 year",
+      "5 year",
+      "2000000.0 kilometer",
+      "97500.0 kilometer",
+      "5 nanometer",
+      "1000000 year",
+      "30 year",
+      "30 year",
+      "10 kilometer",
+      "2 decade",
+      "10 year",
+      "1 season",
+      "108000.0 meter",
+      "3 decade"
+    ]
+  }
+}

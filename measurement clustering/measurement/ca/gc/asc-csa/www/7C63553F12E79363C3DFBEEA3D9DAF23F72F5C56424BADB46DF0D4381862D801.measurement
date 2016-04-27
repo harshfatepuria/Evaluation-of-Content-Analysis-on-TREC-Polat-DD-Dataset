@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/asc-csa/www/7C63553F12E79363C3DFBEEA3D9DAF23F72F5C56424BADB46DF0D4381862D801"
+    ],
+    "measurement_value": [
+      "1.0E+7",
+      "1",
+      "1000",
+      "300",
+      "600"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "hour",
+      "kilometer",
+      "kilometer",
+      "kilometer"
+    ],
+    "measurement_extractedText": [
+      "1.0E+7 kilometer",
+      "1 hour",
+      "1000 kilometer",
+      "300 kilometer",
+      "600 kilometer"
+    ]
+  }
+}

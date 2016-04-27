@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/2A3009DB47F8BB10512FC4093ED987A23994CFF94003AC24BF16539085FEE3A9"
+    ],
+    "measurement_value": [
+      "46",
+      "32",
+      "16",
+      "6",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "46 percent",
+      "32 percent",
+      "16 percent",
+      "6 percent",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

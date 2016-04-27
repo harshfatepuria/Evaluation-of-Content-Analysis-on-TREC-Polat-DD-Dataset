@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F301E7E82A3526522FD58EDA548DF0E573B86A961911BB6A1DB862B9ADDDB52B"
+    ],
+    "measurement_value": [
+      "19",
+      "42",
+      "34.0",
+      "19",
+      "68",
+      "10",
+      "78",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "minute",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "19 percent",
+      "42 percent",
+      "34.0 percent",
+      "19 percent",
+      "68 percent",
+      "10 minute",
+      "78 percent",
+      "1 week"
+    ]
+  }
+}

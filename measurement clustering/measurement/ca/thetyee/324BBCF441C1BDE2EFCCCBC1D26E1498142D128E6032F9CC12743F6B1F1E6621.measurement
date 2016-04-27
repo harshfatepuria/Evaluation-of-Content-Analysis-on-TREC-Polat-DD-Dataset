@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/324BBCF441C1BDE2EFCCCBC1D26E1498142D128E6032F9CC12743F6B1F1E6621"
+    ],
+    "measurement_value": [
+      "1",
+      "13",
+      "2",
+      "15",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "hour",
+      "month",
+      "minute",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "13 hour",
+      "2 month",
+      "15 minute",
+      "1 week"
+    ]
+  }
+}

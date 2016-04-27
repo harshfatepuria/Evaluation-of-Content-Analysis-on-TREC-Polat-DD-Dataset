@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/C7F1EC984B122198D371251301E71A78CDBEC8606C10B4B9A68B61DF8B18C2DF"
+    ],
+    "measurement_value": [
+      "15",
+      "96",
+      "462",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "minute",
+      "percent",
+      "degreeC",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "15 minute",
+      "96 percent",
+      "462 degreeC",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

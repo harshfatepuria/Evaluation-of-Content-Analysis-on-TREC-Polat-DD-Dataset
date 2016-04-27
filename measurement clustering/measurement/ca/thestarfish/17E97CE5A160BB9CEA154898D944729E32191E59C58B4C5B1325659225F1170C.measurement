@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thestarfish/17E97CE5A160BB9CEA154898D944729E32191E59C58B4C5B1325659225F1170C"
+    ],
+    "measurement_value": [
+      "4",
+      "4",
+      "25",
+      "2014",
+      "15",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "year",
+      "year",
+      "watt",
+      "hour",
+      "day",
+      "day"
+    ],
+    "measurement_extractedText": [
+      "4 month",
+      "4 year",
+      "25 year",
+      "2014 watt",
+      "15 hour",
+      "1 day",
+      "1 day"
+    ]
+  }
+}

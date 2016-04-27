@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/B167818774349FFC148C50F716FCD813EC6B123C988BFDB03F2C265CF0C46771"
+    ],
+    "measurement_value": [
+      "1",
+      "2",
+      "8",
+      "5",
+      "0",
+      "1",
+      "38",
+      "2",
+      "2",
+      "500",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "year",
+      "year",
+      "year",
+      "degreeC",
+      "day",
+      "percent",
+      "year",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 month",
+      "2 year",
+      "8 year",
+      "5 year",
+      "0 degreeC",
+      "1 day",
+      "38 percent",
+      "2 year",
+      "2 year",
+      "500 year",
+      "1 week"
+    ]
+  }
+}

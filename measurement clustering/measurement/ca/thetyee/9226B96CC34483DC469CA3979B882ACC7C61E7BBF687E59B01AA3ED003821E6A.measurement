@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/9226B96CC34483DC469CA3979B882ACC7C61E7BBF687E59B01AA3ED003821E6A"
+    ],
+    "measurement_value": [
+      "3",
+      "20",
+      "4",
+      "40",
+      "5",
+      "4",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3 year",
+      "20 percent",
+      "4 year",
+      "40 percent",
+      "5 year",
+      "4 year",
+      "1 week"
+    ]
+  }
+}

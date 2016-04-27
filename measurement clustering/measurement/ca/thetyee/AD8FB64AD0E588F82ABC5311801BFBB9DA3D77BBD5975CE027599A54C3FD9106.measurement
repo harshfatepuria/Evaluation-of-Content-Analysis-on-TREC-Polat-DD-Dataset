@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/AD8FB64AD0E588F82ABC5311801BFBB9DA3D77BBD5975CE027599A54C3FD9106"
+    ],
+    "measurement_value": [
+      "5",
+      "737",
+      "1",
+      "30",
+      "15001.0",
+      "3",
+      "36000",
+      "10",
+      "40",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "month",
+      "decade",
+      "percent",
+      "year",
+      "percent",
+      "year",
+      "year",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "5 year",
+      "737 month",
+      "1 decade",
+      "30 percent",
+      "15001.0 year",
+      "3 percent",
+      "36000 year",
+      "10 year",
+      "40 percent",
+      "1 year",
+      "1 week"
+    ]
+  }
+}

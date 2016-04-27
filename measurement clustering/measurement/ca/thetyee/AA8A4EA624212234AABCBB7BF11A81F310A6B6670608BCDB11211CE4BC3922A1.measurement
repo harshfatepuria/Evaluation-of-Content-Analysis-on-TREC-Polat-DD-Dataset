@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/AA8A4EA624212234AABCBB7BF11A81F310A6B6670608BCDB11211CE4BC3922A1"
+    ],
+    "measurement_value": [
+      "1700",
+      "10",
+      "1",
+      "26",
+      "1",
+      "16",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "month",
+      "day",
+      "year",
+      "day",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1700 kilometer",
+      "10 month",
+      "1 day",
+      "26 year",
+      "1 day",
+      "16 year",
+      "1 week"
+    ]
+  }
+}

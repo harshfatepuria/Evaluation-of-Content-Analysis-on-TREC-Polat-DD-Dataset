@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/churchillscience/www/638B850B27F4349EE804D1762BADB6690C8BC6F84EDFFA66463A372652F955E6"
+    ],
+    "measurement_value": [
+      "23",
+      "7",
+      "240",
+      "40",
+      "8",
+      "1",
+      "20.0",
+      "1",
+      "2",
+      "45.0"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "day",
+      "year",
+      "degrees",
+      "month",
+      "day",
+      "hour",
+      "day",
+      "day",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "23 kilometer",
+      "7 day",
+      "240 year",
+      "40 degrees",
+      "8 month",
+      "1 day",
+      "20.0 hour",
+      "1 day",
+      "2 day",
+      "45.0 minute"
+    ]
+  }
+}

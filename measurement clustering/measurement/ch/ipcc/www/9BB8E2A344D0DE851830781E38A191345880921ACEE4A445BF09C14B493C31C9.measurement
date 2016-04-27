@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/9BB8E2A344D0DE851830781E38A191345880921ACEE4A445BF09C14B493C31C9"
+    ],
+    "measurement_value": [
+      "13",
+      "800000",
+      "21",
+      "3",
+      "21",
+      "70",
+      "14",
+      "6"
+    ],
+    "measurement_unit": [
+      "month",
+      "year",
+      "century",
+      "percent",
+      "century",
+      "percent",
+      "month",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "13 month",
+      "800000 year",
+      "21 century",
+      "3 percent",
+      "21 century",
+      "70 percent",
+      "14 month",
+      "6 year"
+    ]
+  }
+}

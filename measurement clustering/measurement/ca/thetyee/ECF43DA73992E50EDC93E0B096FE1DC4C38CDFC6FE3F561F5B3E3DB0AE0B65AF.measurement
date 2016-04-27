@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/ECF43DA73992E50EDC93E0B096FE1DC4C38CDFC6FE3F561F5B3E3DB0AE0B65AF"
+    ],
+    "measurement_value": [
+      "1",
+      "100.0",
+      "0.5",
+      "100.0",
+      "19",
+      "23",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "century",
+      "year",
+      "century",
+      "century",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 hour",
+      "100.0 year",
+      "0.5 century",
+      "100.0 year",
+      "19 century",
+      "23 century",
+      "1 week"
+    ]
+  }
+}

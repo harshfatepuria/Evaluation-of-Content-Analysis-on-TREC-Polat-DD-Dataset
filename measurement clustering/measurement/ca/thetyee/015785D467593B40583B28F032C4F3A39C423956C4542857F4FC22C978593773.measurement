@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/015785D467593B40583B28F032C4F3A39C423956C4542857F4FC22C978593773"
+    ],
+    "measurement_value": [
+      "51.0",
+      "39",
+      "1",
+      "21",
+      "1",
+      "51.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "percent",
+      "year",
+      "century",
+      "day",
+      "month",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "51.0 month",
+      "39 percent",
+      "1 year",
+      "21 century",
+      "1 day",
+      "51.0 month",
+      "1 week"
+    ]
+  }
+}

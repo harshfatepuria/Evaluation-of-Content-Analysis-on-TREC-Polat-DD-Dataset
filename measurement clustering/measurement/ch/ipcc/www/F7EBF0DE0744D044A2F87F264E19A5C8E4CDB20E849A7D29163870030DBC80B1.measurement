@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/F7EBF0DE0744D044A2F87F264E19A5C8E4CDB20E849A7D29163870030DBC80B1"
+    ],
+    "measurement_value": [
+      "4",
+      "2050",
+      "20",
+      "6",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "millenium",
+      "millenium",
+      "century",
+      "year",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "4 millenium",
+      "2050 millenium",
+      "20 century",
+      "6 year",
+      "3 year",
+      "1 year"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/6AECFDF9CD9A7777450ECBEE0B1D7A84729609281BFACBF89E1F0A5683D2644C"
+    ],
+    "measurement_value": [
+      "1",
+      "21",
+      "1",
+      "7",
+      "2",
+      "1",
+      "5",
+      "12",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "century",
+      "day",
+      "minute",
+      "month",
+      "day",
+      "minute",
+      "kilometer",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 hour",
+      "21 century",
+      "1 day",
+      "7 minute",
+      "2 month",
+      "1 day",
+      "5 minute",
+      "12 kilometer",
+      "1 week"
+    ]
+  }
+}

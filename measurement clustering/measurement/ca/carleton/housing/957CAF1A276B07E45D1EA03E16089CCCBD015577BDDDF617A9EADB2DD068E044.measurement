@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/housing/957CAF1A276B07E45D1EA03E16089CCCBD015577BDDDF617A9EADB2DD068E044"
+    ],
+    "measurement_value": [
+      "11",
+      "13",
+      "13",
+      "3"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "hour",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "11 hour",
+      "13 hour",
+      "13 hour",
+      "3 year"
+    ]
+  }
+}

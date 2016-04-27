@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/nature/9CADF3FF880AD143C15C068D82DA86D2681442AB4B55F52C6D739F9DA6D60B32"
+    ],
+    "measurement_value": [
+      "0.5",
+      "12",
+      "240"
+    ],
+    "measurement_unit": [
+      "hour",
+      "day",
+      "volt"
+    ],
+    "measurement_extractedText": [
+      "0.5 hour",
+      "12 day",
+      "240 volt"
+    ]
+  }
+}

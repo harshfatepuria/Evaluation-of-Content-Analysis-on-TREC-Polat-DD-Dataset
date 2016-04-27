@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/arcticnetmeetings/www/629ECE2CB2C439F8CF27CCA10AD867287087B274ED43B92A057D3EBB34DDFDD6"
+    ],
+    "measurement_value": [
+      "90",
+      "15",
+      "30",
+      "90",
+      "15",
+      "115",
+      "115"
+    ],
+    "measurement_unit": [
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "minute",
+      "centimeter",
+      "centimeter"
+    ],
+    "measurement_extractedText": [
+      "90 minute",
+      "15 minute",
+      "30 minute",
+      "90 minute",
+      "15 minute",
+      "115 centimeter",
+      "115 centimeter"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/13458F06F3215B14E4B3052DE7A18446075673C01F1CFC7B7340CEBF614CBA66"
+    ],
+    "measurement_value": [
+      "21",
+      "0.8",
+      "125000",
+      "1",
+      "850"
+    ],
+    "measurement_unit": [
+      "century",
+      "meter",
+      "year",
+      "millenium",
+      "ppm"
+    ],
+    "measurement_extractedText": [
+      "21 century",
+      "0.8 meter",
+      "125000 year",
+      "1 millenium",
+      "850 ppm"
+    ]
+  }
+}

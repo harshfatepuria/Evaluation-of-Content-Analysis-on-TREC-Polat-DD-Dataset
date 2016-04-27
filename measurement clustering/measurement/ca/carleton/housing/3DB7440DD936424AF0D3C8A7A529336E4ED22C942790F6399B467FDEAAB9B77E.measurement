@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/housing/3DB7440DD936424AF0D3C8A7A529336E4ED22C942790F6399B467FDEAAB9B77E"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "1",
+      "12",
+      "20",
+      "96.0"
+    ],
+    "measurement_unit": [
+      "month",
+      "week",
+      "month",
+      "month",
+      "degrees",
+      "month"
+    ],
+    "measurement_extractedText": [
+      "1 month",
+      "1 week",
+      "1 month",
+      "12 month",
+      "20 degrees",
+      "96.0 month"
+    ]
+  }
+}

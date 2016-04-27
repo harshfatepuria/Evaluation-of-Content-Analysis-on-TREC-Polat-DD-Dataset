@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/peterjanes/0FE62947C91477751BBDCA2F65E05F1D38F6BF270DB2CEBFCE9EA4AFD24D19F6"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "20",
+      "1",
+      "1",
+      "1.6",
+      "22",
+      "1",
+      "20",
+      "20"
+    ],
+    "measurement_unit": [
+      "week",
+      "day",
+      "year",
+      "year",
+      "week",
+      "hour",
+      "minute",
+      "year",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 week",
+      "1 day",
+      "20 year",
+      "1 year",
+      "1 week",
+      "1.6 hour",
+      "22 minute",
+      "1 year",
+      "20 year",
+      "20 year"
+    ]
+  }
+}

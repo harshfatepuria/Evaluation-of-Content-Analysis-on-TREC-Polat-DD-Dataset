@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/desmog/www/57ED53384010DD9656792DF2E8F0E4344FD90871AC1AFB76A86412A9D85EB07E"
+    ],
+    "measurement_value": [
+      "40",
+      "12",
+      "20.0",
+      "1",
+      "48",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "degrees",
+      "percent",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "40 percent",
+      "12 percent",
+      "20.0 percent",
+      "1 degrees",
+      "48 percent",
+      "1 year"
+    ]
+  }
+}

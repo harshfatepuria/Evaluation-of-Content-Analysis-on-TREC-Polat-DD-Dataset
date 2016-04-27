@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/firstair/601D3E8E9A0F2C518D84136D1AFFB4DBE4CD784A17C61C5F21E1667EE11A24BE"
+    ],
+    "measurement_value": [
+      "25",
+      "46",
+      "55",
+      "23",
+      "41",
+      "46",
+      "24",
+      "24"
+    ],
+    "measurement_unit": [
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "centimeter",
+      "hour",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "25 centimeter",
+      "46 centimeter",
+      "55 centimeter",
+      "23 centimeter",
+      "41 centimeter",
+      "46 centimeter",
+      "24 hour",
+      "24 hour"
+    ]
+  }
+}

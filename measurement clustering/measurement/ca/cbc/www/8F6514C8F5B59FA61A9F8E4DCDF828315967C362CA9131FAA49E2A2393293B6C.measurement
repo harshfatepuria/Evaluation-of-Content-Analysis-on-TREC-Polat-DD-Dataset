@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/8F6514C8F5B59FA61A9F8E4DCDF828315967C362CA9131FAA49E2A2393293B6C"
+    ],
+    "measurement_value": [
+      "30",
+      "500",
+      "30",
+      "200",
+      "400",
+      "48"
+    ],
+    "measurement_unit": [
+      "metre",
+      "metre",
+      "metre",
+      "metre",
+      "kilometer",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "30 metre",
+      "500 metre",
+      "30 metre",
+      "200 metre",
+      "400 kilometer",
+      "48 hour"
+    ]
+  }
+}

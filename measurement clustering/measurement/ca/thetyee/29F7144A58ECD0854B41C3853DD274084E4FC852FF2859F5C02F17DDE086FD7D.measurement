@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/29F7144A58ECD0854B41C3853DD274084E4FC852FF2859F5C02F17DDE086FD7D"
+    ],
+    "measurement_value": [
+      "49",
+      "2025.0",
+      "32",
+      "59",
+      "2",
+      "2",
+      "1",
+      "90",
+      "28",
+      "58",
+      "1",
+      "1",
+      "1",
+      "4",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "season",
+      "percent",
+      "percent",
+      "year",
+      "year",
+      "season",
+      "percent",
+      "percent",
+      "percent",
+      "day",
+      "season",
+      "year",
+      "month",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "49 percent",
+      "2025.0 season",
+      "32 percent",
+      "59 percent",
+      "2 year",
+      "2 year",
+      "1 season",
+      "90 percent",
+      "28 percent",
+      "58 percent",
+      "1 day",
+      "1 season",
+      "1 year",
+      "4 month",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

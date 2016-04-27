@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/1B6364BFAD1096AA58EA5A4109D0512909C46F7BF72E29130E93AD51D9B94427"
+    ],
+    "measurement_value": [
+      "21",
+      "17",
+      "1",
+      "6",
+      "18",
+      "31",
+      "4",
+      "1",
+      "1",
+      "5",
+      "1",
+      "2",
+      "30",
+      "1",
+      "1",
+      "1",
+      "5",
+      "3"
+    ],
+    "measurement_unit": [
+      "century",
+      "percent",
+      "season",
+      "percent",
+      "percent",
+      "percent",
+      "hour",
+      "day",
+      "week",
+      "week",
+      "day",
+      "hour",
+      "year",
+      "year",
+      "week",
+      "decade",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "21 century",
+      "17 percent",
+      "1 season",
+      "6 percent",
+      "18 percent",
+      "31 percent",
+      "4 hour",
+      "1 day",
+      "1 week",
+      "5 week",
+      "1 day",
+      "2 hour",
+      "30 year",
+      "1 year",
+      "1 week",
+      "1 decade",
+      "5 year",
+      "3 week"
+    ]
+  }
+}

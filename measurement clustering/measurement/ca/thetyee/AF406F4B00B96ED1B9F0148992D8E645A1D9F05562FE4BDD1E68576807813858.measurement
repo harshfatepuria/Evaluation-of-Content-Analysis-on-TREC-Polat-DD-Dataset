@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/AF406F4B00B96ED1B9F0148992D8E645A1D9F05562FE4BDD1E68576807813858"
+    ],
+    "measurement_value": [
+      "5",
+      "2",
+      "10",
+      "1",
+      "35",
+      "20",
+      "5",
+      "5",
+      "4",
+      "5",
+      "30",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "minute",
+      "micron",
+      "day",
+      "week",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "5 week",
+      "2 year",
+      "10 year",
+      "1 year",
+      "35 year",
+      "20 year",
+      "5 minute",
+      "5 micron",
+      "4 day",
+      "5 week",
+      "30 year",
+      "1 week"
+    ]
+  }
+}

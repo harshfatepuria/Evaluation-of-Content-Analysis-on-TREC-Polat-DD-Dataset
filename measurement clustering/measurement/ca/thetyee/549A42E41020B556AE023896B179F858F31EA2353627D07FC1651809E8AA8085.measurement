@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/549A42E41020B556AE023896B179F858F31EA2353627D07FC1651809E8AA8085"
+    ],
+    "measurement_value": [
+      "3",
+      "67000",
+      "1",
+      "20",
+      "12",
+      "31",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "year",
+      "degrees",
+      "year",
+      "hour",
+      "second",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "3 week",
+      "67000 year",
+      "1 degrees",
+      "20 year",
+      "12 hour",
+      "31 second",
+      "1 year"
+    ]
+  }
+}

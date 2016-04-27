@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/33392E9041486E34CEE8C7B8B310D6C3375CF6CC10BE9325DCB27DD917E36736"
+    ],
+    "measurement_value": [
+      "125",
+      "19",
+      "20",
+      "19",
+      "20",
+      "20",
+      "4.0",
+      "20",
+      "20",
+      "1",
+      "12",
+      "3000",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "century",
+      "century",
+      "century",
+      "century",
+      "century",
+      "season",
+      "century",
+      "century",
+      "year",
+      "month",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "125 year",
+      "19 century",
+      "20 century",
+      "19 century",
+      "20 century",
+      "20 century",
+      "4.0 season",
+      "20 century",
+      "20 century",
+      "1 year",
+      "12 month",
+      "3000 year",
+      "20 year",
+      "1 week"
+    ]
+  }
+}

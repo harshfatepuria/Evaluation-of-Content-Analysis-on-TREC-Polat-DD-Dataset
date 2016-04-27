@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/7244CE8737BFE268F35D96DA9330334EBCB31B9F89C601157DA5046A8995F717"
+    ],
+    "measurement_value": [
+      "400",
+      "10",
+      "1",
+      "2",
+      "1",
+      "2006",
+      "1",
+      "30",
+      "2",
+      "4",
+      "2011",
+      "99",
+      "5"
+    ],
+    "measurement_unit": [
+      "year",
+      "kilometer",
+      "year",
+      "year",
+      "year",
+      "perMil",
+      "year",
+      "year",
+      "month",
+      "year",
+      "meter",
+      "percent",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "400 year",
+      "10 kilometer",
+      "1 year",
+      "2 year",
+      "1 year",
+      "2006 perMil",
+      "1 year",
+      "30 year",
+      "2 month",
+      "4 year",
+      "2011 meter",
+      "99 percent",
+      "5 year"
+    ]
+  }
+}

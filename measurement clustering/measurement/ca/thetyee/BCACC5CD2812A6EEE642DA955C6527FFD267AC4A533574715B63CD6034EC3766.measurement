@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BCACC5CD2812A6EEE642DA955C6527FFD267AC4A533574715B63CD6034EC3766"
+    ],
+    "measurement_value": [
+      "335",
+      "1",
+      "100",
+      "20",
+      "100",
+      "1",
+      "1",
+      "82",
+      "70",
+      "1000",
+      "40000001",
+      "35000001",
+      "335",
+      "107",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "year",
+      "kilometer",
+      "kilometer",
+      "kilometer",
+      "year",
+      "month",
+      "percent",
+      "kilometer",
+      "hour",
+      "year",
+      "year",
+      "kilometer",
+      "kilometer",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "335 kilometer",
+      "1 year",
+      "100 kilometer",
+      "20 kilometer",
+      "100 kilometer",
+      "1 year",
+      "1 month",
+      "82 percent",
+      "70 kilometer",
+      "1000 hour",
+      "40000001 year",
+      "35000001 year",
+      "335 kilometer",
+      "107 kilometer",
+      "1 week"
+    ]
+  }
+}

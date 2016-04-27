@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/161C7BD9F854BC612F7F13B7806330781C6B76A1A5F357E7B3C971766A54FCCB"
+    ],
+    "measurement_value": [
+      "24",
+      "1",
+      "1",
+      "50"
+    ],
+    "measurement_unit": [
+      "hour",
+      "day",
+      "week",
+      "kilometer"
+    ],
+    "measurement_extractedText": [
+      "24 hour",
+      "1 day",
+      "1 week",
+      "50 kilometer"
+    ]
+  }
+}

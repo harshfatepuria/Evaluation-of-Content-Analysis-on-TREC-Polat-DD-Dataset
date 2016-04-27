@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/1BB576832B04BFED9D8AC9A1E6B260A86C2433D18AAD00745139311FE22324FD"
+    ],
+    "measurement_value": [
+      "2849495.0",
+      "16",
+      "19",
+      "20",
+      "30",
+      "1",
+      "4",
+      "4"
+    ],
+    "measurement_unit": [
+      "hour",
+      "century",
+      "century",
+      "century",
+      "year",
+      "year",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "2849495.0 hour",
+      "16 century",
+      "19 century",
+      "20 century",
+      "30 year",
+      "1 year",
+      "4 year",
+      "4 year"
+    ]
+  }
+}

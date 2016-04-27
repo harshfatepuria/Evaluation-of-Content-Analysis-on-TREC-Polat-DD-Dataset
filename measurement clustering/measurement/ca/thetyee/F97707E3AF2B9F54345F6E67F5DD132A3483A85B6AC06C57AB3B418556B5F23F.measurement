@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F97707E3AF2B9F54345F6E67F5DD132A3483A85B6AC06C57AB3B418556B5F23F"
+    ],
+    "measurement_value": [
+      "100",
+      "1",
+      "1",
+      "7",
+      "1",
+      "80",
+      "15",
+      "75",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "month",
+      "year",
+      "year",
+      "year",
+      "day",
+      "minute",
+      "month",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "100 year",
+      "1 year",
+      "1 month",
+      "7 year",
+      "1 year",
+      "80 year",
+      "15 day",
+      "75 minute",
+      "2 month",
+      "1 week"
+    ]
+  }
+}

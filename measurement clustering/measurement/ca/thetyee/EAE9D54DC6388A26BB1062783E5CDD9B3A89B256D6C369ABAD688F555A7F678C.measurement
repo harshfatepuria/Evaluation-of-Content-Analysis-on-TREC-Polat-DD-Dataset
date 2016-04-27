@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/EAE9D54DC6388A26BB1062783E5CDD9B3A89B256D6C369ABAD688F555A7F678C"
+    ],
+    "measurement_value": [
+      "1",
+      "1.0E+7",
+      "4500000.0",
+      "2",
+      "150",
+      "530",
+      "20",
+      "45",
+      "2",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "metre",
+      "metre",
+      "metre",
+      "metre",
+      "metre",
+      "metre",
+      "year",
+      "year",
+      "week",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 metre",
+      "1.0E+7 metre",
+      "4500000.0 metre",
+      "2 metre",
+      "150 metre",
+      "530 metre",
+      "20 year",
+      "45 year",
+      "2 week",
+      "10 year",
+      "1 week"
+    ]
+  }
+}

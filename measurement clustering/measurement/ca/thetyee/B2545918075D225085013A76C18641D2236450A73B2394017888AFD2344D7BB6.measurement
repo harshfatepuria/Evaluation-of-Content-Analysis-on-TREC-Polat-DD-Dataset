@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/B2545918075D225085013A76C18641D2236450A73B2394017888AFD2344D7BB6"
+    ],
+    "measurement_value": [
+      "9",
+      "16.0",
+      "22",
+      "24",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "hour",
+      "week",
+      "hour",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "9 month",
+      "16.0 hour",
+      "22 week",
+      "24 hour",
+      "3 week",
+      "1 week"
+    ]
+  }
+}

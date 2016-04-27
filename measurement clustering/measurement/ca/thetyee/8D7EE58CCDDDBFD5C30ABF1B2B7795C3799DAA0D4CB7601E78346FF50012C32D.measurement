@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/8D7EE58CCDDDBFD5C30ABF1B2B7795C3799DAA0D4CB7601E78346FF50012C32D"
+    ],
+    "measurement_value": [
+      "8",
+      "1",
+      "2.83",
+      "1",
+      "1",
+      "100001.0",
+      "1",
+      "21",
+      "3",
+      "112",
+      "68",
+      "1",
+      "1",
+      "1",
+      "22.75",
+      "3",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "year",
+      "percent",
+      "century",
+      "year",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "8 year",
+      "1 percent",
+      "2.83 percent",
+      "1 percent",
+      "1 percent",
+      "100001.0 year",
+      "1 percent",
+      "21 century",
+      "3 year",
+      "112 percent",
+      "68 percent",
+      "1 percent",
+      "1 percent",
+      "1 percent",
+      "22.75 percent",
+      "3 decade",
+      "1 week"
+    ]
+  }
+}

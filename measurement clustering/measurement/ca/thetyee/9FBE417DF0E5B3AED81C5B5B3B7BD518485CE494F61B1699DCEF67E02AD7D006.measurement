@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/9FBE417DF0E5B3AED81C5B5B3B7BD518485CE494F61B1699DCEF67E02AD7D006"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "15.0",
+      "21",
+      "12",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "day",
+      "percent",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 month",
+      "1 day",
+      "15.0 percent",
+      "21 percent",
+      "12 percent",
+      "1 week"
+    ]
+  }
+}

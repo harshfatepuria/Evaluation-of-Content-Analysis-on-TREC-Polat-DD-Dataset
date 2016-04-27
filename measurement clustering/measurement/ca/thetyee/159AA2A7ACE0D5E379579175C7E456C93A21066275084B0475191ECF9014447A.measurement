@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/159AA2A7ACE0D5E379579175C7E456C93A21066275084B0475191ECF9014447A"
+    ],
+    "measurement_value": [
+      "0.5",
+      "50",
+      "1",
+      "20",
+      "1",
+      "1",
+      "5",
+      "1",
+      "1",
+      "11",
+      "7",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "decade",
+      "minute",
+      "century",
+      "century",
+      "year",
+      "year",
+      "decade",
+      "hour",
+      "day",
+      "decade",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "0.5 hour",
+      "50 year",
+      "1 decade",
+      "20 minute",
+      "1 century",
+      "1 century",
+      "5 year",
+      "1 year",
+      "1 decade",
+      "11 hour",
+      "7 day",
+      "1 decade",
+      "1 week"
+    ]
+  }
+}

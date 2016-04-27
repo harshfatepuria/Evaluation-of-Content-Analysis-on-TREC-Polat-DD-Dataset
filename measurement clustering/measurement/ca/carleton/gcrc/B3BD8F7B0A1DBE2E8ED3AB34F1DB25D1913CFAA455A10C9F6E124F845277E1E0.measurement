@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/gcrc/B3BD8F7B0A1DBE2E8ED3AB34F1DB25D1913CFAA455A10C9F6E124F845277E1E0"
+    ],
+    "measurement_value": [
+      "1000",
+      "30",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilometer",
+      "second",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1000 kilometer",
+      "30 second",
+      "2 year",
+      "1 week"
+    ]
+  }
+}

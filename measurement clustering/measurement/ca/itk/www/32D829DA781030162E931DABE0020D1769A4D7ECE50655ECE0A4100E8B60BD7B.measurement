@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/itk/www/32D829DA781030162E931DABE0020D1769A4D7ECE50655ECE0A4100E8B60BD7B"
+    ],
+    "measurement_value": [
+      "40",
+      "600",
+      "40",
+      "30",
+      "1000000",
+      "25"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "year",
+      "year",
+      "kilometer",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "40 year",
+      "600 year",
+      "40 year",
+      "30 year",
+      "1000000 kilometer",
+      "25 year"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/9DFC67A4AE678BBAC76B870D80D09D25F1DDC1832D8A71017BC2A90681F494C9"
+    ],
+    "measurement_value": [
+      "6.8",
+      "0.3",
+      "1.9",
+      "2.4",
+      "1",
+      "40",
+      "4.7",
+      "6.8",
+      "40",
+      "2.8",
+      "2.4",
+      "2.6"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "degrees",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "6.8 percent",
+      "0.3 percent",
+      "1.9 percent",
+      "2.4 percent",
+      "1 degrees",
+      "40 percent",
+      "4.7 percent",
+      "6.8 percent",
+      "40 percent",
+      "2.8 percent",
+      "2.4 percent",
+      "2.6 percent"
+    ]
+  }
+}

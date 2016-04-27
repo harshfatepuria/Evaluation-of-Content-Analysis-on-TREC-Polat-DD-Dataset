@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/1A21639FB231FEEBB64B978111711EE9A533A6D4E829D6098F4A8AEE232E44FE"
+    ],
+    "measurement_value": [
+      "10",
+      "98",
+      "1",
+      "40",
+      "1",
+      "3",
+      "2.0E+7",
+      "3",
+      "2",
+      "6",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "minute",
+      "hour",
+      "week",
+      "percent",
+      "year",
+      "percent",
+      "kilometer",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "10 percent",
+      "98 percent",
+      "1 minute",
+      "40 hour",
+      "1 week",
+      "3 percent",
+      "2.0E+7 year",
+      "3 percent",
+      "2 kilometer",
+      "6 year",
+      "1 week"
+    ]
+  }
+}

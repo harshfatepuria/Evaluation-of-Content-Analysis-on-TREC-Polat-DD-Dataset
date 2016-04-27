@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/DC9BD2B1EF8D01395AB17CBC083F0ECB0513AEE7C2662CE2617B00EB2CC2BB26"
+    ],
+    "measurement_value": [
+      "2012",
+      "2012",
+      "2012",
+      "2013",
+      "2013",
+      "2014",
+      "2014",
+      "42.0"
+    ],
+    "measurement_unit": [
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2012 week",
+      "2012 week",
+      "2012 week",
+      "2013 week",
+      "2013 week",
+      "2014 week",
+      "2014 week",
+      "42.0 week"
+    ]
+  }
+}

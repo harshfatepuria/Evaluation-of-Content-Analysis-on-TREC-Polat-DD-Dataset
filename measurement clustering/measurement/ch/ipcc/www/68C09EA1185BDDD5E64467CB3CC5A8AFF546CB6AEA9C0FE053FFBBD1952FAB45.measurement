@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/68C09EA1185BDDD5E64467CB3CC5A8AFF546CB6AEA9C0FE053FFBBD1952FAB45"
+    ],
+    "measurement_value": [
+      "20",
+      "21",
+      "20",
+      "1",
+      "-1.38",
+      "0.35",
+      "21",
+      "1.0",
+      "9",
+      "21"
+    ],
+    "measurement_unit": [
+      "century",
+      "century",
+      "century",
+      "month",
+      "meter",
+      "meter",
+      "century",
+      "meter",
+      "meter",
+      "century"
+    ],
+    "measurement_extractedText": [
+      "20 century",
+      "21 century",
+      "20 century",
+      "1 month",
+      "-1.38 meter",
+      "0.35 meter",
+      "21 century",
+      "1.0 meter",
+      "9 meter",
+      "21 century"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/DBAD6017858DF034019E1A0CBF922C488493ACEB14182860431A07D3C155F33E"
+    ],
+    "measurement_value": [
+      "1100",
+      "20",
+      "40",
+      "30",
+      "1100",
+      "100",
+      "6.0",
+      "17",
+      "4",
+      "100",
+      "90",
+      "7",
+      "8",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "percent",
+      "year",
+      "hour",
+      "year",
+      "month",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1100 hour",
+      "20 year",
+      "40 percent",
+      "30 year",
+      "1100 hour",
+      "100 year",
+      "6.0 month",
+      "17 year",
+      "4 year",
+      "100 year",
+      "90 year",
+      "7 year",
+      "8 percent",
+      "1 week"
+    ]
+  }
+}

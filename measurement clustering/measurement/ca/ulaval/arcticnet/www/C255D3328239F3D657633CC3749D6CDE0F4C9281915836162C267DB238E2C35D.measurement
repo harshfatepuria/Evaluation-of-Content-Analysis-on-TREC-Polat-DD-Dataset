@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/ulaval/arcticnet/www/C255D3328239F3D657633CC3749D6CDE0F4C9281915836162C267DB238E2C35D"
+    ],
+    "measurement_value": [
+      "25",
+      "200.0",
+      "1.0",
+      "1",
+      "1",
+      "1",
+      "1",
+      "80000",
+      "120000"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "hour",
+      "year",
+      "degrees",
+      "decade",
+      "metre",
+      "year",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "25 year",
+      "200.0 year",
+      "1.0 hour",
+      "1 year",
+      "1 degrees",
+      "1 decade",
+      "1 metre",
+      "80000 year",
+      "120000 year"
+    ]
+  }
+}

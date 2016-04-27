@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BA2459A90B52D547E287E633DFBDD17FD330E03217EC877C9AFA0616CAB73239"
+    ],
+    "measurement_value": [
+      "8",
+      "72",
+      "75",
+      "1",
+      "72",
+      "20",
+      "1",
+      "1",
+      "1",
+      "37",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "hour",
+      "percent",
+      "percent",
+      "year",
+      "hour",
+      "decade",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "8 percent",
+      "72 percent",
+      "75 percent",
+      "1 hour",
+      "72 percent",
+      "20 percent",
+      "1 year",
+      "1 hour",
+      "1 decade",
+      "37 percent",
+      "1 year",
+      "1 week"
+    ]
+  }
+}

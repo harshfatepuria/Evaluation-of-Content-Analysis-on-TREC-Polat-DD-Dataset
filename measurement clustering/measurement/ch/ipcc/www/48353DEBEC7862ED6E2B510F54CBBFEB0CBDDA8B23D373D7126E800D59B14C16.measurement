@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ch/ipcc/www/48353DEBEC7862ED6E2B510F54CBBFEB0CBDDA8B23D373D7126E800D59B14C16"
+    ],
+    "measurement_value": [
+      "21",
+      "1260",
+      "21",
+      "1020",
+      "806",
+      "1008",
+      "1090",
+      "3.71",
+      "0.8",
+      "22",
+      "100",
+      "1"
+    ],
+    "measurement_unit": [
+      "century",
+      "ppm",
+      "century",
+      "ppm",
+      "ppm",
+      "ppm",
+      "ppm",
+      "meter",
+      "meter",
+      "year",
+      "year",
+      "degrees"
+    ],
+    "measurement_extractedText": [
+      "21 century",
+      "1260 ppm",
+      "21 century",
+      "1020 ppm",
+      "806 ppm",
+      "1008 ppm",
+      "1090 ppm",
+      "3.71 meter",
+      "0.8 meter",
+      "22 year",
+      "100 year",
+      "1 degrees"
+    ]
+  }
+}

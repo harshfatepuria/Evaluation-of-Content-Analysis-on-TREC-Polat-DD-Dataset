@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BF7E32B26989CC044E25EBF74394008605F69C62E8A18F7090E2A0688DEFF2A1"
+    ],
+    "measurement_value": [
+      "1",
+      "2",
+      "2",
+      "1",
+      "1",
+      "2",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "season",
+      "month",
+      "century",
+      "day",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 hour",
+      "2 season",
+      "2 month",
+      "1 century",
+      "1 day",
+      "2 year",
+      "1 week"
+    ]
+  }
+}

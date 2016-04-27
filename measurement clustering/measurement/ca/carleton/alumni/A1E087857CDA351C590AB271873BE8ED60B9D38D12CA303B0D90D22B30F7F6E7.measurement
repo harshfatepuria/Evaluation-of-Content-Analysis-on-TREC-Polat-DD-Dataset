@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/alumni/A1E087857CDA351C590AB271873BE8ED60B9D38D12CA303B0D90D22B30F7F6E7"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "1",
+      "4",
+      "10",
+      "50",
+      "2",
+      "5",
+      "4",
+      "1001.0",
+      "1",
+      "54"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "degrees",
+      "year",
+      "kilometer",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "week",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 year",
+      "1 degrees",
+      "4 year",
+      "10 kilometer",
+      "50 year",
+      "2 year",
+      "5 year",
+      "4 year",
+      "1001.0 year",
+      "1 week",
+      "54 year"
+    ]
+  }
+}

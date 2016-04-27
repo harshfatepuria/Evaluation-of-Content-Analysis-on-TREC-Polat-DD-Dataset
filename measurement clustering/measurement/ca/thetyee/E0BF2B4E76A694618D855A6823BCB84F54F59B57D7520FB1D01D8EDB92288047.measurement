@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/E0BF2B4E76A694618D855A6823BCB84F54F59B57D7520FB1D01D8EDB92288047"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "8",
+      "10000",
+      "6",
+      "6",
+      "8",
+      "1",
+      "1",
+      "3",
+      "7",
+      "6",
+      "20",
+      "2",
+      "1",
+      "10"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "month",
+      "year",
+      "year",
+      "month",
+      "month",
+      "season",
+      "year",
+      "year",
+      "week",
+      "year",
+      "year",
+      "year",
+      "day",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 year",
+      "8 month",
+      "10000 year",
+      "6 year",
+      "6 month",
+      "8 month",
+      "1 season",
+      "1 year",
+      "3 year",
+      "7 week",
+      "6 year",
+      "20 year",
+      "2 year",
+      "1 day",
+      "10 year"
+    ]
+  }
+}

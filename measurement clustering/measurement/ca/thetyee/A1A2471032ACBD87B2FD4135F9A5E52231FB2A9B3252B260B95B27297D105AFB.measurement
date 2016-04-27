@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/A1A2471032ACBD87B2FD4135F9A5E52231FB2A9B3252B260B95B27297D105AFB"
+    ],
+    "measurement_value": [
+      "1",
+      "50",
+      "48",
+      "50",
+      "1",
+      "1",
+      "10",
+      "10",
+      "29",
+      "23",
+      "30",
+      "30",
+      "2",
+      "1",
+      "25",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "year",
+      "year",
+      "hour",
+      "day",
+      "minute",
+      "year",
+      "minute",
+      "second",
+      "second",
+      "minute",
+      "year",
+      "year",
+      "minute",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "50 year",
+      "48 year",
+      "50 year",
+      "1 hour",
+      "1 day",
+      "10 minute",
+      "10 year",
+      "29 minute",
+      "23 second",
+      "30 second",
+      "30 minute",
+      "2 year",
+      "1 year",
+      "25 minute",
+      "1 week"
+    ]
+  }
+}

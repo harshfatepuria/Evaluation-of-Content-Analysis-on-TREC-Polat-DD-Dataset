@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/0B0F34169ACB656A942F54BC4120D3B964066E46B4305F28572E4576F156CA6B"
+    ],
+    "measurement_value": [
+      "3",
+      "2",
+      "1",
+      "99",
+      "1",
+      "1",
+      "1",
+      "1",
+      "10000",
+      "1",
+      "6",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "month",
+      "month",
+      "percent",
+      "season",
+      "week",
+      "week",
+      "month",
+      "hour",
+      "year",
+      "month",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3 year",
+      "2 month",
+      "1 month",
+      "99 percent",
+      "1 season",
+      "1 week",
+      "1 week",
+      "1 month",
+      "10000 hour",
+      "1 year",
+      "6 month",
+      "10 year",
+      "1 week"
+    ]
+  }
+}

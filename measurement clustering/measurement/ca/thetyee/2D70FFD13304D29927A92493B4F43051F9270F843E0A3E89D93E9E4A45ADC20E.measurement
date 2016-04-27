@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/2D70FFD13304D29927A92493B4F43051F9270F843E0A3E89D93E9E4A45ADC20E"
+    ],
+    "measurement_value": [
+      "1",
+      "50",
+      "4",
+      "32000",
+      "8",
+      "30",
+      "40",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "week",
+      "kilometer",
+      "week",
+      "hour",
+      "year",
+      "month",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "50 year",
+      "4 week",
+      "32000 kilometer",
+      "8 week",
+      "30 hour",
+      "40 year",
+      "10 month",
+      "1 week"
+    ]
+  }
+}

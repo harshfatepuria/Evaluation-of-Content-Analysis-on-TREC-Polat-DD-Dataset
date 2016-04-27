@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/183A1D47DC643F7DBC33E4C5D3165D9A3DD02AB190B071DA314544FD76E005F2"
+    ],
+    "measurement_value": [
+      "1",
+      "41.0",
+      "41.0",
+      "12000001",
+      "1",
+      "12",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "day",
+      "day",
+      "day",
+      "season",
+      "year",
+      "day",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "41.0 day",
+      "41.0 day",
+      "12000001 day",
+      "1 season",
+      "12 year",
+      "1 day",
+      "1 week"
+    ]
+  }
+}

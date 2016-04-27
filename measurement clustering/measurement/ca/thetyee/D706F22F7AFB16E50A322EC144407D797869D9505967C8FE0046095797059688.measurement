@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/D706F22F7AFB16E50A322EC144407D797869D9505967C8FE0046095797059688"
+    ],
+    "measurement_value": [
+      "5000",
+      "40",
+      "3",
+      "15",
+      "20",
+      "2",
+      "4",
+      "4",
+      "3",
+      "7",
+      "90",
+      "1",
+      "90",
+      "24",
+      "1",
+      "24",
+      "1",
+      "10",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "year",
+      "year",
+      "year",
+      "decade",
+      "year",
+      "year",
+      "year",
+      "year",
+      "percent",
+      "month",
+      "percent",
+      "hour",
+      "day",
+      "hour",
+      "day",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "5000 hour",
+      "40 year",
+      "3 year",
+      "15 year",
+      "20 year",
+      "2 decade",
+      "4 year",
+      "4 year",
+      "3 year",
+      "7 year",
+      "90 percent",
+      "1 month",
+      "90 percent",
+      "24 hour",
+      "1 day",
+      "24 hour",
+      "1 day",
+      "10 year",
+      "1 week"
+    ]
+  }
+}

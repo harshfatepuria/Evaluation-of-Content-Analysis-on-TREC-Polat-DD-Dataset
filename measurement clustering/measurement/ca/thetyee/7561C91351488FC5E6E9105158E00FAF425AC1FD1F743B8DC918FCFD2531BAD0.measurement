@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/7561C91351488FC5E6E9105158E00FAF425AC1FD1F743B8DC918FCFD2531BAD0"
+    ],
+    "measurement_value": [
+      "1",
+      "2",
+      "1",
+      "1",
+      "2000",
+      "75",
+      "4",
+      "15.0",
+      "60",
+      "25",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "year",
+      "percent",
+      "year",
+      "kilometer",
+      "kilometer",
+      "week",
+      "percent",
+      "percent",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 week",
+      "2 year",
+      "1 percent",
+      "1 year",
+      "2000 kilometer",
+      "75 kilometer",
+      "4 week",
+      "15.0 percent",
+      "60 percent",
+      "25 year",
+      "1 week"
+    ]
+  }
+}

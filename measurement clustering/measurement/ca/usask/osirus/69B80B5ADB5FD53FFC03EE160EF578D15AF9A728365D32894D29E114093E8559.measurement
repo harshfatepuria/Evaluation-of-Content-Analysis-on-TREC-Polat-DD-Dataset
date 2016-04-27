@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/usask/osirus/69B80B5ADB5FD53FFC03EE160EF578D15AF9A728365D32894D29E114093E8559"
+    ],
+    "measurement_value": [
+      "12",
+      "12",
+      "12",
+      "2",
+      "12",
+      "274",
+      "810",
+      "7",
+      "7",
+      "100",
+      "70",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "hour",
+      "nanometer",
+      "nanometer",
+      "kilometer",
+      "kilometer",
+      "kilometer",
+      "second",
+      "day"
+    ],
+    "measurement_extractedText": [
+      "12 hour",
+      "12 hour",
+      "12 hour",
+      "2 hour",
+      "12 hour",
+      "274 nanometer",
+      "810 nanometer",
+      "7 kilometer",
+      "7 kilometer",
+      "100 kilometer",
+      "70 second",
+      "1 day"
+    ]
+  }
+}

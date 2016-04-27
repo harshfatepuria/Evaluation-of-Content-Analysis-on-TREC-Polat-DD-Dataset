@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/73F8159C98FB41ED887A8270E5E2885B09769639D11959868088716FB453143A"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "20",
+      "1",
+      "2",
+      "5.0",
+      "7",
+      "1"
+    ],
+    "measurement_unit": [
+      "day",
+      "year",
+      "year",
+      "decade",
+      "year",
+      "hour",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 year",
+      "20 year",
+      "1 decade",
+      "2 year",
+      "5.0 hour",
+      "7 year",
+      "1 week"
+    ]
+  }
+}

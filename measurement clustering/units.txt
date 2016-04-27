@@ -1,0 +1,22 @@
+{
+	"LENGTH":["metre","thou","inch","foot","yard","chain","furlong","mile","league","fathom","centimetre","millimetre","millimeter","centimeter","micron","kilometer","kilometre","nanometer"],
+	"MASS":["gram","ton","tonne","ounce","pound","stone","quarter","hundredweight","kilogram"],
+	"ELECTRIC_CURRENT":["ampere"],
+	"TIME":["second","minute","hour","day","week","month","year","fortnight","decade","century","season","millenium"],
+	"TEMPERATURE":["kelvin","celsius","celcius","fahrenheit","degreeC"],
+	"LUMINOUS_INTENSITY":["candela"],
+	"AMOUNT_OF_SUBSTANCE":["mole"],
+	"CONCENTRATION":["molarity","weight","weight percent","ppm","ppb",],
+	"VOLUME":["cubic metre", "litre","liter","fluid ounce","gill","cup","pint","quart","gallon","cubic inch"],
+	"ELECTRICITY":["volt","farad","ohm","siemens","coulomb","henri","henry","watt", "volt-ampere","volt per metre","ampere-turn per meter","ampere per metre"],
+	"MAGNETISM":["tesla", "weber"],
+	"ATTENUATION":["decibel"],
+	"FREQUENCY":["decibel","round per minute","round per second","hertz","gigahertz","db","megahertz"],
+	"ENERGY":["wavenumber","reciprocal centimeter","joule","calorie"],
+	"VELOCITY":["mile per hour","knot","nautical mile per hour","inch per second","mach","speed of sound","speed of light"],
+	"PRESSURE":["atmosphere","pascal","bar","torr","pound per square inch","pound-force per square inch"],
+	"FRACTION":["percentage","per ten thousand","basis point","permyriad","per mille","per mil","permil","permill","permille"],
+	"VISCOCITY":["poiseuille","pascal-second","poise"],
+	"ANGLE":["degree","radian","arcmin","arcminute","MOA","minute of arc","minute arc","arcsec","asec","square radian","steradian" ],
+	"DENSITY":["cubic metre","gram per cubic centimetre"]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/6137067AE7BF5A6899435E6E09E2AC42A19AA197B975ABA8B4CD231C46D9109B"
+    ],
+    "measurement_value": [
+      "15",
+      "3",
+      "2",
+      "80",
+      "1",
+      "19",
+      "9",
+      "19",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "minute",
+      "week",
+      "week",
+      "year",
+      "season",
+      "century",
+      "month",
+      "century",
+      "month",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "15 minute",
+      "3 week",
+      "2 week",
+      "80 year",
+      "1 season",
+      "19 century",
+      "9 month",
+      "19 century",
+      "20 month",
+      "1 week"
+    ]
+  }
+}

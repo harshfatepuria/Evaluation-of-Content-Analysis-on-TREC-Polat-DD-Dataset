@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/ED92587DF7720B9D13211CCF911AD6C4D8F56D08C38E1479466A1A9A77B619D6"
+    ],
+    "measurement_value": [
+      "75",
+      "4",
+      "2",
+      "4",
+      "1",
+      "75",
+      "2"
+    ],
+    "measurement_unit": [
+      "percent",
+      "month",
+      "month",
+      "year",
+      "hour",
+      "percent",
+      "month"
+    ],
+    "measurement_extractedText": [
+      "75 percent",
+      "4 month",
+      "2 month",
+      "4 year",
+      "1 hour",
+      "75 percent",
+      "2 month"
+    ]
+  }
+}

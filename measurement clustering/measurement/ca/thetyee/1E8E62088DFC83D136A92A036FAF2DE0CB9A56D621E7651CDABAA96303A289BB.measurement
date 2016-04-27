@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/1E8E62088DFC83D136A92A036FAF2DE0CB9A56D621E7651CDABAA96303A289BB"
+    ],
+    "measurement_value": [
+      "100.0",
+      "500",
+      "1000",
+      "8",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "metre",
+      "year",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "100.0 year",
+      "500 metre",
+      "1000 year",
+      "8 percent",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/01A591716F7A42C861BF97B20BFBB92CC11FABC2E4E5158F7CDA4A34088213DE"
+    ],
+    "measurement_value": [
+      "60",
+      "80",
+      "21.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "60 percent",
+      "80 percent",
+      "21.0 hour",
+      "1 week"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/uvic/cics/www/AA983D9890B501484CC4FCB75F0CEC30DB5C7C916491D7269435F0A138040DA7"
+    ],
+    "measurement_value": [
+      "3",
+      "7",
+      "3",
+      "3",
+      "3",
+      "3",
+      "40"
+    ],
+    "measurement_unit": [
+      "season",
+      "year",
+      "month",
+      "month",
+      "month",
+      "season",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "3 season",
+      "7 year",
+      "3 month",
+      "3 month",
+      "3 month",
+      "3 season",
+      "40 year"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/itk/www/395CCC33310854AF43C8E966E7C55087FA4E90064456E43473901E56E64E3BC5"
+    ],
+    "measurement_value": [
+      "4",
+      "3",
+      "20",
+      "4",
+      "6",
+      "40.0",
+      "8",
+      "2.0",
+      "100.0",
+      "2",
+      "1",
+      "4"
+    ],
+    "measurement_unit": [
+      "year",
+      "day",
+      "minute",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "week",
+      "day",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "4 year",
+      "3 day",
+      "20 minute",
+      "4 year",
+      "6 year",
+      "40.0 year",
+      "8 year",
+      "2.0 year",
+      "100.0 year",
+      "2 week",
+      "1 day",
+      "4 decade"
+    ]
+  }
+}

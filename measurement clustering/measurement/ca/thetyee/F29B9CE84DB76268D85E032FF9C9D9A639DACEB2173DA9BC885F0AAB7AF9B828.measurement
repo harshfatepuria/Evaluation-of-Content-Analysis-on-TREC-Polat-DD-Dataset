@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F29B9CE84DB76268D85E032FF9C9D9A639DACEB2173DA9BC885F0AAB7AF9B828"
+    ],
+    "measurement_value": [
+      "18",
+      "2015",
+      "2014",
+      "2014",
+      "8",
+      "1",
+      "1",
+      "21.0",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "month",
+      "year",
+      "year",
+      "year",
+      "year",
+      "century",
+      "day",
+      "century",
+      "metre",
+      "decade"
+    ],
+    "measurement_extractedText": [
+      "18 month",
+      "2015 year",
+      "2014 year",
+      "2014 year",
+      "8 year",
+      "1 century",
+      "1 day",
+      "21.0 century",
+      "1 metre",
+      "1 decade"
+    ]
+  }
+}

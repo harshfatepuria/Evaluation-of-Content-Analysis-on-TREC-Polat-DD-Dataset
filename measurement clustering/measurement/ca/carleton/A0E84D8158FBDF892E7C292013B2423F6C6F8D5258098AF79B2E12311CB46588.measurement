@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/A0E84D8158FBDF892E7C292013B2423F6C6F8D5258098AF79B2E12311CB46588"
+    ],
+    "measurement_value": [
+      "4573921.0",
+      "1",
+      "1",
+      "5",
+      "2014",
+      "4573921.0"
+    ],
+    "measurement_unit": [
+      "hour",
+      "degrees",
+      "degrees",
+      "year",
+      "day",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "4573921.0 hour",
+      "1 degrees",
+      "1 degrees",
+      "5 year",
+      "2014 day",
+      "4573921.0 hour"
+    ]
+  }
+}

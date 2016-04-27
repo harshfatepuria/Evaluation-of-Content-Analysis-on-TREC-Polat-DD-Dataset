@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/asc-csa/www/F5804D469CA11847A88FD3434FC5C3CF0B82F8AFE28B7FD3E56DCF1D78BECBD9"
+    ],
+    "measurement_value": [
+      "92",
+      "5",
+      "2",
+      "400",
+      "90",
+      "400",
+      "90",
+      "1",
+      "-120.0",
+      "150"
+    ],
+    "measurement_unit": [
+      "minute",
+      "month",
+      "hour",
+      "millimeter",
+      "minute",
+      "kilometer",
+      "minute",
+      "day",
+      "degrees",
+      "degrees"
+    ],
+    "measurement_extractedText": [
+      "92 minute",
+      "5 month",
+      "2 hour",
+      "400 millimeter",
+      "90 minute",
+      "400 kilometer",
+      "90 minute",
+      "1 day",
+      "-120.0 degrees",
+      "150 degrees"
+    ]
+  }
+}

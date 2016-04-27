@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/790A44312D441A73946BE7AEAC93E83BD3183B6BDE95091EA5644C28C8B39663"
+    ],
+    "measurement_value": [
+      "1",
+      "35",
+      "1",
+      "1",
+      "1",
+      "21.0",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "decade",
+      "year",
+      "henry",
+      "minute",
+      "day",
+      "hour",
+      "day",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 decade",
+      "35 year",
+      "1 henry",
+      "1 minute",
+      "1 day",
+      "21.0 hour",
+      "1 day",
+      "1 year",
+      "1 week"
+    ]
+  }
+}

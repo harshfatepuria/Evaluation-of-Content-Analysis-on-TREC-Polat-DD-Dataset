@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/2ADA6FE7E52C4F5C82C596C16A47491689228E1EBB740FEE8F13584B35E45364"
+    ],
+    "measurement_value": [
+      "10.25",
+      "450000",
+      "200001.0",
+      "1",
+      "1",
+      "100001.0",
+      "90001.0",
+      "1",
+      "1",
+      "1",
+      "329.0",
+      "150001.0",
+      "1220",
+      "360001.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "hour",
+      "year",
+      "year",
+      "day",
+      "week",
+      "year",
+      "year",
+      "week",
+      "day",
+      "week",
+      "month",
+      "year",
+      "hour",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "10.25 hour",
+      "450000 year",
+      "200001.0 year",
+      "1 day",
+      "1 week",
+      "100001.0 year",
+      "90001.0 year",
+      "1 week",
+      "1 day",
+      "1 week",
+      "329.0 month",
+      "150001.0 year",
+      "1220 hour",
+      "360001.0 year",
+      "1 week"
+    ]
+  }
+}

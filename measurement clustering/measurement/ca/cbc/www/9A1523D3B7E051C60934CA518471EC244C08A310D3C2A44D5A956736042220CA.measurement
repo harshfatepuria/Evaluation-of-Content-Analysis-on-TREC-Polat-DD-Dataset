@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/9A1523D3B7E051C60934CA518471EC244C08A310D3C2A44D5A956736042220CA"
+    ],
+    "measurement_value": [
+      "4",
+      "2025.0",
+      "2021.0",
+      "2",
+      "13",
+      "1"
+    ],
+    "measurement_unit": [
+      "season",
+      "season",
+      "season",
+      "minute",
+      "second",
+      "season"
+    ],
+    "measurement_extractedText": [
+      "4 season",
+      "2025.0 season",
+      "2021.0 season",
+      "2 minute",
+      "13 second",
+      "1 season"
+    ]
+  }
+}

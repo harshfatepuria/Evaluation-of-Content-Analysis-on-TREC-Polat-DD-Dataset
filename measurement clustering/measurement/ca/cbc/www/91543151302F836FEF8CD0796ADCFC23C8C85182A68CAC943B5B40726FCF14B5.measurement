@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/91543151302F836FEF8CD0796ADCFC23C8C85182A68CAC943B5B40726FCF14B5"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "35",
+      "3",
+      "1",
+      "3",
+      "3"
+    ],
+    "measurement_unit": [
+      "day",
+      "day",
+      "second",
+      "season",
+      "season",
+      "season",
+      "year"
+    ],
+    "measurement_extractedText": [
+      "1 day",
+      "1 day",
+      "35 second",
+      "3 season",
+      "1 season",
+      "3 season",
+      "3 year"
+    ]
+  }
+}

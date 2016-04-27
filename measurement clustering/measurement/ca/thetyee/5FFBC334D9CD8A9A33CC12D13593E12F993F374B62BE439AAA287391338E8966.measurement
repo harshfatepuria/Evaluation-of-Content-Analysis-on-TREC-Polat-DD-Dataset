@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/5FFBC334D9CD8A9A33CC12D13593E12F993F374B62BE439AAA287391338E8966"
+    ],
+    "measurement_value": [
+      "85",
+      "8",
+      "5",
+      "2013",
+      "6",
+      "24",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "year",
+      "percent",
+      "metre",
+      "month",
+      "hour",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "85 percent",
+      "8 year",
+      "5 percent",
+      "2013 metre",
+      "6 month",
+      "24 hour",
+      "1 week"
+    ]
+  }
+}

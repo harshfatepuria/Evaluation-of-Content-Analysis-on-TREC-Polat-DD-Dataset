@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/082BC3EA1798A265C2CF5E8CD89ED0C78ADD7150AF2E565EEC1E2D323C212B4B"
+    ],
+    "measurement_value": [
+      "76001.0",
+      "76001.0",
+      "1273.0",
+      "15001.0",
+      "7",
+      "1581.0",
+      "1",
+      "48001.0",
+      "123.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "month",
+      "year",
+      "year",
+      "month",
+      "second",
+      "year",
+      "week",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "76001.0 year",
+      "76001.0 year",
+      "1273.0 month",
+      "15001.0 year",
+      "7 year",
+      "1581.0 month",
+      "1 second",
+      "48001.0 year",
+      "123.0 week",
+      "1 week"
+    ]
+  }
+}

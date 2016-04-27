@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/EBB506EE2E9BE9E9B54A8C8EFA4A9B0F9F62A7753A71E98D8F20D7CF694C77F5"
+    ],
+    "measurement_value": [
+      "25",
+      "1",
+      "4",
+      "1",
+      "4.58E+8",
+      "118469",
+      "3000001.0",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "year",
+      "year",
+      "year",
+      "kelvin",
+      "year",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "25 percent",
+      "1 year",
+      "4 year",
+      "1 year",
+      "4.58E+8 kelvin",
+      "118469 year",
+      "3000001.0 year",
+      "1 week"
+    ]
+  }
+}

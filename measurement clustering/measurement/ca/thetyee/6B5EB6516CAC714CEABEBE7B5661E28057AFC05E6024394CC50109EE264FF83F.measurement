@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/6B5EB6516CAC714CEABEBE7B5661E28057AFC05E6024394CC50109EE264FF83F"
+    ],
+    "measurement_value": [
+      "4",
+      "80",
+      "40",
+      "5",
+      "400",
+      "5",
+      "5",
+      "1",
+      "30",
+      "7",
+      "4",
+      "7",
+      "400",
+      "10",
+      "1",
+      "50",
+      "90",
+      "1"
+    ],
+    "measurement_unit": [
+      "week",
+      "percent",
+      "percent",
+      "minute",
+      "metre",
+      "minute",
+      "minute",
+      "week",
+      "percent",
+      "minute",
+      "minute",
+      "minute",
+      "metre",
+      "minute",
+      "hour",
+      "percent",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "4 week",
+      "80 percent",
+      "40 percent",
+      "5 minute",
+      "400 metre",
+      "5 minute",
+      "5 minute",
+      "1 week",
+      "30 percent",
+      "7 minute",
+      "4 minute",
+      "7 minute",
+      "400 metre",
+      "10 minute",
+      "1 hour",
+      "50 percent",
+      "90 percent",
+      "1 week"
+    ]
+  }
+}

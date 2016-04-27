@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BD6EFD5281D608E5741FE2F7EED9105D25BE836C72EA02186D3F40EF77C7348C"
+    ],
+    "measurement_value": [
+      "2",
+      "0.5",
+      "24",
+      "70",
+      "5",
+      "1"
+    ],
+    "measurement_unit": [
+      "minute",
+      "hour",
+      "hour",
+      "percent",
+      "minute",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 minute",
+      "0.5 hour",
+      "24 hour",
+      "70 percent",
+      "5 minute",
+      "1 week"
+    ]
+  }
+}

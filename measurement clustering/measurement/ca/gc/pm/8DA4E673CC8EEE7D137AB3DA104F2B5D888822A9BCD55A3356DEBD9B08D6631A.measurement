@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/gc/pm/8DA4E673CC8EEE7D137AB3DA104F2B5D888822A9BCD55A3356DEBD9B08D6631A"
+    ],
+    "measurement_value": [
+      "99",
+      "50",
+      "11",
+      "290000",
+      "10"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "percent",
+      "hour",
+      "percent"
+    ],
+    "measurement_extractedText": [
+      "99 percent",
+      "50 percent",
+      "11 percent",
+      "290000 hour",
+      "10 percent"
+    ]
+  }
+}

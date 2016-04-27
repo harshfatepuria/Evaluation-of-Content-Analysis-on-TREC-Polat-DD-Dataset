@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BF07083C621ECFA36730D885DA0F6CD210CA47746DA4778697C9514587D4E6C0"
+    ],
+    "measurement_value": [
+      "10",
+      "20",
+      "20",
+      "20",
+      "60",
+      "30",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "year",
+      "minute",
+      "minute",
+      "percent",
+      "year",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "10 year",
+      "20 year",
+      "20 minute",
+      "20 minute",
+      "60 percent",
+      "30 year",
+      "20 percent",
+      "1 week"
+    ]
+  }
+}

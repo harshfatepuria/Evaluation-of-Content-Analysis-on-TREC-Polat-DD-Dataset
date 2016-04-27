@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/9ADFDB9007E991B110EBBFF1891CB44EBD6E93CD3C5A7BBA2CBA86741CB8FBE4"
+    ],
+    "measurement_value": [
+      "100",
+      "100",
+      "11",
+      "75",
+      "99",
+      "1",
+      "9",
+      "1",
+      "3",
+      "1",
+      "100",
+      "1.8",
+      "100",
+      "1"
+    ],
+    "measurement_unit": [
+      "year",
+      "metre",
+      "percent",
+      "percent",
+      "percent",
+      "decade",
+      "year",
+      "metre",
+      "year",
+      "century",
+      "year",
+      "kilometer",
+      "year",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "100 year",
+      "100 metre",
+      "11 percent",
+      "75 percent",
+      "99 percent",
+      "1 decade",
+      "9 year",
+      "1 metre",
+      "3 year",
+      "1 century",
+      "100 year",
+      "1.8 kilometer",
+      "100 year",
+      "1 week"
+    ]
+  }
+}

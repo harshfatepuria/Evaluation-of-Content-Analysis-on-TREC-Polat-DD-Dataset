@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/carleton/www/ABDC0B465AE18935024490962D4D27C51EF6692486557A4C89740A7843AAB9BE"
+    ],
+    "measurement_value": [
+      "1",
+      "4000",
+      "4000",
+      "3000",
+      "2000",
+      "1000",
+      "1",
+      "20"
+    ],
+    "measurement_unit": [
+      "degrees",
+      "year",
+      "year",
+      "year",
+      "year",
+      "year",
+      "degrees",
+      "hour"
+    ],
+    "measurement_extractedText": [
+      "1 degrees",
+      "4000 year",
+      "4000 year",
+      "3000 year",
+      "2000 year",
+      "1000 year",
+      "1 degrees",
+      "20 hour"
+    ]
+  }
+}

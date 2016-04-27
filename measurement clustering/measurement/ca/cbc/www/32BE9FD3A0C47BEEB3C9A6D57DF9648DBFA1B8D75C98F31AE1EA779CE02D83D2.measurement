@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/cbc/www/32BE9FD3A0C47BEEB3C9A6D57DF9648DBFA1B8D75C98F31AE1EA779CE02D83D2"
+    ],
+    "measurement_value": [
+      "3",
+      "2037.0",
+      "1",
+      "2059.0",
+      "2061.0",
+      "2"
+    ],
+    "measurement_unit": [
+      "season",
+      "season",
+      "year",
+      "season",
+      "season",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "3 season",
+      "2037.0 season",
+      "1 year",
+      "2059.0 season",
+      "2061.0 season",
+      "2 week"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/F8E1628CF37F9AB5AB6238E3AB0861961D4CC6DF8E8DB53CD8CB2EA8A738FC2C"
+    ],
+    "measurement_value": [
+      "2",
+      "40",
+      "1",
+      "13",
+      "30",
+      "1",
+      "1",
+      "1"
+    ],
+    "measurement_unit": [
+      "percent",
+      "percent",
+      "decade",
+      "percent",
+      "year",
+      "decade",
+      "century",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "2 percent",
+      "40 percent",
+      "1 decade",
+      "13 percent",
+      "30 year",
+      "1 decade",
+      "1 century",
+      "1 week"
+    ]
+  }
+}

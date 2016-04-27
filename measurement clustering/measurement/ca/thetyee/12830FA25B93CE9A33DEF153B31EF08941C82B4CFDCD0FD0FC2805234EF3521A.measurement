@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/12830FA25B93CE9A33DEF153B31EF08941C82B4CFDCD0FD0FC2805234EF3521A"
+    ],
+    "measurement_value": [
+      "1",
+      "3",
+      "3.74E+9",
+      "17",
+      "36",
+      "20",
+      "1"
+    ],
+    "measurement_unit": [
+      "metre",
+      "year",
+      "year",
+      "percent",
+      "percent",
+      "century",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 metre",
+      "3 year",
+      "3.74E+9 year",
+      "17 percent",
+      "36 percent",
+      "20 century",
+      "1 week"
+    ]
+  }
+}

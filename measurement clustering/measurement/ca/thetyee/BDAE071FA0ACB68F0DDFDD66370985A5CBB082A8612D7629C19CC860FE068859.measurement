@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/thetyee/BDAE071FA0ACB68F0DDFDD66370985A5CBB082A8612D7629C19CC860FE068859"
+    ],
+    "measurement_value": [
+      "1",
+      "1",
+      "45",
+      "100",
+      "100",
+      "30",
+      "1000",
+      "40",
+      "1"
+    ],
+    "measurement_unit": [
+      "kilogram",
+      "kilogram",
+      "percent",
+      "year",
+      "year",
+      "percent",
+      "year",
+      "percent",
+      "week"
+    ],
+    "measurement_extractedText": [
+      "1 kilogram",
+      "1 kilogram",
+      "45 percent",
+      "100 year",
+      "100 year",
+      "30 percent",
+      "1000 year",
+      "40 percent",
+      "1 week"
+    ]
+  }
+}

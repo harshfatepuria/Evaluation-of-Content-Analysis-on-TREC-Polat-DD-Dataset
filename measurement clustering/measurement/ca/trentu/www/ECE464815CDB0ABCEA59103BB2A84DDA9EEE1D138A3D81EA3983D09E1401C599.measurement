@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "filePath": [
+      "ca/trentu/www/ECE464815CDB0ABCEA59103BB2A84DDA9EEE1D138A3D81EA3983D09E1401C599"
+    ],
+    "measurement_value": [
+      "3",
+      "5",
+      "45"
+    ],
+    "measurement_unit": [
+      "hour",
+      "hour",
+      "minute"
+    ],
+    "measurement_extractedText": [
+      "3 hour",
+      "5 hour",
+      "45 minute"
+    ]
+  }
+}
