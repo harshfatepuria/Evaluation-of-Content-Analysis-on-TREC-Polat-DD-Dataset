@@ -131,22 +131,64 @@ for k,v in mea.items():
 keys=json.dumps(maxmin, sort_keys=True)
 op.write(keys)
 op.close()
-print "MEA Data:\n--------\n",maxmin
+#print "MEA Data:\n--------\n",maxmin
 
 
 # ii. Writing Measuremnt count data clustered based on Doamin of units
+'''
 op= open("meaDomainOutputJSON.json","w")
 keys=json.dumps(meaDomain, sort_keys=True)
 op.write(keys)
 op.close()
-print "\nMEA Domain Clustered Data:\n-------------------------\n",meaDomain
+'''
+#print "\nMEA Domain Clustered Data:\n-------------------------\n"#,meaDomain
+flare={}
+flare["name"]="Measurement Domain Cluster"
+flare["children"]=[]
+for k,v in meaDomain.items():
+	x={}
+	x["name"]=k
+	x["children"]=[]
+	for a,b in v.items():
+		y={}
+		y["name"]=a
+		y["size"]=b
+		x["children"].append(y)
+
+	flare["children"].append(x)
+#print "\n",flare,"\n"
+op= open("meaDomainOutputFlareJSONForD3.json","w")
+keys=json.dumps(flare, sort_keys=True)
+op.write(keys)
+op.close()
 
 
 # iii. Writing Measuremnt count data clustered based on Mime type of files
+'''
 op= open("meaMimeOutputJSON.json","w")
 keys=json.dumps(meaMime, sort_keys=True)
 op.write(str(keys))
 op.close()
-print "\nMEA MIME Type Clustered Data:\n----------------------------\n", meaMime,"\n"
+print "\nMEA MIME Type Clustered Data:\n----------------------------\n"#, meaMime,"\n"
+'''
+flare={}
+flare["name"]="Measurement MIME Cluster"
+flare["children"]=[]
+for k,v in meaMime.items():
+	x={}
+	x["name"]=k
+	x["children"]=[]
+	for a,b in v.items():
+		y={}
+		y["name"]=a
+		y["size"]=b
+		x["children"].append(y)
+
+	flare["children"].append(x)
+#print "\n",flare,"\n"
+op= open("meaMimeOutputFlareJSONForD3.json","w")
+keys=json.dumps(flare, sort_keys=True)
+op.write(keys)
+op.close()
 
 print time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()), "ending script...\n"
