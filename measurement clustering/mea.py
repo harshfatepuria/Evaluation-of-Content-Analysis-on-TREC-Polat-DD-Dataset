@@ -66,7 +66,7 @@ meaMime={}
 mea={}
 cnt=0
 
-fileR="measurement/"
+fileR="result/"
 for path, subdirs, files in os.walk(fileR):
 	for FP in files:
 		filepath= path+'/'+FP
