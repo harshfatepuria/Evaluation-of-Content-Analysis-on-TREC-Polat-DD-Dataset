@@ -1,0 +1,418 @@
+[
+    {
+        "sd": 10772.771811377052,
+        "mean": 7936.5,
+        "max": 15554,
+        "count": 2,
+        "min": 319,
+        "name": "application/atom+xml"
+    },
+    {
+        "sd": 4139.703651089119,
+        "mean": 1635.8333333333333,
+        "max": 19849,
+        "count": 24,
+        "min": 0,
+        "name": "application/javascript"
+    },
+    {
+        "sd": "n/a",
+        "mean": 1711.0,
+        "max": 1711,
+        "count": 1,
+        "min": 1711,
+        "name": "application/json"
+    },
+    {
+        "sd": 52508.554218530626,
+        "mean": 29244.25,
+        "max": 204868,
+        "count": 28,
+        "min": 0,
+        "name": "application/msword"
+    },
+    {
+        "sd": 57370.00100956167,
+        "mean": 16333.217999126256,
+        "max": 2018692,
+        "count": 4578,
+        "min": 0,
+        "name": "application/octet-stream"
+    },
+    {
+        "sd": 235782.04156019882,
+        "mean": 142923.67907573812,
+        "max": 1215947,
+        "count": 779,
+        "min": 0,
+        "name": "application/pdf"
+    },
+    {
+        "sd": "n/a",
+        "mean": 0.0,
+        "max": 0,
+        "count": 1,
+        "min": 0,
+        "name": "application/postscript"
+    },
+    {
+        "sd": 103076.92404088691,
+        "mean": 52411.307692307695,
+        "max": 361572,
+        "count": 13,
+        "min": 4245,
+        "name": "application/rss+xml"
+    },
+    {
+        "sd": 40745.880563765786,
+        "mean": 47734.75,
+        "max": 108847,
+        "count": 4,
+        "min": 26865,
+        "name": "application/rtf"
+    },
+    {
+        "sd": 175.88324725984185,
+        "mean": 152.25,
+        "max": 311,
+        "count": 4,
+        "min": 0,
+        "name": "application/vnd.google-earth.kml+xml"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 7,
+        "min": 0,
+        "name": "application/vnd.google-earth.kmz"
+    },
+    {
+        "sd": 130501.93774858884,
+        "mean": 87597.84210526316,
+        "max": 518082,
+        "count": 38,
+        "min": 0,
+        "name": "application/vnd.ms-excel"
+    },
+    {
+        "sd": 26927.591855086677,
+        "mean": 45485.375,
+        "max": 65439,
+        "count": 24,
+        "min": 0,
+        "name": "application/vnd.ms-powerpoint"
+    },
+    {
+        "sd": "n/a",
+        "mean": 0.0,
+        "max": 0,
+        "count": 1,
+        "min": 0,
+        "name": "application/vnd.ogc.wms_xml"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 9,
+        "min": 0,
+        "name": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 14,
+        "min": 0,
+        "name": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 10,
+        "min": 0,
+        "name": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+        "sd": 10479.108161649723,
+        "mean": 8686.605603448275,
+        "max": 65472,
+        "count": 464,
+        "min": 4794,
+        "name": "application/wget"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 2,
+        "min": 0,
+        "name": "application/x-bzip2"
+    },
+    {
+        "sd": 218458.5187272403,
+        "mean": 154473.5,
+        "max": 308947,
+        "count": 2,
+        "min": 0,
+        "name": "application/x-compress"
+    },
+    {
+        "sd": 299.8262219828516,
+        "mean": 542.0759493670886,
+        "max": 1223,
+        "count": 79,
+        "min": 172,
+        "name": "application/x-endnote-refer"
+    },
+    {
+        "sd": "n/a",
+        "mean": 0.0,
+        "max": 0,
+        "count": 1,
+        "min": 0,
+        "name": "application/x-hdf"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 8,
+        "min": 0,
+        "name": "application/x-octet-stream"
+    },
+    {
+        "sd": 90.80153191548146,
+        "mean": 401.02666666666664,
+        "max": 845,
+        "count": 75,
+        "min": 206,
+        "name": "application/x-research-info-systems"
+    },
+    {
+        "sd": 10.781929326423912,
+        "mean": 158.25,
+        "max": 169,
+        "count": 4,
+        "min": 148,
+        "name": "application/x-shockwave-flash"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 3,
+        "min": 0,
+        "name": "application/x-tar"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 4,
+        "min": 0,
+        "name": "application/x-texinfo"
+    },
+    {
+        "sd": 47723.60031787208,
+        "mean": 59323.4,
+        "max": 97873,
+        "count": 5,
+        "min": 7253,
+        "name": "application/xhtml+xml"
+    },
+    {
+        "sd": 68997.13551767544,
+        "mean": 26322.62874251497,
+        "max": 737198,
+        "count": 167,
+        "min": 0,
+        "name": "application/xml"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 10,
+        "min": 0,
+        "name": "application/zip"
+    },
+    {
+        "sd": "n/a",
+        "mean": 114629.0,
+        "max": 114629,
+        "count": 1,
+        "min": 114629,
+        "name": "audio/basic"
+    },
+    {
+        "sd": "n/a",
+        "mean": 171.0,
+        "max": 171,
+        "count": 1,
+        "min": 171,
+        "name": "audio/mpeg"
+    },
+    {
+        "sd": 109.60155108391487,
+        "mean": 404.5,
+        "max": 482,
+        "count": 2,
+        "min": 327,
+        "name": "image/gif"
+    },
+    {
+        "sd": 114252.82088785463,
+        "mean": 67517.64341846759,
+        "max": 839619,
+        "count": 3054,
+        "min": 111,
+        "name": "image/jpeg"
+    },
+    {
+        "sd": 222958.58765510446,
+        "mean": 166554.3856088561,
+        "max": 837204,
+        "count": 1626,
+        "min": 20,
+        "name": "image/png"
+    },
+    {
+        "sd": 69693.1056944181,
+        "mean": 40237.333333333336,
+        "max": 120712,
+        "count": 3,
+        "min": 0,
+        "name": "image/tiff"
+    },
+    {
+        "sd": 985.301815012368,
+        "mean": 2250.0,
+        "max": 4223,
+        "count": 7,
+        "min": 887,
+        "name": "text/css"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 3,
+        "min": 0,
+        "name": "text/csv"
+    },
+    {
+        "sd": 2187.471699744266,
+        "mean": 4293.3470149253735,
+        "max": 11399,
+        "count": 268,
+        "min": 2398,
+        "name": "text/dif+xml"
+    },
+    {
+        "sd": 67054.41892769415,
+        "mean": 39344.1942024632,
+        "max": 1880685,
+        "count": 33290,
+        "min": 0,
+        "name": "text/html"
+    },
+    {
+        "sd": 5298.923892041959,
+        "mean": 18975.73851590106,
+        "max": 37497,
+        "count": 283,
+        "min": 10590,
+        "name": "text/iso19139+xml"
+    },
+    {
+        "sd": 104711.41284158968,
+        "mean": 13706.291804110631,
+        "max": 1837528,
+        "count": 3941,
+        "min": 0,
+        "name": "text/plain"
+    },
+    {
+        "sd": 218080.2165993055,
+        "mean": 291844.0,
+        "max": 446050,
+        "count": 2,
+        "min": 137638,
+        "name": "text/tab-separated-values"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 3,
+        "min": 0,
+        "name": "text/x-bibtex"
+    },
+    {
+        "sd": "n/a",
+        "mean": 0.0,
+        "max": 0,
+        "count": 1,
+        "min": 0,
+        "name": "text/x-diff"
+    },
+    {
+        "sd": 32468.92323790807,
+        "mean": 18620.333333333332,
+        "max": 93658,
+        "count": 33,
+        "min": 786,
+        "name": "text/x-js"
+    },
+    {
+        "sd": 0.0,
+        "mean": 0.0,
+        "max": 0,
+        "count": 4,
+        "min": 0,
+        "name": "text/x-python"
+    },
+    {
+        "sd": 35716.04324856455,
+        "mean": 20765.666666666668,
+        "max": 62007,
+        "count": 3,
+        "min": 137,
+        "name": "video/mp4"
+    },
+    {
+        "sd": 135935.62182886427,
+        "mean": 96254.0,
+        "max": 192375,
+        "count": 2,
+        "min": 133,
+        "name": "video/mpeg"
+    },
+    {
+        "sd": "n/a",
+        "mean": 646992.0,
+        "max": 646992,
+        "count": 1,
+        "min": 646992,
+        "name": "video/webm"
+    },
+    {
+        "sd": "n/a",
+        "mean": 156.0,
+        "max": 156,
+        "count": 1,
+        "min": 156,
+        "name": "video/x-ms-wmv"
+    },
+    {
+        "sd": 308092.8333607421,
+        "mean": 154170.75,
+        "max": 616310,
+        "count": 4,
+        "min": 119,
+        "name": "video/x-msvideo"
+    }
+]
