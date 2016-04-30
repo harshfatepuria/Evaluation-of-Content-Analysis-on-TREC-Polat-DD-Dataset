@@ -1,0 +1,661 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 740.0,
+                            "name": "application/java-vm",
+                            "description": "application/java-vm"
+                        }
+                    ],
+                    "name": "ClassParser",
+                    "description": "org.apache.tika.parser.asm.ClassParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 22191.0,
+                            "name": "application/zip",
+                            "description": "application/zip"
+                        }
+                    ],
+                    "name": "OpenDocumentParser",
+                    "description": "org.apache.tika.parser.odf.OpenDocumentParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 4284.0,
+                            "name": "application/vnd.ms-excel.sheet.4",
+                            "description": "application/vnd.ms-excel.sheet.4"
+                        }
+                    ],
+                    "name": "OldExcelParser",
+                    "description": "org.apache.tika.parser.microsoft.OldExcelParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "636.93",
+                            "name": "image/svg+xml",
+                            "description": "image/svg+xml"
+                        },
+                        {
+                            "size": "4322.83",
+                            "name": "application/xml",
+                            "description": "application/xml"
+                        },
+                        {
+                            "size": "3207.58",
+                            "name": "application/rdf+xml",
+                            "description": "application/rdf+xml"
+                        },
+                        {
+                            "size": "2452.55",
+                            "name": "application/xslt+xml",
+                            "description": "application/xslt+xml"
+                        },
+                        {
+                            "size": "19306.30",
+                            "name": "application/vnd.google-earth.kml+xml",
+                            "description": "application/vnd.google-earth.kml+xml"
+                        },
+                        {
+                            "size": "1142.11",
+                            "name": "application/dita+xml; format=concept",
+                            "description": "application/dita+xml; format=concept"
+                        }
+                    ],
+                    "name": "DcXMLParser",
+                    "description": "org.apache.tika.parser.xml.DcXMLParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "13702.90",
+                            "name": "text/html",
+                            "description": "text/html"
+                        },
+                        {
+                            "size": "6861.03",
+                            "name": "application/xhtml+xml",
+                            "description": "application/xhtml+xml"
+                        }
+                    ],
+                    "name": "HtmlParser",
+                    "description": "org.apache.tika.parser.html.HtmlParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "2.33",
+                            "name": "image/vnd.dwg",
+                            "description": "image/vnd.dwg"
+                        }
+                    ],
+                    "name": "DWGParser",
+                    "description": "org.apache.tika.parser.dwg.DWGParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "17.67",
+                            "name": "audio/vorbis",
+                            "description": "audio/vorbis"
+                        }
+                    ],
+                    "name": "VorbisParser",
+                    "description": "org.gagravarr.tika.VorbisParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "9.30",
+                            "name": "application/x-bzip2",
+                            "description": "application/x-bzip2"
+                        },
+                        {
+                            "size": "43282.11",
+                            "name": "application/gzip",
+                            "description": "application/gzip"
+                        },
+                        {
+                            "size": 1.0,
+                            "name": "application/zlib",
+                            "description": "application/zlib"
+                        },
+                        {
+                            "size": "20767.91",
+                            "name": "application/x-compress",
+                            "description": "application/x-compress"
+                        },
+                        {
+                            "size": "19536.10",
+                            "name": "application/x-xz",
+                            "description": "application/x-xz"
+                        }
+                    ],
+                    "name": "CompressorParser",
+                    "description": "org.apache.tika.parser.pkg.CompressorParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "3013.11",
+                            "name": "application/pdf",
+                            "description": "application/pdf"
+                        }
+                    ],
+                    "name": "PDFParser",
+                    "description": "org.apache.tika.parser.pdf.PDFParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 18218.0,
+                            "name": "message/x-emlx",
+                            "description": "message/x-emlx"
+                        },
+                        {
+                            "size": "20888.40",
+                            "name": "text/x-python",
+                            "description": "text/x-python"
+                        },
+                        {
+                            "size": "19975.31",
+                            "name": "text/plain",
+                            "description": "text/plain"
+                        },
+                        {
+                            "size": "14212.04",
+                            "name": "application/x-sh",
+                            "description": "application/x-sh"
+                        },
+                        {
+                            "size": "25902.18",
+                            "name": "application/x-tex",
+                            "description": "application/x-tex"
+                        },
+                        {
+                            "size": "10376.67",
+                            "name": "text/x-matlab",
+                            "description": "text/x-matlab"
+                        },
+                        {
+                            "size": "6112.57",
+                            "name": "text/x-perl",
+                            "description": "text/x-perl"
+                        },
+                        {
+                            "size": "15074.62",
+                            "name": "text/x-php",
+                            "description": "text/x-php"
+                        },
+                        {
+                            "size": 16332.0,
+                            "name": "text/x-jsp",
+                            "description": "text/x-jsp"
+                        },
+                        {
+                            "size": "29707.67",
+                            "name": "text/x-csrc",
+                            "description": "text/x-csrc"
+                        },
+                        {
+                            "size": "1974.15",
+                            "name": "application/x-bibtex-text-file",
+                            "description": "application/x-bibtex-text-file"
+                        },
+                        {
+                            "size": 2846.0,
+                            "name": "text/x-diff",
+                            "description": "text/x-diff"
+                        },
+                        {
+                            "size": 2920.0,
+                            "name": "text/troff",
+                            "description": "text/troff"
+                        },
+                        {
+                            "size": "825.08",
+                            "name": "text/x-vcard",
+                            "description": "text/x-vcard"
+                        }
+                    ],
+                    "name": "TXTParser",
+                    "description": "org.apache.tika.parser.txt.TXTParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "video/mp4",
+                            "description": "video/mp4"
+                        },
+                        {
+                            "size": 0.0,
+                            "name": "video/x-msvideo",
+                            "description": "video/x-msvideo"
+                        }
+                    ],
+                    "name": "PooledTimeSeriesParser",
+                    "description": "org.apache.tika.parser.pot.PooledTimeSeriesParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "application/x-font-ttf",
+                            "description": "application/x-font-ttf"
+                        }
+                    ],
+                    "name": "TrueTypeParser",
+                    "description": "org.apache.tika.parser.font.TrueTypeParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 20.0,
+                            "name": "application/x-rar-compressed",
+                            "description": "application/x-rar-compressed"
+                        }
+                    ],
+                    "name": "RarParser",
+                    "description": "org.apache.tika.parser.pkg.RarParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "6357.50",
+                            "name": "application/zip",
+                            "description": "application/zip"
+                        },
+                        {
+                            "size": "11428.53",
+                            "name": "application/x-tika-ooxml",
+                            "description": "application/x-tika-ooxml"
+                        }
+                    ],
+                    "name": "OOXMLParser",
+                    "description": "org.apache.tika.parser.microsoft.ooxml.OOXMLParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "image/x-bpg",
+                            "description": "image/x-bpg"
+                        }
+                    ],
+                    "name": "BPGParser",
+                    "description": "org.apache.tika.parser.image.BPGParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "3962.29",
+                            "name": "message/rfc822",
+                            "description": "message/rfc822"
+                        }
+                    ],
+                    "name": "RFC822Parser",
+                    "description": "org.apache.tika.parser.mail.RFC822Parser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "217.17",
+                            "name": "application/dif+xml",
+                            "description": "application/dif+xml"
+                        }
+                    ],
+                    "name": "DIFParser",
+                    "description": "org.apache.tika.parser.dif.DIFParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "162.61",
+                            "name": "audio/mpeg",
+                            "description": "audio/mpeg"
+                        }
+                    ],
+                    "name": "Mp3Parser",
+                    "description": "org.apache.tika.parser.mp3.Mp3Parser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "application/x-grib",
+                            "description": "application/x-grib"
+                        },
+                        {
+                            "size": 0.0,
+                            "name": "application/fits",
+                            "description": "application/fits"
+                        }
+                    ],
+                    "name": "GDALParser",
+                    "description": "org.apache.tika.parser.gdal.GDALParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "3158.55",
+                            "name": "application/rss+xml",
+                            "description": "application/rss+xml"
+                        },
+                        {
+                            "size": "1351.20",
+                            "name": "application/atom+xml",
+                            "description": "application/atom+xml"
+                        }
+                    ],
+                    "name": "FeedParser",
+                    "description": "org.apache.tika.parser.feed.FeedParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "41387.74",
+                            "name": "application/msword",
+                            "description": "application/msword"
+                        },
+                        {
+                            "size": "6891.28",
+                            "name": "application/x-tika-msoffice",
+                            "description": "application/x-tika-msoffice"
+                        },
+                        {
+                            "size": "23428.66",
+                            "name": "application/vnd.ms-excel",
+                            "description": "application/vnd.ms-excel"
+                        }
+                    ],
+                    "name": "OfficeParser",
+                    "description": "org.apache.tika.parser.microsoft.OfficeParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "image/vnd.adobe.photoshop",
+                            "description": "image/vnd.adobe.photoshop"
+                        }
+                    ],
+                    "name": "PSDParser",
+                    "description": "org.apache.tika.parser.image.PSDParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "27350.68",
+                            "name": "application/zip",
+                            "description": "application/zip"
+                        },
+                        {
+                            "size": 28498.0,
+                            "name": "application/x-debian-package",
+                            "description": "application/x-debian-package"
+                        },
+                        {
+                            "size": "23749.17",
+                            "name": "application/x-gtar",
+                            "description": "application/x-gtar"
+                        },
+                        {
+                            "size": "46260.43",
+                            "name": "application/x-tar",
+                            "description": "application/x-tar"
+                        }
+                    ],
+                    "name": "PackageParser",
+                    "description": "org.apache.tika.parser.pkg.PackageParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "audio/x-wav",
+                            "description": "audio/x-wav"
+                        },
+                        {
+                            "size": 0.0,
+                            "name": "audio/basic",
+                            "description": "audio/basic"
+                        },
+                        {
+                            "size": 0.0,
+                            "name": "audio/x-aiff",
+                            "description": "audio/x-aiff"
+                        }
+                    ],
+                    "name": "AudioParser",
+                    "description": "org.apache.tika.parser.audio.AudioParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 82.0,
+                            "name": "audio/x-flac",
+                            "description": "audio/x-flac"
+                        }
+                    ],
+                    "name": "FlacParser",
+                    "description": "org.gagravarr.tika.FlacParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "image/vnd.microsoft.icon",
+                            "description": "image/vnd.microsoft.icon"
+                        },
+                        {
+                            "size": 0.0,
+                            "name": "image/x-xcf",
+                            "description": "image/x-xcf"
+                        }
+                    ],
+                    "name": "ImageParser",
+                    "description": "org.apache.tika.parser.image.ImageParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "video/x-m4v",
+                            "description": "video/x-m4v"
+                        },
+                        {
+                            "size": "0.06",
+                            "name": "video/quicktime",
+                            "description": "video/quicktime"
+                        },
+                        {
+                            "size": "22.61",
+                            "name": "audio/mp4",
+                            "description": "audio/mp4"
+                        }
+                    ],
+                    "name": "MP4Parser",
+                    "description": "org.apache.tika.parser.mp4.MP4Parser"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "size": "12.71",
+                                    "name": "image/tiff",
+                                    "description": "image/tiff"
+                                }
+                            ],
+                            "name": "TiffParser",
+                            "description": "org.apache.tika.parser.image.TiffParser"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "size": "25.57",
+                                    "name": "image/gif",
+                                    "description": "image/gif"
+                                },
+                                {
+                                    "size": "0.87",
+                                    "name": "image/x-ms-bmp",
+                                    "description": "image/x-ms-bmp"
+                                },
+                                {
+                                    "size": "35.37",
+                                    "name": "image/png",
+                                    "description": "image/png"
+                                }
+                            ],
+                            "name": "ImageParser",
+                            "description": "org.apache.tika.parser.image.ImageParser"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "size": "20.26",
+                                    "name": "image/jpeg",
+                                    "description": "image/jpeg"
+                                }
+                            ],
+                            "name": "JpegParser",
+                            "description": "org.apache.tika.parser.jpeg.JpegParser"
+                        }
+                    ],
+                    "name": "TesseractOCRParser",
+                    "description": "org.apache.tika.parser.ocr.TesseractOCRParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 0.0,
+                            "name": "application/x-hdf",
+                            "description": "application/x-hdf"
+                        }
+                    ],
+                    "name": "HDFParser",
+                    "description": "org.apache.tika.parser.hdf.HDFParser"
+                },
+                {
+                    "children": [
+                        {
+                            "size": "3502.19",
+                            "name": "application/rtf",
+                            "description": "application/rtf"
+                        }
+                    ],
+                    "name": "RTFParser",
+                    "description": "org.apache.tika.parser.rtf.RTFParser"
+                }
+            ],
+            "name": "DefaultParser",
+            "description": "org.apache.tika.parser.DefaultParser"
+        },
+        {
+            "children": [
+                {
+                    "size": 0.0,
+                    "name": "application/x-rpm",
+                    "description": "application/x-rpm"
+                },
+                {
+                    "size": 0.0,
+                    "name": "video/x-ms-asf",
+                    "description": "video/x-ms-asf"
+                },
+                {
+                    "size": 0.0,
+                    "name": "video/mpeg",
+                    "description": "video/mpeg"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/octet-stream",
+                    "description": "application/octet-stream"
+                },
+                {
+                    "size": 0.0,
+                    "name": "audio/x-mpegurl",
+                    "description": "audio/x-mpegurl"
+                },
+                {
+                    "size": 0.0,
+                    "name": "audio/x-ms-wma",
+                    "description": "audio/x-ms-wma"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-matroska",
+                    "description": "application/x-matroska"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-sqlite3",
+                    "description": "application/x-sqlite3"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-bittorrent",
+                    "description": "application/x-bittorrent"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-stuffit",
+                    "description": "application/x-stuffit"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-elc",
+                    "description": "application/x-elc"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-msmetafile",
+                    "description": "application/x-msmetafile"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-lha",
+                    "description": "application/x-lha"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/vnd.rn-realmedia",
+                    "description": "application/vnd.rn-realmedia"
+                },
+                {
+                    "size": 0.0,
+                    "name": "video/x-ms-wmv",
+                    "description": "video/x-ms-wmv"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/postscript",
+                    "description": "application/postscript"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-shockwave-flash",
+                    "description": "application/x-shockwave-flash"
+                },
+                {
+                    "size": 0.0,
+                    "name": "application/x-tika-ooxml",
+                    "description": "application/x-tika-ooxml"
+                }
+            ],
+            "name": "EmptyParser",
+            "description": "org.apache.tika.parser.EmptyParser"
+        }
+    ],
+    "name": "parsers",
+    "description": "parser hierarchy"
+}
