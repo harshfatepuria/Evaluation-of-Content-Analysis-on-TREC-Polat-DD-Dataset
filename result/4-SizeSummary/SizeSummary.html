@@ -85,7 +85,7 @@ var tip = d3.tip()
   .offset([-10, 0])
   .html(function(d) {
     /* return "Frequency:</strong> <span style='color:red'>" + d.mean + "</span>"; */
-	return "<strong>Type</strong>:  " + d.name + "<br/>" +
+	return "<strong>Type</strong>:  " + d.type + "<br/>" +
 			"<strong>Count</strong>:  " + d.count + "<br/>" +
 			"<strong>Average</strong>:  " + d.mean.toFixed(2) + "<br/>" +
 			"<strong>Range</strong>:  " + "[" + d.min + ", " + d.max + "]";
@@ -101,7 +101,7 @@ var svg = d3.select("body").append("svg")
 svg.call(tip);
 
 d3.json("sizeSummary.json", function(error, data) {
-  x.domain(data.map(function(d) { return d.name; }));
+  x.domain(data.map(function(d) { return d.type; }));
   y.domain([0, d3.max(data, function(d) { return d.mean; }) * 1.1]);
 
   svg.append("g")
@@ -130,7 +130,7 @@ d3.json("sizeSummary.json", function(error, data) {
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x(d.name); })
+      .attr("x", function(d) { return x(d.type); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.mean); })
       .attr("height", function(d) { return height - y(d.mean) + 1; })
