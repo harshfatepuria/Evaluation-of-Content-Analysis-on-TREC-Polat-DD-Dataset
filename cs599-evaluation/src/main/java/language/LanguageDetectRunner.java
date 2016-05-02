@@ -4,11 +4,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.net.URI;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -32,17 +29,22 @@ import com.optimaize.langdetect.text.CommonTextObjectFactories;
 import com.optimaize.langdetect.text.TextObject;
 import com.optimaize.langdetect.text.TextObjectFactory;
 
+import shared.CommandLineHelper;
+
 public class LanguageDetectRunner {
 	public static void main(String[] args) throws TikaException, IOException, SAXException {
 		System.out.println("Run LanguageDetection");
 		TikaConfig config = new TikaConfig(LanguageDetectRunner.class.getResourceAsStream("/config/tika-config.xml"));
 		Tika tika = new Tika(config);
 		
-		Map<String, Integer> langCount = new HashMap<>();
-		Map<String, List<String>> langPath = new HashMap<>();
+		Map<String, Integer> langCountTika = new HashMap<>();
+		Map<String, Integer> langCountLd = new HashMap<>();
 		
-		String baseFolder = "C:\\cs599\\polar-fulldump\\";
-		baseFolderUri = Paths.get(baseFolder).toUri();
+		String baseFolder = CommandLineHelper.getArg(args, 0, "C:\\cs599\\polar-fulldump\\");
+		String resultFolder = CommandLineHelper.getArg(args, 1, "C:\\cs599\\a3\\language\\compare\\");
+		
+		String sizeThresholdString = CommandLineHelper.getArg(args, 2, "-1");
+		Integer sizeThreshold = Integer.parseInt(sizeThresholdString);
 		
 		prepareLanguageDetector();
 		
@@ -53,7 +55,8 @@ public class LanguageDetectRunner {
 	                System.out.println("Shutting down ...");
 
 	                try {
-						writeJson(langCount, langPath);
+						writeJson(langCountTika, resultFolder, "Tika");
+						writeJson(langCountLd, resultFolder, "Optimaize");
 					} catch (FileNotFoundException e) {
 						// TODO Auto-generated catch block
 						e.printStackTrace();
@@ -67,22 +70,35 @@ public class LanguageDetectRunner {
 		
 		Files.walk(Paths.get(baseFolder)).filter(Files::isRegularFile).forEach(path -> {
 			try {
+				if (path.toFile().length() > 1024*1024) {
+					return;
+				}
+				
 				String text = tika.parseToString(path);
-				String lang = detectWithLanguageDetector(text);
 				
-				appendCount(langCount, lang);
+				if (text.length() < sizeThreshold) {
+					return;
+				}
 				
+				String langLd = detectWithLanguageDetector(text);
+				appendCount(langCountLd, langLd);
+				
+				String langTika = detectWithTika(text);
+				appendCount(langCountTika, langTika);
+				
+				/*
 				if (!"en".equals(lang)) {
 					String relativePath = getRelativePath(path);
 					appendPath(langPath, lang, relativePath);
 				}
+				*/
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 //				e.printStackTrace();
 			}
 			
-			if (langCount.get("en") != null && langCount.get("en") % 2000 == 0) {
-				System.out.println("en detected " + langCount.get("en"));
+			if (langCountLd.get("en") != null && langCountLd.get("en") % 2000 == 0) {
+				System.out.println("en detected " + langCountLd.get("en"));
 			}
 		});
 		
@@ -120,24 +136,13 @@ public class LanguageDetectRunner {
 		}
 	}
 	
-	private static void writeJson(Map<String, Integer> langCount, Map<String, List<String>> langPath) throws FileNotFoundException {
-		String resultFolder = "C:\\cs599\\a3\\language\\";
+	private static void writeJson(Map<String, Integer> langCount, String resultFolder, String name) throws FileNotFoundException {
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		String countJson = gson.toJson(langCount);
 		
-		try(PrintWriter out = new PrintWriter(new File(resultFolder, "lang_count.json"))) {
+		try(PrintWriter out = new PrintWriter(new File(resultFolder, name +".json"))) {
 			out.print(countJson);
 		}
-		
-		String pathJson = gson.toJson(langPath);
-		try(PrintWriter out = new PrintWriter(new File(resultFolder, "lang_path.json"))) {
-			out.print(pathJson);
-		}
-	}
-	
-	static URI baseFolderUri;
-	private static String getRelativePath(Path path) {
-		return baseFolderUri.relativize(path.toUri()).toString();
 	}
 	
 	private static void appendCount(Map<String, Integer> map, String lang) {
@@ -148,6 +153,12 @@ public class LanguageDetectRunner {
 		}
 	}
 	
+	/*
+	static URI baseFolderUri;
+	private static String getRelativePath(Path path) {
+		return baseFolderUri.relativize(path.toUri()).toString();
+	}
+	
 	private static void appendPath(Map<String, List<String>> map, String lang, String path) {
 		if (!map.containsKey(lang)) {
 			map.put(lang, new ArrayList<>());
@@ -155,4 +166,5 @@ public class LanguageDetectRunner {
 		
 		map.get(lang).add(path);
 	}
+	*/
 }
