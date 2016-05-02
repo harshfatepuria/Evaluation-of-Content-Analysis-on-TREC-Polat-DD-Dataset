@@ -28,7 +28,6 @@ public class SizeSummaryRunner {
 		Map<String, Integer> sizeCount = new HashMap<>();
 		Map<String, List<Integer>> sizeList = new HashMap<>();
 		
-//		String baseFolder = "D:\\cs599\\commoncrawl\\crawl\\572-team34-nsidc\\org\\aoncadis\\www";
 		String baseFolder = "D:\\cs599\\commoncrawl\\crawl\\";
 		
 		Runtime.getRuntime().addShutdownHook(new Thread() {

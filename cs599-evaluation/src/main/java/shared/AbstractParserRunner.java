@@ -105,14 +105,7 @@ public abstract class AbstractParserRunner {
 					boolean success = false;
 					
 					if (cborDoc != null) {
-						success = parse(path, relativePath, resultFile, cborDoc);
-						
-//						if (resultFile.exists()) {
-//							File out = new File(getResultFolder(), cborDoc.getRelativePath());
-//							out.getParentFile().mkdirs();
-//							FileOutputStream fo = new FileOutputStream(out);
-//							IOUtils.copy(cborDoc.getInputStream(), fo);
-//						}						
+						success = parse(path, relativePath, resultFile, cborDoc);											
 					} else {
 						success = parse(path, relativePath, resultFile);
 					}

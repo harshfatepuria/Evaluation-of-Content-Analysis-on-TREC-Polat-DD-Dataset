@@ -133,6 +133,12 @@ public class CCADetailParser extends TikaExtractedTextBasedParser {
 		
 	}
 	
+	/**
+	 * Get keywords from the URL, by tokenizing the path after host name
+	 * @param urlString
+	 * @return list of extract keywords
+	 * @throws MalformedURLException
+	 */
 	private List<String> getUrlKeywords(String urlString) throws MalformedURLException {
 		List<String> keywords = new ArrayList<>();
 		URL url = new URL(urlString);

@@ -7,8 +7,6 @@ import java.io.InputStream;
 import java.nio.file.Path;
 import java.util.List;
 
-import org.apache.tika.Tika;
-import org.apache.tika.config.TikaConfig;
 import org.apache.tika.exception.TikaException;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.parser.ParseContext;
@@ -18,6 +16,7 @@ import org.xml.sax.SAXException;
 
 import cbor.CborDocument;
 import shared.AbstractParserRunner;
+import shared.CommandLineHelper;
 import shared.TypeJsonPathSupplier;
 
 public class NERAgreementParserRunner extends AbstractParserRunner {
@@ -71,16 +70,15 @@ public class NERAgreementParserRunner extends AbstractParserRunner {
 	public static void main(String[] args) throws Exception {
 		System.out.println("Run NERAgreementParserRunner");
 		
-		String baseFolder = "C:\\cs599\\polar-fulldump\\";
-		String resultFolder = "C:\\cs599\\a3\\ner\\result";
-		String markerFile = "C:\\cs599\\a3\\ner\\marker.txt";
-		String jsonFolder = "C:\\cs599\\polar-json\\byType";
+		String baseFolder = CommandLineHelper.getArg(args, 0, "C:\\cs599\\polar-fulldump\\");
+		String resultFolder = CommandLineHelper.getArg(args, 1, "C:\\cs599\\a3\\ner\\result");
+		String markerFile = CommandLineHelper.getArg(args, 2, "C:\\cs599\\a3\\ner\\marker.txt");
+		String jsonFolder = CommandLineHelper.getArg(args, 3, "C:\\cs599\\polar-json\\byType");
 		
 		TypeJsonPathSupplier pathSupplier = new TypeJsonPathSupplier(baseFolder, jsonFolder, 1500);
 		NERAgreementParserRunner runner = new NERAgreementParserRunner(baseFolder, resultFolder, markerFile);
 		runner.setPathSupplier(pathSupplier);
 		runner.getParser().setMinThreshold(6);
-//		runner.setFileSizeLimit(1024*1024l);
 		
 		List<String> successPath = runner.runParser();
 		System.out.println("No of files: " + successPath.size());

@@ -38,6 +38,10 @@ public class CborDocument {
 		this.fileName = fname;
 	}
 	
+	/**
+	 * Get relative path for the document by using defined key 
+	 * @return relative path for the document
+	 */
 	public String getRelativePath() {
 		String[] tokens = key.split("_");
 		StringBuilder sb = new StringBuilder();
@@ -132,17 +136,5 @@ class Response {
 	
 	private String prepareString(String b) {
 		return b;
-//		return StringEscapeUtils.unescapeJava(b);
-		
-		/*
-		Properties p = new Properties();
-		try {
-			p.load(new StringReader("key="+b));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		
-		return p.getProperty("key");
-		*/
 	}
 }

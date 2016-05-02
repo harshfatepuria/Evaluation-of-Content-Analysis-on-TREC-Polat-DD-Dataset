@@ -2,7 +2,6 @@ package ner;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -45,11 +44,16 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 	private static final long serialVersionUID = -6824313974934932644L;
 	private boolean showIndividualNER = true;
 	private Integer minThreshold = 6;
+	private boolean useTTR = false;
 	
 	public boolean isShowIndividualNER() {
 		return showIndividualNER;
 	}
 
+	/**
+	 * Set whether to export all NER extracted by each recognizer
+	 * @param showIndividualNER
+	 */
 	public void setShowIndividualNER(boolean showIndividualNER) {
 		this.showIndividualNER = showIndividualNER;
 	}
@@ -58,17 +62,36 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 		return minThreshold;
 	}
 
+	/**
+	 * Set the minimum amount of NER that should be extracted by NER Agreement
+	 * @param minThreshold
+	 */
 	public void setMinThreshold(Integer minThreshold) {
 		this.minThreshold = minThreshold;
+	}
+	
+	public boolean isUseTTR() {
+		return useTTR;
+	}
+
+	/**
+	 * Set whether to use TTR Analysis with extracted text before doing NER
+	 * @param useTTR
+	 */
+	public void setUseTTR(boolean useTTR) {
+		this.useTTR = useTTR;
 	}
 
 	public void parse(InputStream inputStream, ContentHandler contentHandler, Metadata metadata,
 			ParseContext parseContext) throws IOException, SAXException, TikaException {
 
 		String text = "";
-//		String text = TTRAnalysis.getRelevantText(inputStream, metadata).trim();
 		try {
-			text = getParsedText(inputStream, metadata).trim();
+			if (isUseTTR()) {
+				text = TTRAnalysis.getRelevantText(inputStream, metadata).trim();
+			} else {
+				text = getParsedText(inputStream, metadata).trim();
+			}
 		}
 		catch (Exception e) {
 			return;
@@ -111,6 +134,11 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 		}
 	}
 	
+	/**
+	 * Extract the NER Agreement from all of the recognizers
+	 * @param metadata
+	 * @param maps
+	 */
 	private void extractNERAgreement(Metadata metadata, Map<String, Set<String>>... maps) {
 		Set<String>[] flattenSets = new Set[maps.length];
 		for(int i = 0;i < maps.length; i++) {
