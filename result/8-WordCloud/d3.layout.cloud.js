@@ -2,7 +2,7 @@
 // Algorithm due to Jonathan Feinberg, http://static.mrfeinberg.com/bv_ch03.pdf
 (function(exports) {
     function cloud() {
-        var size = [700, 700],
+        var size = [200, 200],
             text = cloudText,
             font = cloudFont,
             fontSize = cloudFontSize,
@@ -205,7 +205,7 @@
     }
 
     function cloudFontSize(d) {
-        return Math.sqrt(d.value);
+        return Math.sqrt(d.value)/5;
     }
 
     function cloudRotate() {
