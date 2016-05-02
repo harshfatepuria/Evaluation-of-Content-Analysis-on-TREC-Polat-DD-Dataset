@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
-<title>Bar Chart</title>
+<title>GrobidQuantityNER</title>
 <style>
 
 .bar--positive {
@@ -49,8 +49,8 @@ $.getJSON(fileName, function(json) {
 
         //COMPANDING
         v=parseFloat(count/parseFloat(max));
-        v=Math.log(1+(255*v))/Math.log(256);
-        data.push({name: i,compandedValue:v ,value:count});
+        v=parseFloat(Math.log(1+(255*v)))/parseFloat(Math.log(256));
+        data.push({name: i,compandedValue:count ,value:count});
   });
 
 
@@ -68,6 +68,9 @@ var y = d3.scale.ordinal()
     .rangeRoundBands([0, height], 0.1);
 
 var xAxis = d3.svg.axis()
+    .scale(x1)
+    .orient("top");
+var x1Axis = d3.svg.axis()
     .scale(x1)
     .orient("bottom");
 
@@ -99,8 +102,11 @@ x.domain(d3.extent(data, function(d) { return d.compandedValue; })).nice();
 
   svg.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
       .call(xAxis);
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0,"+height+")")
+      .call(x1Axis);
 
   svg.append("g")
       .attr("class", "y axis")
