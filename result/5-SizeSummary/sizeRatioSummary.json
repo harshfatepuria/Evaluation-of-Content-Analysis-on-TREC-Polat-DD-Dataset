@@ -1,0 +1,602 @@
+[
+    {
+        "allFileSize": 27911.0, 
+        "ratio": 3.582816810576475e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/atom%2Bxml.json"
+    }, 
+    {
+        "allFileSize": 15906.0, 
+        "ratio": 6.28693574751666e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/dif%2Bxml.json"
+    }, 
+    {
+        "allFileSize": 928.0, 
+        "ratio": 0.0010775862068965517, 
+        "solrFileSize": 1.0, 
+        "type": "application/dita%2Bxml%3B+format%3Dconcept.json"
+    }, 
+    {
+        "allFileSize": 58131.0, 
+        "ratio": 1.720252533071855e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/epub%2Bzip.json"
+    }, 
+    {
+        "allFileSize": 12555.0, 
+        "ratio": 7.964954201513341e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/fits.json"
+    }, 
+    {
+        "allFileSize": 64741.0, 
+        "ratio": 1.5446162400951483e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/gzip.json"
+    }, 
+    {
+        "allFileSize": 65427.0, 
+        "ratio": 1.528420988277011e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/java-vm.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/msword.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/msword.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/ogg.json"
+    }, 
+    {
+        "allFileSize": 50658.0, 
+        "ratio": 1.9740218721623435e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/pdf.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/postscript.json"
+    }, 
+    {
+        "allFileSize": 12904.0, 
+        "ratio": 7.749535027898326e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/rdf%2Bxml.json"
+    }, 
+    {
+        "allFileSize": 2584.0, 
+        "ratio": 0.0003869969040247678, 
+        "solrFileSize": 1.0, 
+        "type": "application/rss%2Bxml.json"
+    }, 
+    {
+        "allFileSize": 1253184.0, 
+        "ratio": 7.979674173944129e-07, 
+        "solrFileSize": 1.0, 
+        "type": "application/rtf.json"
+    }, 
+    {
+        "allFileSize": 51745.0, 
+        "ratio": 1.9325538699391246e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/vnd.google-earth.kml%2Bxml.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/vnd.ms-excel.json"
+    }, 
+    {
+        "allFileSize": 12338.0, 
+        "ratio": 8.105041335710812e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/vnd.ms-excel.sheet.4.json"
+    }, 
+    {
+        "allFileSize": 61724.0, 
+        "ratio": 1.6201153522130775e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/vnd.ms-htmlhelp.json"
+    }, 
+    {
+        "allFileSize": 62295.0, 
+        "ratio": 1.6052652700858816e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/vnd.oasis.opendocument.presentation.json"
+    }, 
+    {
+        "allFileSize": 18246.0, 
+        "ratio": 5.4806532938726295e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/vnd.oasis.opendocument.text.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/vnd.rn-realmedia.json"
+    }, 
+    {
+        "allFileSize": 6876.0, 
+        "ratio": 0.00014543339150668993, 
+        "solrFileSize": 1.0, 
+        "type": "application/vnd.sun.xml.writer.json"
+    }, 
+    {
+        "allFileSize": 62920.0, 
+        "ratio": 1.589319771137953e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-7z-compressed.json"
+    }, 
+    {
+        "allFileSize": 1965.0, 
+        "ratio": 0.0005089058524173028, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-bibtex-text-file.json"
+    }, 
+    {
+        "allFileSize": 858.0, 
+        "ratio": 0.0011655011655011655, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-bittorrent.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-bzip.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-bzip2.json"
+    }, 
+    {
+        "allFileSize": 3853896.0, 
+        "ratio": 2.594776818056325e-07, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-compress.json"
+    }, 
+    {
+        "allFileSize": 59442.0, 
+        "ratio": 1.6823121698462368e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-debian-package.json"
+    }, 
+    {
+        "allFileSize": 2177.0, 
+        "ratio": 0.00045934772622875517, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-elc.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-executable.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-font-ttf.json"
+    }, 
+    {
+        "allFileSize": 5568.0, 
+        "ratio": 0.00017959770114942528, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-grib.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-gtar.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 1.52587890625e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-hdf.json"
+    }, 
+    {
+        "allFileSize": 12247069.0, 
+        "ratio": 8.165218959736408e-08, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-java-jnilib.json"
+    }, 
+    {
+        "allFileSize": 63218.0, 
+        "ratio": 1.581827960391028e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-lha.json"
+    }, 
+    {
+        "allFileSize": 64168.0, 
+        "ratio": 1.5584091759132277e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-matroska.json"
+    }, 
+    {
+        "allFileSize": 63897.0, 
+        "ratio": 1.5650187019734884e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-msdownload%3B+format%3Dpe.json"
+    }, 
+    {
+        "allFileSize": 63770.0, 
+        "ratio": 1.5681354869060686e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-msdownload%3B+format%3Dpe32.json"
+    }, 
+    {
+        "allFileSize": 59037.0, 
+        "ratio": 1.6938530074360148e-05, 
+        "solrFileSize": 1.0, 
+        "type": "application/x-msdownload.json"
+    }, 
+    {
+        "allFileSize": 5920.0, 
+        "ratio": 0.002027027027027027, 
+        "solrFileSize": 12.0, 
+        "type": "application/x-msmetafile.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.00018310546875, 
+        "solrFileSize": 12.0, 
+        "type": "application/x-rar-compressed.json"
+    }, 
+    {
+        "allFileSize": 65277.0, 
+        "ratio": 0.002037471084761861, 
+        "solrFileSize": 133.0, 
+        "type": "application/x-rpm.json"
+    }, 
+    {
+        "allFileSize": 1797.0, 
+        "ratio": 0.05564830272676683, 
+        "solrFileSize": 100.0, 
+        "type": "application/x-sh.json"
+    }, 
+    {
+        "allFileSize": 4603.0, 
+        "ratio": 0.026721703237019334, 
+        "solrFileSize": 123.0, 
+        "type": "application/x-shockwave-flash.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0018768310546875, 
+        "solrFileSize": 123.0, 
+        "type": "application/x-sqlite3.json"
+    }, 
+    {
+        "allFileSize": 64604.0, 
+        "ratio": 0.0019039068788310322, 
+        "solrFileSize": 123.0, 
+        "type": "application/x-stuffit.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "application/x-tar.json"
+    }, 
+    {
+        "allFileSize": 20932.0, 
+        "ratio": 0.005876170456716988, 
+        "solrFileSize": 123.0, 
+        "type": "application/x-tex.json"
+    }, 
+    {
+        "allFileSize": 31744.0, 
+        "ratio": 0.00040952620967741937, 
+        "solrFileSize": 13.0, 
+        "type": "application/x-tika-msoffice.json"
+    }, 
+    {
+        "allFileSize": 47416.0, 
+        "ratio": 0.0002741690568584444, 
+        "solrFileSize": 13.0, 
+        "type": "application/x-tika-ooxml.json"
+    }, 
+    {
+        "allFileSize": 59040.0, 
+        "ratio": 0.00022018970189701897, 
+        "solrFileSize": 13.0, 
+        "type": "application/x-xz.json"
+    }, 
+    {
+        "allFileSize": 55120.0, 
+        "ratio": 0.0002358490566037736, 
+        "solrFileSize": 13.0, 
+        "type": "application/xhtml%2Bxml.json"
+    }, 
+    {
+        "allFileSize": 770.0, 
+        "ratio": 0.016883116883116882, 
+        "solrFileSize": 13.0, 
+        "type": "application/xml.json"
+    }, 
+    {
+        "allFileSize": 23297.0, 
+        "ratio": 0.0005580117611709662, 
+        "solrFileSize": 13.0, 
+        "type": "application/xslt%2Bxml.json"
+    }, 
+    {
+        "allFileSize": 23220.0, 
+        "ratio": 0.0005598621877691645, 
+        "solrFileSize": 13.0, 
+        "type": "application/zip.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "application/zlib.json"
+    }, 
+    {
+        "allFileSize": 63170.0, 
+        "ratio": 0.00020579388950451165, 
+        "solrFileSize": 13.0, 
+        "type": "audio/basic.json"
+    }, 
+    {
+        "allFileSize": 63239.0, 
+        "ratio": 0.00020556934802890621, 
+        "solrFileSize": 13.0, 
+        "type": "audio/mp4.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "audio/mpeg.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "audio/vorbis.json"
+    }, 
+    {
+        "allFileSize": 63466.0, 
+        "ratio": 0.00020483408439164277, 
+        "solrFileSize": 13.0, 
+        "type": "audio/x-aiff.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "audio/x-flac.json"
+    }, 
+    {
+        "allFileSize": 105.0, 
+        "ratio": 0.12380952380952381, 
+        "solrFileSize": 13.0, 
+        "type": "audio/x-mpegurl.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "audio/x-ms-wma.json"
+    }, 
+    {
+        "allFileSize": 46122.0, 
+        "ratio": 0.0002818611508607606, 
+        "solrFileSize": 13.0, 
+        "type": "audio/x-wav.json"
+    }, 
+    {
+        "allFileSize": 43.0, 
+        "ratio": 0.3023255813953488, 
+        "solrFileSize": 13.0, 
+        "type": "image/gif.json"
+    }, 
+    {
+        "allFileSize": 59622.0, 
+        "ratio": 0.00021804032068699475, 
+        "solrFileSize": 13.0, 
+        "type": "image/jpeg.json"
+    }, 
+    {
+        "allFileSize": 62780.0, 
+        "ratio": 0.00020707231602421153, 
+        "solrFileSize": 13.0, 
+        "type": "image/png.json"
+    }, 
+    {
+        "allFileSize": 1030.0, 
+        "ratio": 0.01262135922330097, 
+        "solrFileSize": 13.0, 
+        "type": "image/svg%2Bxml.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "image/tiff.json"
+    }, 
+    {
+        "allFileSize": 65447.0, 
+        "ratio": 0.00019863400919828257, 
+        "solrFileSize": 13.0, 
+        "type": "image/vnd.adobe.photoshop.json"
+    }, 
+    {
+        "allFileSize": 64697.0, 
+        "ratio": 0.00020093667403434473, 
+        "solrFileSize": 13.0, 
+        "type": "image/vnd.dwg.json"
+    }, 
+    {
+        "allFileSize": 894.0, 
+        "ratio": 0.0145413870246085, 
+        "solrFileSize": 13.0, 
+        "type": "image/vnd.microsoft.icon.json"
+    }, 
+    {
+        "allFileSize": 11860.0, 
+        "ratio": 0.0010961214165261383, 
+        "solrFileSize": 13.0, 
+        "type": "image/x-bpg.json"
+    }, 
+    {
+        "allFileSize": 61076.0, 
+        "ratio": 0.000212849564477045, 
+        "solrFileSize": 13.0, 
+        "type": "image/x-ms-bmp.json"
+    }, 
+    {
+        "allFileSize": 7099.0, 
+        "ratio": 0.0018312438371601634, 
+        "solrFileSize": 13.0, 
+        "type": "image/x-xcf.json"
+    }, 
+    {
+        "allFileSize": 1014.0, 
+        "ratio": 0.01282051282051282, 
+        "solrFileSize": 13.0, 
+        "type": "message/rfc822.json"
+    }, 
+    {
+        "allFileSize": 18220.0, 
+        "ratio": 0.0007135016465422612, 
+        "solrFileSize": 13.0, 
+        "type": "message/x-emlx.json"
+    }, 
+    {
+        "allFileSize": 16799.0, 
+        "ratio": 0.000773855586642062, 
+        "solrFileSize": 13.0, 
+        "type": "text/html.json"
+    }, 
+    {
+        "allFileSize": 3559.0, 
+        "ratio": 0.003652711435796572, 
+        "solrFileSize": 13.0, 
+        "type": "text/plain.json"
+    }, 
+    {
+        "allFileSize": 4715.0, 
+        "ratio": 0.002757158006362672, 
+        "solrFileSize": 13.0, 
+        "type": "text/troff.json"
+    }, 
+    {
+        "allFileSize": 3714.0, 
+        "ratio": 0.0035002692514808833, 
+        "solrFileSize": 13.0, 
+        "type": "text/x-csrc.json"
+    }, 
+    {
+        "allFileSize": 2845.0, 
+        "ratio": 0.0045694200351493845, 
+        "solrFileSize": 13.0, 
+        "type": "text/x-diff.json"
+    }, 
+    {
+        "allFileSize": 14939.0, 
+        "ratio": 0.0008702055023763304, 
+        "solrFileSize": 13.0, 
+        "type": "text/x-jsp.json"
+    }, 
+    {
+        "allFileSize": 18847.0, 
+        "ratio": 0.0006897649493288056, 
+        "solrFileSize": 13.0, 
+        "type": "text/x-matlab.json"
+    }, 
+    {
+        "allFileSize": 1141.0, 
+        "ratio": 0.011393514460999123, 
+        "solrFileSize": 13.0, 
+        "type": "text/x-perl.json"
+    }, 
+    {
+        "allFileSize": 29465.0, 
+        "ratio": 0.0004412014254199898, 
+        "solrFileSize": 13.0, 
+        "type": "text/x-php.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "text/x-python.json"
+    }, 
+    {
+        "allFileSize": 301.0, 
+        "ratio": 0.04318936877076412, 
+        "solrFileSize": 13.0, 
+        "type": "text/x-vcard.json"
+    }, 
+    {
+        "allFileSize": 63125.0, 
+        "ratio": 0.00020594059405940594, 
+        "solrFileSize": 13.0, 
+        "type": "video/mp4.json"
+    }, 
+    {
+        "allFileSize": 65350.0, 
+        "ratio": 0.00019892884468247895, 
+        "solrFileSize": 13.0, 
+        "type": "video/mpeg.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "video/quicktime.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "video/x-flv.json"
+    }, 
+    {
+        "allFileSize": 57564.0, 
+        "ratio": 0.00022583559168925022, 
+        "solrFileSize": 13.0, 
+        "type": "video/x-m4v.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "video/x-ms-asf.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "video/x-ms-wmv.json"
+    }, 
+    {
+        "allFileSize": 65536.0, 
+        "ratio": 0.0001983642578125, 
+        "solrFileSize": 13.0, 
+        "type": "video/x-msvideo.json"
+    }
+]

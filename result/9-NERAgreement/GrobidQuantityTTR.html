@@ -83,7 +83,6 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-
 x1.domain(d3.extent(data, function(d) { return d.value; })).nice();
 
 x.domain(d3.extent(data, function(d) { return d.compandedValue; })).nice();
