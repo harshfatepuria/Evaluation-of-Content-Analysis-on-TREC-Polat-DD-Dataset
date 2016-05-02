@@ -41,7 +41,7 @@ $.getJSON(fileName, function(json) {
         else
         {
           current=parseInt(field);
-          current=parseInt((Math.log(current)*6));
+          current=parseInt((Math.log(current)*5)) + 10;
           frequency_list.push({text: prev, size: current});
         } 
         });
