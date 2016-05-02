@@ -23,6 +23,8 @@ html {
 }
 </style>
 <body>
+<h2 style="font-family: sans-serif;">Parser Heirarchy vs Size of Metadata Retrieved Ratio by Type </h2>
+<div id="d3"></div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -34,7 +36,7 @@ function filter_min_arc_size_text(d, i) {return (d.dx*d.depth*radius/3)>14};
 var hue = d3.scale.category10();
 
 var luminance = d3.scale.sqrt()
-    .domain([0, 1e6])
+    .domain([0, 40])
     .clamp(true)
     .range([90, 20]);
 
@@ -55,7 +57,7 @@ var arc = d3.svg.arc()
     .outerRadius(function(d) { return radius / 3 * (d.depth + 1) - 1; });
 
 //Tooltip description
-var tooltip = d3.select("body")
+var tooltip = d3.select("#d3")
     .append("div")
     .attr("id", "tooltip")
     .style("position", "absolute")
@@ -63,7 +65,8 @@ var tooltip = d3.select("body")
     .style("opacity", 0);
 
 function format_number(x) {
-  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return x.toFixed(4).toString();
+//  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
 

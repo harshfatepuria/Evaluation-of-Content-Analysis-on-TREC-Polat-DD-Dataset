@@ -20,6 +20,8 @@
 
 </style>
 <body>
+<h2 style="font-family: sans-serif;">URL Keywords that produce most NE vs Extracted NER</h2>
+<div id="d3"></div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -32,7 +34,7 @@ var cluster = d3.layout.cluster()
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#d3").append("svg")
     .attr("width", width)
     .attr("height", height)
   .append("g")

@@ -55,6 +55,8 @@ body {
 }
 </style>
 <body>
+<h1 style="font-family: sans-serif;">File Size Summary</h1>
+<div id="d3"></div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script>
@@ -92,7 +94,7 @@ var tip = d3.tip()
 			
   })
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#d3").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -124,7 +126,7 @@ d3.json("sizeSummary.json", function(error, data) {
 	  .attr("x", -45)
       .attr("dy", ".71em")
       .style("text-anchor", "center")
-      .text("Average File Size");
+      .text("Average File Size (bytes)");
 
   svg.selectAll(".bar")
       .data(data)

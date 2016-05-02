@@ -23,6 +23,8 @@ html {
 }
 </style>
 <body>
+<h2 style="font-family: sans-serif;">Parser Hierarchy vs Document Count by Type</h2>
+<div id="d3"></div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -36,7 +38,7 @@ var hue = d3.scale.category10();
 var luminance = d3.scale.sqrt()
     .domain([0, 1e6])
     .clamp(true)
-    .range([90, 20]);
+    .range([90, 50]);
 
 var svg = d3.select("body").append("svg")
     .attr("width", margin.left + margin.right)
@@ -55,7 +57,7 @@ var arc = d3.svg.arc()
     .outerRadius(function(d) { return radius / 3 * (d.depth + 1) - 1; });
 
 //Tooltip description
-var tooltip = d3.select("body")
+var tooltip = d3.select("#d3")
     .append("div")
     .attr("id", "tooltip")
     .style("position", "absolute")
@@ -63,7 +65,8 @@ var tooltip = d3.select("body")
     .style("opacity", 0);
 
 function format_number(x) {
-  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  return x.toFixed(0).toString();
+//  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
 

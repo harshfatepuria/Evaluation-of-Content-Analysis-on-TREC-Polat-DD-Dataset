@@ -52,6 +52,8 @@ body {
 
 </style>
 <body>
+<h2 style="font-family: sans-serif;">Number of Documents by Detected Language (filter out short documents)</h2>
+<div id="d3"></div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script>
@@ -87,7 +89,7 @@ var tip = d3.tip()
     return "<Strong>Frequency:</strong> <span style='color:cyan'>" + d.value + "</span>";
   })
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#d3").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -95,7 +97,7 @@ var svg = d3.select("body").append("svg")
 
 svg.call(tip);
 	
-d3.csv("languageCompare.csv", function(error, data) {
+d3.csv("languageCompareFilter.csv", function(error, data) {
   if (error) throw error;
 
   var ageNames = d3.keys(data[0]).filter(function(key) { return key !== "Language"; });
