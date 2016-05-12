@@ -248,6 +248,26 @@ public class CompositeNERAgreementParser extends TikaExtractedTextBasedParser {
 		return openNLPRecognizer;
 	}
 	
+	
+	
+	/**
+	 * Get all entities using Grobid Quantity Recognizer
+	 * @param text
+	 * @return
+	 */
+	public Map<String, Set<String>> getEntitiesUsingGrobidQuantity(String text) {
+		Map<String, Set<String>> nerResult = getGrobidQuantityRecogniser().recognise(text);
+		return nerResult;
+	}
+	
+	private GrobidQuantityRecogniser getGrobidQuantityRecogniser() {
+		return new GrobidQuantityRecogniser();
+	}
+	
+	
+	
+	
+	
 	/**
 	 * Get all entities using NLTK NERecognizer
 	 * @param text
