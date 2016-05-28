@@ -34,7 +34,7 @@ Flow of this program (IMPORTANT that you read this in order to build all the req
 
 For queries/ comments/ suggestions/ doubts, contact the collaborators of the project:
 Rahul Agrawal(rahulagr@usc.edu), Harsh Fatepuria(fatepuri@usc.edu), Warut Roadrungwasinkul(roadrung@usc.edu)
-Grad Students, Dept. of CSE, University of Southern California
+Grad Students, Dept. of CSE, University of Southern California, CA 90089
 
 '''
 
